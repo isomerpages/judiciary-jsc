@@ -1,9 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: ABOUT US
-    collection: Example-collection
-  - title: Example Collection
-    collection: Example-collection
+  - title: About Jsc
+    collection: about-jsc
+  - title: About Jsc
+    collection: about-jsc
   - title: Contact Us
     url: /contact-us/
   - title: Resources
