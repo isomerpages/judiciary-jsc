@@ -2,5 +2,6 @@ collections:
   Example-collection:
     output: true
     order:
+      - About JSC.md
       - example-page/.keep
       - example-page/example-subpage.md
