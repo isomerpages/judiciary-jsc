@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - PEN PICTURES OF JSC MEMBERS/About JSC.md
-      - PEN PICTURES OF JSC MEMBERS/.keep
+      - ABOUT JSC/About JSC.md
+      - ABOUT JSC/.keep
