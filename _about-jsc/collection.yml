@@ -1,5 +1,5 @@
 collections:
-  Example-collection:
+  about-jsc:
     output: true
     order:
       - About JSC.md
