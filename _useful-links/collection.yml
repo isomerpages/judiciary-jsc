@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - Legal Resources.md
       - Judicial Service Departments.md
