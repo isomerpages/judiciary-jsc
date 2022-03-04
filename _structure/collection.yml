@@ -1,4 +1,5 @@
 collections:
   structure:
     output: true
-    order: []
+    order:
+      - STRUCTURE OF THE SINGAPORE JUDICIAL SERVICE.md
