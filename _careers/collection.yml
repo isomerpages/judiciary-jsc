@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - A Career with Us/Career Development.md
       - A Career with Us/Benefits.md
       - A Career with Us/Salary & Progression.md
       - A Career with Us/Why Join Us?.md
