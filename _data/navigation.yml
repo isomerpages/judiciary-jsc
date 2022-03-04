@@ -2,9 +2,13 @@ logo: /images/Singapore Judicial Service.png
 links:
   - title: About Us
     collection: about-us
-  - title: About Us
-    collection: about-us
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: Structure
+    collection: structure
+  - title: Careers
+    collection: careers
+  - title: Publications
+    collection: publications
+  - title: Useful Links
+    collection: useful-links
