@@ -26,7 +26,7 @@ sections:
       title: Introduction
       description: Judicial Service Commission (JSC)
       button: More
-      url: /more/
+      url: /About-Us/JSC
   - resources:
       title: Media
       subtitle: Learn more
