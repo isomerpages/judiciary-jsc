@@ -2,6 +2,8 @@ collections:
   careers:
     output: true
     order:
+      - Eligibility for Appointment/Graduates with 5 years’ or less experience
+        or JLC Programme.md
       - Eligibility for Appointment/Eligibility for Appointment as a JSO.md
       - Eligibility for Appointment/.keep
       - A Career with Us/.keep
