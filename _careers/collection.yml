@@ -2,9 +2,9 @@ collections:
   careers:
     output: true
     order:
-      - Join Us Now/Application for an Internship.md
-      - Join Us Now/Appointment as a JSO.md
       - Join Us Now/.keep
+      - Join Us Now/Appointment as a JSO.md
+      - Join Us Now/Application for an Internship.md
       - Internships.md
       - Eligibility for Appointment/.keep
       - Eligibility for Appointment/Eligibility for Appointment as a JSO.md
