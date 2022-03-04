@@ -2,5 +2,5 @@ collections:
   careers:
     output: true
     order:
-      - A Career with Us/WHY JOIN US?.md
+      - A Career with Us/Why Join Us?.md
       - A Career with Us/.keep
