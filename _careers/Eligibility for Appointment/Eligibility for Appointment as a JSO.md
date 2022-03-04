@@ -24,8 +24,7 @@ Mid-career candidates with more than five years of strong relevant legal work ex
 
 5. Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
-		(a) a Personal Statement; and
-		
+		(a) a Personal Statement; and		
 		(b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
 
 6. Please click here for the details on applications for the Justices' Law Clerk Programme.
