@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - ABOUT JSC/PEN PICTURES OF JSC MEMBERS.md
-      - ABOUT JSC/About JSC.md
+      - ABOUT JSC/JSC:.md
       - ABOUT JSC/.keep
