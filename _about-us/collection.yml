@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - ABOUT JSC/JSC SECRETARIAT.md
       - ABOUT JSC/.keep
       - ABOUT JSC/JSC:.md
       - ABOUT JSC/PEN PICTURES OF JSC MEMBERS.md
+      - ABOUT JSC/JSC SECRETARIAT.md
