@@ -28,7 +28,7 @@ sections:
       button: More
       url: /About-Us/JSC
   - resources:
-      title: Resources
+      title: Publications
       subtitle: Learn more
       button: View More
 ---
