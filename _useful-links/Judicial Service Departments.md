@@ -3,6 +3,6 @@ title: Judicial Service Departments
 permalink: /useful-links/judicial-service-dept
 description: ""
 ---
-**Singapore Courts:** https://www.judiciary.gov.sg
+**Singapore Courts:** [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg)
 
-**Singapore Judicial College:** https://www.judiciary.gov.sg/singapore-judicial-college
+**Singapore Judicial College:** [https://www.judiciary.gov.sg/singapore-judicial-college](https://www.judiciary.gov.sg/singapore-judicial-college) 
