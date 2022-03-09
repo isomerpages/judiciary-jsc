@@ -4,8 +4,7 @@ permalink: /careers/a-career-with-us/why-join-us
 description: ""
 third_nav_title: A Career with Us
 ---
-
-1.   Judicial Service Officers (“JSOs”) in the Singapore Judicial Service are appointed by the Judicial Service Commission.
+ 1.   Judicial Service Officers (“JSOs”) in the Singapore Judicial Service are appointed by the Judicial Service Commission.
 
 2. You may be appointed a District Judge, Magistrate, Coroner or registrar at the State Courts, the Supreme Court or the Family Justice Courts.
 
