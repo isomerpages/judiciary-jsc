@@ -5,6 +5,7 @@ description: ""
 third_nav_title: About JSC
 ---
 **Justice See Kee Oon**
+<img src="/images/Justice%20See%20Kee%20Oon.png" width="50" height="50" />
 
 Justice See Kee Oon was appointed Judicial Commissioner in 2014 and a High Court Judge in Jan 2017.
 
