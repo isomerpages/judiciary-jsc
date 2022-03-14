@@ -5,8 +5,13 @@ description: ""
 third_nav_title: About JSC
 ---
 **Justice See Kee Oon**
-<img src="/images/Justice%20See%20Kee%20Oon.png" width="50" height="50" />
 
+<img src="/images/Justice%20See%20Kee%20Oon.png" 
+     style="width:120px;
+            height:150px;
+						float: left;
+						margin-right:15px;
+						" />
 Justice See Kee Oon was appointed Judicial Commissioner in 2014 and a High Court Judge in Jan 2017.
 
 Justice See received his Bachelor of Laws from the National University of Singapore in 1991. He also holds a Masters in Law from the University of Cambridge and a Masters in Public Management from the National University of Singapore Lee Kuan Yew School of Public Policy.
@@ -18,6 +23,11 @@ Justice See chairs the SAL Legal Heritage Committee and is a board member of the
 
 **Justice Audrey Lim**
 
+<img src="/images/Justice%20Audrey%20Lim.png" 
+		 style="width: 120px;
+						height: 150px;
+						float: left; 
+						margin-right: 15px;">
 Justice Audrey Lim graduated from the University of Cambridge in 1993 and was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 1998.
 
 Justice Lim joined the Singapore Legal Service in 1994 and had been appointed to various positions including as a Justices’ Law Clerk, District Judge of the then Subordinate Courts, Deputy Registrar of the Supreme Court, Deputy Chief Legislative Counsel of the Legislation Division of the Attorney-General’s Chambers and Deputy Chief of Staff of the Singapore Legal Service.
@@ -25,6 +35,13 @@ Justice Lim joined the Singapore Legal Service in 1994 and had been appointed to
 Justice Lim was appointed a Judicial Commissioner of the Supreme Court on 1 Aug 2016 and a Judge of the Supreme Court on 1 Aug 2019.
 
 **Justice Philip Antony Jeyaretnam**
+
+<img src="/images/Justice%20Philip%20Antony%20Jeyaretnam.png" 
+style="
+width: 120px;
+height: 150px;
+float:left; 
+margin-right: 15px;">
 
 Justice Philip Jeyaretnam was appointed Judicial Commissioner of the Supreme Court on 4 Jan 2021 and High Court Judge on 1 Nov 2021.
 
