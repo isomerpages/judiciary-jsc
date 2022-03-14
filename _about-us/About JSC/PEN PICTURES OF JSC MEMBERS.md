@@ -7,8 +7,8 @@ third_nav_title: About JSC
 **Justice See Kee Oon**
 
 <img src="/images/Justice%20See%20Kee%20Oon.png" 
-     style="width:120px;
-            height:150px;
+     style="width:150px;
+            height:180px;
 						float: left;
 						margin-right:15px;
 						" />
@@ -24,8 +24,8 @@ Justice See chairs the SAL Legal Heritage Committee and is a board member of the
 **Justice Audrey Lim**
 
 <img src="/images/Justice%20Audrey%20Lim.png" 
-		 style="width: 120px;
-						height: 150px;
+		 style="width: 150px;
+						height: 180px;
 						float: left; 
 						margin-right: 15px;">
 Justice Audrey Lim graduated from the University of Cambridge in 1993 and was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 1998.
@@ -38,8 +38,8 @@ Justice Lim was appointed a Judicial Commissioner of the Supreme Court on 1 Aug 
 
 <img src="/images/Justice%20Philip%20Antony%20Jeyaretnam.png" 
 style="
-width: 120px;
-height: 150px;
+width: 150px;
+height: 180px;
 float:left; 
 margin-right: 15px;">
 
