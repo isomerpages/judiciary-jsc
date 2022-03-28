@@ -2,4 +2,5 @@ collections:
   ah-test:
     output: true
     order:
+      - Subfolder 1/Test file 1.md
       - Subfolder 1/.keep
