@@ -10,7 +10,7 @@ height:160px;
 float:left;
 margin-right:15px"/> [Singapore Legal Service - Year in Review 2020](/files/singapore-legal-service---2020-in-review.pdf)
 
-
+<br><br><br>
 <img src="/images/LSC%20AR%202020.png" 
 style="width:120px; 
 height:160px;
