@@ -2,4 +2,5 @@ collections:
   structure:
     output: true
     order:
+      - Org Chart.md
       - Structure of the Singapore Judicial Service.md
