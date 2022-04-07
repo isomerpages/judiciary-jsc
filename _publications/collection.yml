@@ -1,0 +1,7 @@
+collections:
+  publications:
+    output: true
+    order:
+      - Anl Rpts.md
+      - Annual Reports.md
+      - Speeches.md

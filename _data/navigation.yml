@@ -1,17 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Singapore Judicial Service.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /Example-page/
-  - title: Example Collection
-    collection: Example-collection
-  - title: Resources
-    resource_room: true
+  - title: About Us
+    collection: about-us
+  - title: Structure
+    collection: structure
+  - title: Careers
+    collection: careers
+  - title: Publications
+    collection: publications
+  - title: Useful Links
+    collection: useful-links
+  - title: Menu Title
+    collection: about-us

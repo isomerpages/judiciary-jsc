@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About JSC/.keep
+      - About JSC/JSC:.md
+      - About JSC/PEN PICTURES OF JSC MEMBERS.md
+      - About JSC/JSC SECRETARIAT.md
