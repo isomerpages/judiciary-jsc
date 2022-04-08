@@ -38,5 +38,3 @@ Please note that the deadline for submission of applications is 28 Feb 2022. All
 | **Eligibility** | 1st to 4th year students |
 |**Period of Internship**| 20 Jun 2022 – 15 Jul 2022 |
 |**Duration**| 4 weeks. <br> Interested applicants should be able to commit for the full period of the internship. |
-
-	
