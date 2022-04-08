@@ -9,7 +9,7 @@ The Singapore Judicial Service offers internships to law undergraduates and JD s
 
 2. The internships have been designed to coincide with the vacation periods of major law schools/institutions in each academic year – May to Sep / Dec to the following Feb.
 
-3. All applicants would need to complete an "Internship Application Form" (please click [here](https://go.gov.sg/judicial-internship-application-form) here for the said form) and submit it to jsc_sec@jsc.gov.sg.  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
+3. All applicants would need to complete an "Internship Application Form" (please click [here](https://go.gov.sg/judicial-internship-application-form) for the said form) and submit it to jsc_sec@jsc.gov.sg.  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
 
 4. Please note that the current framework is that all interns are eligible for a monthly “internship allowance”.  The quantum of the said monthly “internship allowance” will be pro-rated – based on the number of actual working hours in the month that the intern undertook the internship. 
 
