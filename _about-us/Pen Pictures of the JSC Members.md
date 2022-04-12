@@ -53,7 +53,7 @@ Justice Jeyaretnam was the founding chairperson of the Society of Construction L
 
 **Mrs Deborah Ong**
 
-<img src="/images/Justice%20See%20Kee%20Oon.png" 
+<img src="images/Mrs%20Deborah%20Ong.jpg" 
      style="width:150px;
             height:180px;
 						float: left;
@@ -72,7 +72,7 @@ Mrs Ong was previously a Board Member and the Chairperson of the Audit and Risk 
 
 **Mr Kwa Chong Seng**
 
-<img src="/images/Justice%20See%20Kee%20Oon.png" 
+<img src="/images/Mr%20Kwa%20Chong%20Seng.jpg" 
      style="width:150px;
             height:180px;
 						float: left;
@@ -89,7 +89,7 @@ Mr Kwa graduated from the University of Singapore with a Mechanical Engineering 
 
 **Mr Dilhan Pillay Sandrasegara**
 
-<img src="/images/Justice%20See%20Kee%20Oon.png" 
+<img src="/images/Mr%20Dilhan%20Pillay.jpg" 
      style="width:150px;
             height:180px;
 						float: left;
