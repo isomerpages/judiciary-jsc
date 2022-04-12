@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Judicial Service Commission
-      background: /images/hero-banner.png
+      background: /images/Homepage/hero-banner.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A
