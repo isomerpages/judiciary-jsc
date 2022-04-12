@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Pen Pictures of the JSC Members.md
       - The JSC.md
       - Constitution of the JSC.md
+      - Pen Pictures of the JSC Members.md
       - Judicial Service Commission/.keep
       - Judicial Service Commission/The JSC.md
       - Judicial Service Commission/Constitution of the JSC.md
