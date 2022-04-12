@@ -8,3 +8,6 @@ description: ""
 
 **2021**
 * Opening of the Legal Year 2021 - Speeches by the [Honourable Attorney-General (177.4 KB)](/files/oly-2021--speech-by-the-attorney-general.pdf) and the [President of the Law Society (272.73 KB)](/files/oly-2021--address-of-the-president-of-the-law-society.pdf) , and the response of[The Honourable the Chief Justice (146.74 KB).](/files/oly-2021--address-of-the-honourable-the-chief-justice-sundaresh-menon.pdf)
+
+**2020**
+* Opening of the Legal Year 2020 - Speeches by the [Honourable Attorney-General (177.4 KB)](/files/oly-2021--speech-by-the-attorney-general.pdf) and the [President of the Law Society (272.73 KB)](/files/oly-2021--address-of-the-president-of-the-law-society.pdf) , and the response of[The Honourable the Chief Justice (146.74 KB).](/files/oly-2021--address-of-the-honourable-the-chief-justice-sundaresh-menon.pdf)
