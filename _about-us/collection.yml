@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Constitution of the JSC.md
       - The JSC.md
       - Judicial Service Commission/The JSC.md
       - Judicial Service Commission/.keep
