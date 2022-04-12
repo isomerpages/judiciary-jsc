@@ -6,7 +6,7 @@ third_nav_title: Join Us Now
 ---
 **Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)**
          
-We invite interested applicants who satisfy the eligibility criteria/requirements and wish to consider a career in the Singapore Legal Service as a JSO to complete and submit the application form (DOCX, 673.49 KB).
+We invite interested applicants who satisfy the eligibility criteria/requirements and wish to consider a career in the Singapore Legal Service as a JSO to complete and submit the application form.
 
 2. The applicants who are interested in a career in the Singapore Judicial Service are kindly requested to:
 
