@@ -3,11 +3,10 @@ title: Pen Pictures of the JSC Members
 permalink: /about-us/Pen-Pictures-of-the-JSC-Members
 description: ""
 ---
-
 # Pen Pictures of the JSC Members
 **Justice See Kee Oon**
 
-<img src="/images/Justice%20See%20Kee%20Oon.png" 
+<img src="/images/Pen%20Pictures/Justice%20See%20Kee%20Oon.png" 
      style="width:150px;
             height:180px;
 						float: left;
@@ -24,7 +23,7 @@ Justice See chairs the SAL Legal Heritage Committee and is a board member of the
 
 **Justice Audrey Lim**
 
-<img src="/images/Justice%20Audrey%20Lim.png" 
+<img src="/images/Pen%20Pictures/Justice%20Audrey%20Lim.png" 
 		 style="width: 150px;
 						height: 180px;
 						float: left; 
@@ -37,7 +36,7 @@ Justice Lim was appointed a Judicial Commissioner of the Supreme Court on 1 Aug 
 
 **Justice Philip Antony Jeyaretnam**
 
-<img src="/images/Justice%20Philip%20Antony%20Jeyaretnam.png" 
+<img src="/images/Pen%20Pictures/Justice%20Philip%20Antony%20Jeyaretnam.png" 
 style="
 width: 150px;
 height: 180px;
@@ -54,7 +53,7 @@ Justice Jeyaretnam was the founding chairperson of the Society of Construction L
 
 **Mrs Deborah Ong**
 
-<img src="images/Mrs%20Deborah%20Ong.jpg" 
+<img src="/images/Pen%20Pictures/Mrs%20Deborah%20Ong.jpg" 
      style="width:150px;
             height:180px;
 						float: left;
@@ -73,7 +72,7 @@ Mrs Ong was previously a Board Member and the Chairperson of the Audit and Risk 
 
 **Mr Kwa Chong Seng**
 
-<img src="/images/Mr%20Kwa%20Chong%20Seng.jpg" 
+<img src="/images/Pen%20Pictures/Mr%20Kwa%20Chong%20Seng.jpg" 
      style="width:150px;
             height:180px;
 						float: left;
@@ -90,7 +89,7 @@ Mr Kwa graduated from the University of Singapore with a Mechanical Engineering 
 
 **Mr Dilhan Pillay Sandrasegara**
 
-<img src="/images/Mr%20Dilhan%20Pillay.jpg" 
+<img src="/images/Pen%20Pictures/Mr%20Dilhan%20Pillay.jpg" 
      style="width:150px;
             height:180px;
 						float: left;
