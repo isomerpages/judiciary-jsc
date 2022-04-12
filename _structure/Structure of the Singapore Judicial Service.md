@@ -12,5 +12,5 @@ The JSOs in the Singapore Judicial Service play a vital role in administering ju
 ![Structure of the SJS](/images/JS%20Org%20Chart.jpg)
 
 <img src="/images/JS%20Org%20Chart.jpg" 
-     style="width:1500px;
-            height:1800px;" />
+     style="width:1280px;
+            height:800px;" />
