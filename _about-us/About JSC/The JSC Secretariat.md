@@ -4,8 +4,7 @@ permalink: /about-us/ABOUT-JSC/The-JSC-Secretariat
 description: ""
 third_nav_title: About JSC
 ---
-
-
+# The JSC Secretariat
 **Senior Consultant, JSC Secretariat:**
 
 Mr Hamzah Moosa
