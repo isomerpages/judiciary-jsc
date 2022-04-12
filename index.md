@@ -22,7 +22,7 @@ sections:
       url: /about-us/The-JSC
       subtitle: Introduction
   - resources:
-      title: Publications
-      subtitle: Learn more
+      title: Careers in the Singapore Judicial Service
+      subtitle: JOIN US
       button: View More
 ---
