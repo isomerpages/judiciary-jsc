@@ -19,7 +19,7 @@ sections:
   - infobar:
       title: Judicial Service Commission
       button: About Us
-      url: /About-Us/JSC
+      url: /about-us/The-JSC
       subtitle: Introduction
   - resources:
       title: Publications
