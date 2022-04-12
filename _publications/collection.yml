@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Annual Reports.md
-      - Annual Reports (original).md
       - Speeches.md
+      - Annual Reports (original).md
