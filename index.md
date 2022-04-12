@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: "Singapore Judicial Service "
+      title: Judicial Service Commission
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
@@ -17,9 +17,7 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      button: About Us
   - infobar:
       title: Judicial Service Commission
       button: More
