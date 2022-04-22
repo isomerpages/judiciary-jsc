@@ -1,4 +1,4 @@
-logo: /images/Singapore Judicial Service.png
+logo: /images/Homepage/Singapore Judicial Service (2).png
 links:
   - title: About Us
     collection: about-us
@@ -10,5 +10,3 @@ links:
     collection: publications
   - title: Useful Links
     collection: useful-links
-  - title: Menu Title
-    collection: about-us

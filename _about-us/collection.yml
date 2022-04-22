@@ -2,7 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - About JSC/.keep
-      - About JSC/JSC:.md
-      - About JSC/PEN PICTURES OF JSC MEMBERS.md
-      - About JSC/JSC SECRETARIAT.md
+      - The JSC.md
+      - Constitution of the JSC.md
+      - Pen Pictures of the JSC Members.md
+      - The JSC Secretariat.md
+      - About Us (Original   delete?)/.keep
+      - About Us (Original   delete?)/The JSC.md
+      - About Us (Original   delete?)/Constitution of the JSC.md
+      - About Us (Original   delete?)/Pen Pictures of the JSC Members.md
+      - About Us (Original   delete?)/The JSC Secretariat.md

@@ -7,11 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: "Singapore Judicial Service "
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Singapore Judicial Service
+      background: /images/Homepage/hero-banner.png
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -19,16 +16,13 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
-      title: Introduction
-      description: Judicial Service Commission (JSC)
-      button: More
-      url: /About-Us/JSC
+      title: Judicial Service Commission
+      button: About Us
+      url: /about-us/The-JSC
+      subtitle: Introduction
   - resources:
-      title: Publications
-      subtitle: Learn more
+      title: Careers in the Singapore Judicial Service
+      subtitle: JOIN US
       button: View More
 ---
