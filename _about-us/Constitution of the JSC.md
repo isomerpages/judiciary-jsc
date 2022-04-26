@@ -7,10 +7,12 @@ description: ""
 (wef 14 Jan 2022)
 
 **President**:
+
 Chief Justice Sundaresh Menon
 
 **Vice** **President**:
-Mr Lee Tzu Yang,
+
+Mr Lee Tzu Yang, 
 Chairman, Public Service Commission
 
 **Members**:
@@ -27,4 +29,5 @@ Judge, Supreme Court
 * Mr Dilhan Pillay Sandrasegara
 
 **Secretary**, **JSC**:
+
 Mr Siva Shanmugam
