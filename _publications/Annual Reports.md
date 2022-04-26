@@ -32,7 +32,7 @@ float:left;
 margin-right:15px"/> [Legal Service Commission Annual Report 2019](/files/AR/Legal%20Service%20Commission%20Annual%20Report%202019.pdf)
 
 <br><br><br>
-<img src="![](/images/AR%20Covers/SLS%20-%20Year%20in%20Review%202018.png)" 
+<img src="/images/AR%20Covers/SLS%20-%20Year%20in%20Review%202018.png" 
 style="width:120px; 
 height:160px;
 float:left;
