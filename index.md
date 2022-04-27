@@ -4,18 +4,11 @@ title: Singapore Judicial Service
 description: Informational Site for Singapore Judicial Service
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Singapore Judicial Service
       background: /images/Homepage/hero-banner.png
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
   - infobar:
       title: Judicial Service Commission
       button: About Us
