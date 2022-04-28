@@ -36,11 +36,11 @@ margin-right:15px"/> [Legal Service Commission Annual Report 2019](/files/AR/Leg
 style="width:120px; 
 height:160px;
 float:left;
-margin-right:15px"/> [Singapore Legal Service - 2018 In Review](/files/Legal%20Service%20Commission%20Annual%20Report%202020.pdf)
+margin-right:15px"/> [Singapore Legal Service - 2018 In Review](/files/AR/SLS%202018%20in%20Review.pdf)
 
 <br><br><br>
 <img src="/images/AR%20Covers/LSC%20Annual%20Report%202018.png" 
 style="width:120px; 
 height:160px;
 float:left;
-margin-right:15px"/> [Legal Service Commission Annual Report 2018](/files/Legal%20Service%20Commission%20Annual%20Report%202020.pdf)
+margin-right:15px"/> [Legal Service Commission Annual Report 2018](/files/AR/LSC%20Annual%20Report%202018.pdf)
