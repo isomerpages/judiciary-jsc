@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Singapore Judicial Service
-      background: /images/Homepage/SG Courts Website Banner.jpg
+      background: /images/Homepage/hero-banner.png
   - infobar:
       title: Judicial Service Commission
       button: About Us
