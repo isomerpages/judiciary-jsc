@@ -5,7 +5,7 @@ description: ""
 ---
 **Internships in the Singapore Judicial Service**
 
-The Singapore Judicial Service offers internships to law undergraduates and JD students studying for a recognised law degree - as stipulated under the Legal Profession Act (Qualified Persons Rules) - at the NUS, the SMU, the SUSS or a Scheduled University. 
+1. The Singapore Judicial Service offers internships to law undergraduates and JD students studying for a recognised law degree - as stipulated under the Legal Profession Act (Qualified Persons Rules) - at the NUS, the SMU, the SUSS or a Scheduled University. 
 
 2. The internships have been designed to coincide with the vacation periods of major law schools/institutions in each academic year – May to Sep / Dec to the following Feb.
 
@@ -18,14 +18,14 @@ The Singapore Judicial Service offers internships to law undergraduates and JD s
 
 **Singapore Judicial Service Internship Programme 2022**
 
-Please note that the deadline for submission of applications is 28 Feb 2022. All applicants will be notified of the outcome of their application by mid-May 2022. 
+1. Please note that the deadline for submission of applications were 28 Feb 2022. All applicants will be notified of the outcome of their application by mid-May 2022. 
 
 
 2. The details of the internship opportunities at the Supreme Court, the State Courts and the Family Justice Courts are set out below:
 
 **Judicial Internship Programme ("JIP")**
 
-|**Expectations** |**State Courts**: You will have the opportunity to observe a wide variety of hearings conducted in the State Courts, including proceedings in the registries and open court matters. You will also have the opportunity to meet our Judicial Officers for fireside chats and attend Master Classes for criminal and civil law cases. You may be required to assist in some project or research work undertaken by the Judiciary. <br>**Supreme Court**: You should have an interest in in joining the Singapore Judicial Service. You will sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications. You will also have the opportunity to sit in at pre-trial conferences, observe open court hearings and gain an insight into the process of court administration. You may be required to assist in some project or research work undertaken by the Judiciary. |
+|**Expectations** |**<u>State Courts</u>**<br> You will have the opportunity to observe a wide variety of hearings conducted in the State Courts, including proceedings in the registries and open court matters. You will also have the opportunity to meet our Judicial Officers for fireside chats and attend Master Classes for criminal and civil law cases. You may be required to assist in some project or research work undertaken by the Judiciary. <br>**<u>Supreme Court</u>**<br> You should have an interest in in joining the Singapore Judicial Service. You will sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications. You will also have the opportunity to sit in at pre-trial conferences, observe open court hearings and gain an insight into the process of court administration. You may be required to assist in some project or research work undertaken by the Judiciary. |
 | -------  | -------- | 
 | **Eligibility**| Rising final or penultimate year law students|
 | **Period of   Internship**  |State Courts: 4 Jul 2022 – 8 Jul 2022  <br> Supreme Court: 12 Jul 2022 – 18 Jul 2022 |
