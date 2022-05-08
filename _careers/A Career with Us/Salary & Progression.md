@@ -4,7 +4,7 @@ permalink: /careers/A-Career-with-Us/Salary-Progression
 description: ""
 third_nav_title: A Career with Us
 ---
-The Singapore Judicial Service offers a competitive remuneration package.
+1. The Singapore Judicial Service offers a competitive remuneration package.
 
 2. There are abundant opportunities for career advancement in the Singapore Judicial Service.
 
