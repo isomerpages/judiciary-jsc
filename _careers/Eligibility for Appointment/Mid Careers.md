@@ -6,14 +6,14 @@ third_nav_title: Eligibility for Appointment
 ---
 **Mid-Careers with more than 5 years' experience**
 
-Mid-career candidates with more than five years of strong relevant legal work experience (and who fully satisfy the requirements/criteria specified under the section “Eligibility for Appointment as a JSO”) may apply to be considered for possible shortlisting for an interview for appointment as a 
+1. Mid-career candidates with <u> **more than five years of strong relevant legal work experience**</u> (and who fully satisfy the requirements/criteria specified under the section “Eligibility for Appointment as a JSO”) may apply to be considered for possible shortlisting for an interview for appointment as a 
 JSO.
 
 2. The mid-career candidates who are selected for possible appointment as a JSO will be subject to the following framework:
 
-		(a)     two consecutive contracts of two years each for those with strong relevant legal work experience of more than five years and up to 10 years; or
+	(a)     <u>two consecutive contracts of two years each</u> for those with strong relevant legal work experience of <u>more than five years and up to 10 years</u>; or
+	<br> (b)     one contract of three years for those with strong relevant legal work experience of more than 10 years.
 
-		(b)     one contract of three years for those with strong relevant legal work experience of more than 10 years.
 
 3. These mid-career candidates may, at the discretion of the Judicial Service, have their prior strong relevant legal work experience recognised and be eligible for the award of additional increments and/or appointment at a higher JSO-grade.
 
@@ -24,12 +24,10 @@ JSO.
  
 **Interviews**
 
-6. The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for Apr 2022.
+6. The <u>next sets of recruitment interviews</u> for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for <u>Apr 2022</u>.
 
 7. Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
-		(a) a Personal Statement;
-
-		(b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice; and
-
-		(c) a summary of his/her legal work experience.
+	(a) a Personal Statement;
+<br> (b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice; and
+<br>(c) a summary of his/her legal work experience.
