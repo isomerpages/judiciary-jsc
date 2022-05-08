@@ -4,7 +4,7 @@ permalink: /careers/A-Career-with-Us/career-development
 description: ""
 third_nav_title: A Career with Us
 ---
-  Every JSO will be accorded the opportunity to develop to the fullest of his/her potential within the Singapore Judicial Service.
+1. Every JSO will be accorded the opportunity to develop to the fullest of his/her potential within the Singapore Judicial Service.
 
 2. The young JSOs will be provided training in core legal/professional areas with a focus on the officers acquiring the requisite capabilities and professional expertise to meet the needs of the Singapore Judicial Service.
 
