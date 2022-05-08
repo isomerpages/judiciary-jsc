@@ -28,4 +28,4 @@ Mid-career candidates with more than five years of strong relevant legal work ex
 	<br>(b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
 
 
-6. Please click here for the details on applications for the Justices' Law Clerk Programme.
+6. Please click [here](/careers/Eligibility-for-Appointment/graduates-JLC) for the details on applications for the Justices' Law Clerk Programme.
