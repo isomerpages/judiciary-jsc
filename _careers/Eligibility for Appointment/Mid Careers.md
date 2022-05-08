@@ -12,7 +12,7 @@ JSO.
 2. The mid-career candidates who are selected for possible appointment as a JSO will be subject to the following framework:
 
 	(a)     <u>two consecutive contracts of two years each</u> for those with strong relevant legal work experience of <u>more than five years and up to 10 years</u>; or
-	<br> (b)     one contract of three years for those with strong relevant legal work experience of more than 10 years.
+	<br> (b)     <u>one contract of three years</u> for those with strong relevant legal work experience of <u>more than 10 years</u>.
 
 
 3. These mid-career candidates may, at the discretion of the Judicial Service, have their prior strong relevant legal work experience recognised and be eligible for the award of additional increments and/or appointment at a higher JSO-grade.
