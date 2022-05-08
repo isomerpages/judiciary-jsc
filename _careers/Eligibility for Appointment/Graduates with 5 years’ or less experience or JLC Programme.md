@@ -4,11 +4,9 @@ permalink: /careers/Eligibility-for-Appointment/graduates-JLC
 description: ""
 third_nav_title: Eligibility for Appointment
 ---
-
-
 **Candidates with 5 years’ or less experience**
 
-Candidates with five years or less of strong relevant legal work experience (and who fully satisfy the requirements/criteria specified under the section “Eligibility for Appointment as a JSO”) may apply to be considered for possible shortlisting for an interview for appointment as a 
+1. Candidates with five years or less of strong relevant legal work experience (and who fully satisfy the requirements/criteria specified under the section “Eligibility for Appointment as a JSO”) may apply to be considered for possible shortlisting for an interview for appointment as a 
 JSO.
 
 2. The candidates who are selected for appointment as a JSO will be subject to a three-contract framework totalling four years. The said candidates will be appointed on three consecutive contracts comprising two contracts of 18 months each and one contract of 12 months prior to being considered for possible emplacement on the permanent establishment after four years.
@@ -25,8 +23,8 @@ JSO.
 
 7. Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
-		(a) a Personal Statement; and
-		(b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
+	<br> (a) a Personal Statement; and
+	<br> (b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
 
 
 **Justices’ Law Clerk Programme**
@@ -37,12 +35,10 @@ Documents to be provided
 
 9. Please note that all eligible applicants are required to provide the following for the consideration of the relevant Shortlisting/Interview Panel:
 
-		(a) the Judicial Service Application Form;
+   <br> (a) the Judicial Service Application Form;
+<br> (b) a Personal Statement (of not more than one page [in Arial; font size 14] with the applicant's name at the bottom left corner);
+<br> (c) a Write-up on why he/she is applying for the 2-year JLC Programme and how and what he/she can contribute to the Programme and the Judicial Service (of not more than one page [in Arial; font size 14] with the applicant's name at the bottom left corner); and
+<br> (d) academic references/testimonials from two Professors from the law programme in support of the application for the 2-year JLC Programme (of not more than one page each [all applicants are kindly requested to convey this requirement specified by the Interview Panel to the Professors concerned] and to be provided directly to the Secretary, Judicial Service Commission at the JSC Secretariat’s email at jsc_sec@jsc.gov.sg).
 
-		(b) a Personal Statement (of not more than one page [in Arial; font size 14] with the applicant's name at the bottom left corner);
-
-		(c) a Write-up on why he/she is applying for the 2-year JLC Programme and how and what he/she can contribute to the Programme and the Judicial Service (of not more than one page [in Arial; font size 14] with the applicant's name at the bottom left corner); and
-
-		(d) academic references/testimonials from two Professors from the law programme in support of the application for the 2-year JLC Programme (of not more than one page each [all applicants are kindly requested to convey this requirement specified by the Interview Panel to the Professors concerned] and to be provided directly to the Secretary, Judicial Service Commission at the JSC Secretariat’s email at jsc_sec@jsc.gov.sg).
 
 10. Please also note the following.  The eligible applicants who are earmarked for possible shortlisting for an interview will be required to provide an Essay for the consideration of the relevant Shortlisting/Interview Panel.  The topic of the Essay (and the requirements) will be provided between 8.45 am and 9.00 am (Singapore time) on a specific date (to be advised at the relevant date/time).  The Essay is to be submitted via email attachment by 5.00 pm (Singapore time) the same date.
