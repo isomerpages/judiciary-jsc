@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Judicial Service
       background: /images/Homepage/Version 4 v2.jpg
   - infobar:
       title: Judicial Service Commission
