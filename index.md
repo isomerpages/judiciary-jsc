@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/Homepage/Version 4 v15.jpg
       title: Judicial Service Commission
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infobar:
       title: Judicial Service Commission
       button: About Us
