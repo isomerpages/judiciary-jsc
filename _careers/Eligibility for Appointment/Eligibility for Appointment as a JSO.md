@@ -20,12 +20,12 @@ Mid-career candidates with more than five years of strong relevant legal work ex
 
 **INTERVIEWS**
 
-The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for Apr 2022.
+The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for Jun 2022.
 
 Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
 (a) a Personal Statement; and		
 
-(b) a Write-up on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
+(b) a Write-up<br> on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
 
 Please click [here](/careers/Eligibility-for-Appointment/graduates-JLC) for the details on applications for the Justices' Law Clerk Programme.
