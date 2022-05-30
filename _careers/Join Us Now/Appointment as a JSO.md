@@ -16,7 +16,7 @@ The applicants who are interested in a career in the Singapore Judicial Service 
 
 <br>
 
-**INTERVIEWS**
+**Interviews**
 
 The <u>next sets of recruitment interviews</u> for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for <u>Jun 2022</u>.
 
@@ -25,4 +25,3 @@ Please note that all eligible applicants are required to provide/include in thei
 	
 (b) a Write-up <br>
 on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
-	
