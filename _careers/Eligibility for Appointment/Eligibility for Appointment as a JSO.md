@@ -18,7 +18,7 @@ Candidates with five years or less of strong relevant legal work experience (and
 
 Mid-career candidates with more than five years of strong relevant legal work experience (and who fully satisfy the requirements/criteria specified at paragraph 1 above) may also apply to be considered for possible shortlisting for an interview for appointment as a JSO.
 
-**INTERVIEWS**
+**Interviews**
 
 The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for Jun 2022.
 
