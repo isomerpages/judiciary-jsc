@@ -22,7 +22,7 @@ These JSOs may, on their successful completion of the contract(s), strong perfor
 The possible emplacement on the permanent establishment of these JSOs will however continue to be subject to the quality of the officer’s work, demonstrated potential and strong performance during the period(s) of the contract(s) and the needs of the Judicial Service. 
 
  
-**Interviews**
+**INTERVIEWS**
 
 The <u>next sets of recruitment interviews</u> for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for <u>Jun 2022</u>.
 
