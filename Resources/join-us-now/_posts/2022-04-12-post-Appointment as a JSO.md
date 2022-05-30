@@ -19,7 +19,7 @@ The applicants who are interested in a career in the Singapore Judicial Service 
 
 **Interviews**
 
-The <u>next sets of recruitment interviews</u> for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for <u>Jun 2022</u>.
+The <u>next sets of recruitment interviews</u> for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for <u>Jul 2022</u>.
 
 Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 <p>(a) a Personal Statement; and
