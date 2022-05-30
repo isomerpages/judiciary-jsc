@@ -4,7 +4,7 @@ permalink: /careers/Eligibility-for-Appointment/graduates-JLC
 description: ""
 third_nav_title: Eligibility for Appointment
 ---
-**Candidates with 5 years’ or less experience**
+**CANDIDATES WITH 5 YEARS' OR LESS EXPERIENCE**
 
 Candidates with five years or less of strong relevant legal work experience (and who fully satisfy the requirements/criteria specified under the section “Eligibility for Appointment as a JSO”) may apply to be considered for possible shortlisting for an interview for appointment as a JSO.
 
@@ -29,7 +29,7 @@ on why he/she is applying to the Judicial Service for consideration for possible
 
 <br>
 
-**Justices’ Law Clerk Programme**
+**JUSTICES' LAW CLERK PROGRAMME**
 
 The Justices' Law Clerk (“JLC”) Programme is a structured 2-year programme of the Singapore Judicial Service.  Eligible young graduates who aspire to have the unique privilege of working closely with the Chief Justice and members of the Supreme Court Bench may submit an application for selection for deployment to the 2-year JLC Programme.
 
