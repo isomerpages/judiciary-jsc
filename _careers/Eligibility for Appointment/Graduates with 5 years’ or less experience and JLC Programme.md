@@ -4,8 +4,6 @@ permalink: /careers/Eligibility-for-Appointment/graduates-JLC
 description: ""
 third_nav_title: Eligibility for Appointment
 ---
-
-
 **CANDIDATES WITH 5 YEARS' OR LESS EXPERIENCE**
 
 Candidates with five years or less of strong relevant legal work experience (and who fully satisfy the requirements/criteria specified under the section “Eligibility for Appointment as a JSO”) may apply to be considered for possible shortlisting for an interview for appointment as a JSO.
@@ -18,9 +16,9 @@ These JSOs may, on their successful completion of the contract(s), strong perfor
 
 The possible emplacement on the permanent establishment of these JSOs will however continue to be subject to the quality of the officer’s work, demonstrated potential and strong performance during the period(s) of the contract(s) and the needs of the Judicial Service.
 
-**INTERVIEWS**
+**Interviews**
 
-The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for Jun 2022.
+The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for Jul 2022.
 
 Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
