@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Judicial Service
-      background: /images/Homepage/hero-banner.png
+      background: /images/Homepage/JSC WebsiteBanner.jpg
+      title: Judicial Service Commission
   - infobar:
       title: Judicial Service Commission
       button: About Us

@@ -1,8 +1,9 @@
 ---
 title: Application for an Internship
-permalink: /careers/Join-Us-Now/application-internship
+permalink: /Resources/internships/permalink
+date: 2022-05-31
+layout: post
 description: ""
-third_nav_title: Join Us Now
 ---
 The Singapore Judicial Service offers internships to law undergraduates and JD students studying for a recognised law degree - as stipulated under the Legal Profession Act (Qualified Persons Rules) - at the NUS, the SMU, the SUSS or a Scheduled University.
 
