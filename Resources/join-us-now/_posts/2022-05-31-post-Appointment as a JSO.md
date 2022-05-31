@@ -5,7 +5,6 @@ date: 2022-05-31
 layout: post
 description: ""
 ---
-
 **Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)**
          
 We invite interested applicants who satisfy the eligibility criteria/requirements and wish to consider a career in the Singapore Judicial Service as a JSO to complete and submit the [application form](https://go.gov.sg/judicalserviceofficerapplicationform).
@@ -24,6 +23,8 @@ The next sets of recruitment interviews for the eligible applicants whose shortl
 
 Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 <p>(a) a Personal Statement; and
+	
+<br>	
 	
 (b) a Write-up <br>
 on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
