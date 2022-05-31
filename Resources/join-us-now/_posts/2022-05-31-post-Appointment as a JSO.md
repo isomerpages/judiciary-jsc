@@ -26,5 +26,6 @@ Please note that all eligible applicants are required to provide/include in thei
 	
 <br>	
 <br>	
+	
 (b) a Write-up <br>
 on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
