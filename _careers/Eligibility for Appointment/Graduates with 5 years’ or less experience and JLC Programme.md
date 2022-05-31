@@ -59,7 +59,7 @@ Please note that all eligible applicants are required to provide the following f
 
 (c) a Write-up <br>on why he/she is applying for the 2-year JLC Programme and how and what he/she can contribute to the Programme and the Judicial Service (of not more than one page [in Arial; font size 14] with the applicant's name at the bottom left corner); and
 
-(d) academic references/testimonials <br>from two Professors of Law in support of the application (of not more than one page each [all applicants are kindly requested to convey this one-page limit specified by the Interview Panel to the Professors concerned] to be provided by the Professors directly to the Secretary, Judicial Service Commission at the JSC Secretariat’s email at [jsc_sec@jsc.gov.sg](jsc_sec@jsc.gov.sg)).
+(d) academic references/testimonials <br>from two Professors of Law in support of the application (of not more than one page each [all applicants are kindly requested to convey this one-page limit specified by the Interview Panel to the Professors concerned] to be provided by the Professors directly to the Secretary, Judicial Service Commission at the JSC Secretariat’s email at [jsc_sec@jsc.gov.sg](mailto:jsc_sec@jsc.gov.sg).
 
 
 Please also note that eligible applicants who are earmarked for possible shortlisting for an interview will be required to provide an Essay for the consideration of the relevant Judicial Service Shortlisting/Interview Panel.  The topic of the Essay (and the requirements) will be provided between 8.45 am and 9.00 am (Singapore time) on a specific date (to be advised).  The Essay is to be submitted via email attachment by 5.00 pm (Singapore time) on the same date.
