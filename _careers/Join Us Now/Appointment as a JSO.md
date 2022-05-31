@@ -10,7 +10,7 @@ We invite interested applicants who satisfy the eligibility criteria/requirement
 
 The applicants who are interested in a career in the Singapore Judicial Service are kindly requested to:
 
-(a) review and ensure that they fully satisfy the eligibility criteria/requirements set out under the section "Eligibility for Appointment as a JSO" before submitting the completed application form to [jsc_sec@jsc.gov.sg](jsc_sec@jsc.gov.sg); and 
+(a) review and ensure that they fully satisfy the eligibility criteria/requirements set out under the section "Eligibility for Appointment as a JSO" before submitting the completed application form to [jsc_sec@jsc.gov.sg](mailto:jsc_sec@jsc.gov.sg); and 
 <br>
 
 (b) enclose a scanned version of all relevant supporting documents. 
