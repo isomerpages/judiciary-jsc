@@ -5,7 +5,6 @@ date: 2022-05-31
 layout: post
 description: ""
 ---
-
 The Singapore Judicial Service offers internships to law undergraduates and JD students studying for a recognised law degree - as stipulated under the Legal Profession Act (Qualified Persons Rules) - at the NUS, the SMU, the SUSS or a Scheduled University.
 
 The internships are offered twice annually and have been designed to coincide with the vacation periods of major law schools/institutions in each academic year: May to Sep; and Dec to the following Feb.
