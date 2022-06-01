@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Banner v1.jpg
+      background: /images/Homepage/hero-banner.png
       title: Judicial Service Commission
   - infobar:
       title: Judicial Service Commission
