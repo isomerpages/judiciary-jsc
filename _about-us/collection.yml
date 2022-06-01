@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The JSC.md
-      - Mission.md
       - Constitution of the JSC.md
       - Pen Pictures of the JSC Members.md
       - The JSC Secretariat.md
