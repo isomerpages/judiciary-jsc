@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Judicial Service Commission
+      background: /images/Homepage/Banner version 1 - logo only.jpg
   - infobar:
       title: Judicial Service Commission
       button: About Us
