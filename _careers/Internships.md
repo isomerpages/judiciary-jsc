@@ -5,7 +5,7 @@ description: ""
 ---
 **Internships in the Singapore Judicial Service**
 
-The Singapore Judicial Service offers internships to students studying for a recognised law degree [as stipulated under the Legal Profession (Qualified Persons Rules]. 
+The Singapore Judicial Service offers internships to students studying for a recognised law degree [as stipulated under the Legal Profession (Qualified Persons) Rules]. 
 
 The internships have been designed to coincide with the vacation periods of major law schools/institutions in each academic year – May to Sep / Dec to the following Feb.
 
