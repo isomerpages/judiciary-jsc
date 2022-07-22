@@ -3,11 +3,7 @@ title: The JSC Secretariat
 permalink: /about-us/The-JSC-Secretariat
 description: ""
 ---
-
 # The JSC Secretariat
-**Senior Consultant, JSC Secretariat:**
-
-Mr Hamzah Moosa
 
 **Secretary, Judicial Service Commission:**
 
