@@ -31,9 +31,11 @@ on why he/she is applying to the Judicial Service for consideration for possible
 <br>
 	
 **Targeted Recruitment for initial deployment at the State Courts**
-<br>A targeted recruitment exercise for  initial deployment to the State Courts is currently being undertaken. Interested applicants with preferably at least 7 years of relevant legal work (particularly in civil litigation and dispute resolution and/or criminal law) are kindly requested to ensure that they fully satisfy the criteria set out - under “Requirements” - in the State Courts’ [write-up](https://go.gov.sg/targetedrecruitmentstatecourts) before submitting an application using the above application form by 15 Sep 2022 to the JSC Secretariat.
+
+A targeted recruitment exercise for  initial deployment to the State Courts is currently being undertaken. Interested applicants with preferably at least 7 years of relevant legal work (particularly in civil litigation and dispute resolution and/or criminal law) are kindly requested to ensure that they fully satisfy the criteria set out - under “Requirements” - in the State Courts’ [write-up](https://go.gov.sg/targetedrecruitmentstatecourts) before submitting an application using the above application form by 15 Sep 2022 to the JSC Secretariat.
 
 <br>
 	
-**Interviews**<br>
+**Interviews**
+	
 The next sets of recruitment interviews for those shortlisted are - for the present - targeted for the last quarter of 2022.
