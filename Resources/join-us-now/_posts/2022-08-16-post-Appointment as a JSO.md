@@ -1,8 +1,9 @@
 ---
 title: Appointment as a JSO
-permalink: /careers/Join-Us-Now/appointment-JSO
+permalink: /Resources/appointmentasajso/permalink
+date: 2022-08-16
+layout: post
 description: ""
-third_nav_title: Join Us Now
 ---
 **Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)**
          

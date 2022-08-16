@@ -40,7 +40,7 @@ The interviews in 2022 of shortlisted applicants for possible appointment to the
 
 **Timeframes/Deadlines for Submission of Application**
 
-Eligible applicants who are keen to be considered for possible appointment to the Judicial Service as a JSO and selection for deployment to the 2-year JLC Programme will be required to submit their application by:
+Eligible applicants who are keen to be considered for possible appointment to the Judicial Service as a JSO and selection for deployment to the 2-year JLC Programme were required to submit their application by:
 
 <u>for JLC interviews in Jul 2022</u>
  <br> (a)  Wed 22 Jun 2022 (for the 2022 SMU graduating cohorts; as the SMU would be releasing the results at a relatively later date); &
