@@ -9,4 +9,4 @@ The JSOs in the Singapore Judicial Service play a vital role in administering ju
 
 <img src="/images/Org%20Chart/JS%20Org%20Chart_Sep22.png"
 		 style="width:800px;
-            height:500px;" />
+            height:750px;" />
