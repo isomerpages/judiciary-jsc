@@ -3,7 +3,7 @@ title: Annual Reports
 permalink: /publications/annual-reports/
 description: ""
 ---
-<img src=/images/AR%20Covers/Singapore%20Legal%20Service%20-%202021%20in%20Review.jpg 
+<img src="/images/AR%20Covers/Singapore%20Legal%20Service%20-%202021%20in%20Review.jpg" 
 style="width:120px; 
 height:160px;
 float:left;
