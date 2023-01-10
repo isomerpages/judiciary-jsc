@@ -1,6 +1,6 @@
 ---
 title: Internships
-permalink: /careers/internships
+permalink: /careers/internships/
 description: ""
 ---
 **Internships in the Singapore Judicial Service**
