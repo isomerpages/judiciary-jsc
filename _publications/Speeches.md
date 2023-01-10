@@ -4,7 +4,7 @@ permalink: /publications/speeches/
 description: ""
 ---
 **2023**
-* Opening of the Legal Year 2023 - Speeches by [The Honourable Attorney-General](/files/Speeches/oly-2020---speech-by-attorney-general.pdf) and the [President of the Law Society](/files/Speeches/oly-2020---president-law-society.pdf), and the response of [The Honourable the Chief Justice](/files/Speeches/oly-2020---response-by-chief-justice.pdf)
+* Opening of the Legal Year 2023 - Speeches by [The Honourable Attorney-General](/files/Speeches/Opening%20of%20the%20Legal%20Year%202023%20-%20Speech%20by%20AG.pdf) and the [President of the Law Society](/files/Speeches/Opening%20of%20the%20Legal%20Year%202023%20-%20Speech%20by%20President,%20Law%20Society.pdf), and the response of [The Honourable the Chief Justice](/files/Speeches/Opening%20of%20the%20Legal%20Year%202023%20-%20CJ's%20Response.pdf)
 
 **2022**
 * [Address](/files/Speeches/Chief%20Justice's%20address%20at%20Mass%20Call%202022.pdf) by The Honourable the Chief Justice Sundaresh Menon delivered at the Mass Call 2022
