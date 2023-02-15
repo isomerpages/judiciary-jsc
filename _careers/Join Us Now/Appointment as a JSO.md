@@ -1,6 +1,6 @@
 ---
 title: Appointment as a JSO
-permalink: /careers/Join-Us-Now/appointment-JSO
+permalink: /careers/Join-Us-Now/appointment-JSO/
 description: ""
 third_nav_title: Join Us Now
 ---
@@ -27,14 +27,10 @@ Please note that all eligible applicants are required to provide/include in thei
 (The statement and write-up should not be more than one page each \[in Arial; font size 14\] with the applicant’s name indicated at the bottom left corner.)
 
 <br>
-
-**Targeted Recruitment for initial deployment at the State Courts**
-<br>
-<br>A targeted recruitment exercise for  initial deployment to the State Courts is currently being undertaken. Interested applicants with preferably at least 7 years of relevant legal work (particularly in civil litigation and dispute resolution and/or criminal law) are kindly requested to ensure that they fully satisfy the criteria set out - under “Requirements” - in the State Courts’ [write-up](https://go.gov.sg/targetedrecruitmentstatecourts) before submitting an application using the above application form by 15 Sep 2022 to the JSC Secretariat.
-
-<br>
 	
 **Interviews**
 	
 
-The next sets of recruitment interviews for those shortlisted are - for the present - targeted for the last quarter of 2022.
+The next sets of recruitment interviews for those shortlisted are - for the present - targeted for Apr/May 2023.
+
+The candidates who are interviewed may be required to undergo a “Judicial Service Selection Programme” (ranging between an hour and half a day) to enable the Judicial Service to better assess their suitability for a judicial appointment.
