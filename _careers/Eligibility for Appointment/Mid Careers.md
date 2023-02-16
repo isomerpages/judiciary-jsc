@@ -17,7 +17,7 @@ The mid-career candidates who are selected for possible appointment as a JSO wil
 
 These mid-career candidates may, at the discretion of the Judicial Service, have their prior strong relevant legal work experience recognised and be eligible for the award of additional increments and/or appointment at a higher JSO-grade.
 
-These JSOs may, on their successful completion of the contract(s), strong work performance and fully satisfying the requisite eligibility criteria, be considered for the possible offer of subsequent contract or possible emplacement on the permanent establishment.
+These JSOs may, on their successful completion of the contract(s), strong work performance and fully satisfying the requisite eligibility criteria, be considered for the possible offer of a subsequent contract or possible emplacement on the permanent establishment.
 
 The possible emplacement on the permanent establishment of these JSOs will continue to be subject to the quality of the officer’s work, demonstrated potential and strong work performance during the period of the contract(s) and the needs of the Judicial Service. 
 
