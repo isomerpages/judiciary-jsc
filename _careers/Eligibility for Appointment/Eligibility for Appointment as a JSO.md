@@ -8,13 +8,13 @@ The general requirements/criteria for possible appointment to the Singapore Judi
 
 (a) the NUS, the SMU or the SUSS; or
 
-(b) a Scheduled University in England, Australia, New Zealand or the USA and have passed the DipSing or the Part A of the Singapore Bar Examinations and be a “qualified person” as defined in the Legal Profession Act 1996/the Legal Profession (Qualified Persons) Rules.
+(b) a Scheduled University in England, Australia, New Zealand or the USA and have passed the DipSing or the Part A of the Singapore Bar Examinations and be a “qualified person” as defined in the Legal Profession Act 1966/the Legal Profession (Qualified Persons) Rules.
 
 **Undergraduates/JD Students:**
 
 Undergraduates studying for an LLB programme at the NUS, the SMU or the SUSS or an LLB/B.A. Law/B.A. (Hons) Juris programme at a Scheduled University, and candidates studying for a JD programme at the NUS, the SMU, the SUSS or a Scheduled University, and who have successfully completed at least their second year of study, may apply to be interviewed for the possible offer of “conditional” appointment as a JSO.
 
-The possible confirmation of the offer of the “conditional” appointment as a JSO would be reviewed on the candidate’s full/successful completion of the LLB/B.A. Law/B.A. (Hons) Juris/JD programme and being awarded the requisite qualification.
+The possible confirmation of the offer of the “conditional” appointment as a JSO will be reviewed on the candidate’s full/successful completion of the LLB/B.A. Law/B.A. (Hons) Juris/JD programme and being awarded the requisite qualification.
 
 **Graduates with 5 years’ or less experience:**
 
