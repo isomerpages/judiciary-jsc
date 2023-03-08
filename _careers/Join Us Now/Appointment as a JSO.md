@@ -27,6 +27,12 @@ Please note that all eligible applicants are required to provide/include in thei
 (The statement and write-up should not be more than one page each \[in Arial; font size 14\] with the applicant’s name indicated at the bottom left corner.)
 
 <br>
+
+**Targeted Recruitment for initial deployment at the Family Justice Courts**
+
+A targeted recruitment exercise for initial deployment to the Family Justice Courts is currently being undertaken. Interested applicants with more than 5 years of relevant 
+
+<br>
 	
 **Interviews**
 	
