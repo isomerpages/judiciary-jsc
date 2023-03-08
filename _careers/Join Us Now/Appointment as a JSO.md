@@ -27,10 +27,16 @@ Please note that all eligible applicants are required to provide/include in thei
 (The statement and write-up should not be more than one page each \[in Arial; font size 14\] with the applicant’s name indicated at the bottom left corner.)
 
 <br>
+
+**Targeted Recruitment for initial deployment at the Family Justice Courts**
+
+A targeted recruitment exercise for initial deployment to the Family Justice Courts is concurrently being undertaken with the general recruitment exercise for the Singapore Judiciary. Interested applicants with more than 5 years of relevant experience in criminal, civil and/or family litigation work are kindly requested to ensure that they fully satisfy the criteria set out - under "Requirements" - in the Family Justice Courts' [write-up](https://go.gov.sg/beanfw) before submitting an application using the above application form by 6 Apr 2023 to the JSC Secretariat.
+
+<br>
 	
 **Interviews**
 	
 
-The next sets of recruitment interviews for those shortlisted are - for the present - targeted for Apr/May 2023.
+The next sets of recruitment interviews for those shortlisted are - for the present - targeted for May 2023.
 
 The candidates who are interviewed may be required to undergo a “Judicial Service Selection Programme” (ranging between an hour and half a day) to enable the Judicial Service to better assess their suitability for a judicial appointment.
