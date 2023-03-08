@@ -30,7 +30,7 @@ Please note that all eligible applicants are required to provide/include in thei
 
 **Targeted Recruitment for initial deployment at the Family Justice Courts**
 
-A targeted recruitment exercise for initial deployment to the Family Justice Courts is currently being undertaken. Interested applicants with more than 5 years of relevant 
+A targeted recruitment exercise for initial deployment to the Family Justice Courts is currently being undertaken. Interested applicants with more than 5 years of relevant experience in criminal, civil and/or family litigation work are kindly requested to ensure that they fully satisfy the criteria set out - under "Requirements" - the Family Justice Courts' write-up before submitting an application using the above application form by 6 Apr 2023 to the JSC Secretariat.
 
 <br>
 	
