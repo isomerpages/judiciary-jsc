@@ -26,7 +26,9 @@ Mid-career candidates with more than five years of strong relevant legal work ex
 
 **Interviews**
 
-The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved are - for the present - targeted for May 2023.
+The next sets of recruitment interviews for the eligible applicants whose shortlisting for an interview is approved would be on 12 May 2023.
+
+Eligible applicants who are keen to be considered for possible shortlisting for an interview on 12 May 2023 would be required to submit their application by 8 Apr 2023.
 
 Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
@@ -35,6 +37,6 @@ Please note that all eligible applicants are required to provide/include in thei
 (b) a Write-up<br> on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
 
 
-The candidates who are interviewed may be required to undergo a “Judicial Service Selection Programme” (ranging between an hour and half a day) to enable the Judicial Service to better assess their suitability for a judicial appointment.
+The candidates who are interviewed may be required to undergo a “Judicial Service Selection Programme” (ranging between an hour and half a day) to enable the Judicial Service to better assess their suitability for a judicial appointment.  This is currently slated for the afternoon of 22 May 2023.
 
 Please click [here](/careers/Eligibility-for-Appointment/graduates-JLC) for the details on applications for the Justices' Law Clerk Programme.
