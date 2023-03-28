@@ -35,4 +35,6 @@ Please note that all eligible applicants are required to provide/include in thei
 
 The next sets of recruitment interviews for those shortlisted would be on 12 May 2023.
 
+Eligible applicants who are keen to be considered for possible shortlisting for an interview on 12 May 2023 would be required to submit their application by 8 Apr 2023. 
+
 The candidates who are interviewed may be required to undergo a “Judicial Service Selection Programme” (ranging between an hour and half a day) to enable the Judicial Service to better assess their suitability for a judicial appointment. This is currently slated for the afternoon of 22 May 2023.
