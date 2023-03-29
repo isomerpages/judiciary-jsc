@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Vision & Mission.md
       - The JSC.md
       - Constitution of the JSC.md
       - Pen Pictures of the JSC Members.md
+      - Vision & Mission.md
       - The JSC Secretariat.md
