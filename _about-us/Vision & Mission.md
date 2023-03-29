@@ -5,7 +5,7 @@ description: ""
 ---
 # Vision
 
-**A trusted and future ready Judicial Service committed to excellence in the administration of Justice.**
+**A trusted and future ready Judicial Service committed to excellence in the administration of justice.**
 
 # Mission
 
