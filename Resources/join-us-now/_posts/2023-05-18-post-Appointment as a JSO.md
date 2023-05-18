@@ -36,7 +36,7 @@ Please note that all applicants are required to provide/include in their applica
 **Interviews**
 	
 
-The next sets of recruitment interviews for applicants who are shortlisted for an interview would be on 20 Oct 2023.  
+The next set of recruitment interviews for applicants who are shortlisted for an interview would be on 20 Oct 2023.  
 
 Applicants who are keen to be considered for possible shortlisting for an interview on 20 Oct 2023 would be required to submit their application by 20 Sep 2023. 
 
