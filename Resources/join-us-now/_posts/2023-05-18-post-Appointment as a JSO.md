@@ -1,8 +1,10 @@
 ---
 title: Appointment as a JSO
-permalink: /careers/Join-Us-Now/appointment-JSO/
+permalink: /resources/appointmentasajso/permalink/
+date: 2023-05-18
+layout: post
 description: ""
-third_nav_title: Join Us Now
+image: ""
 ---
 **Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)**
          
@@ -29,7 +31,7 @@ Please note that all applicants are required to provide/include in their applica
 
 (The statement and write-ups should not be more than one page each \[in Arial; font size 14\] with the applicant’s name indicated at the bottom left corner.)
 
-<br>
+
 	
 **Interviews**
 	
