@@ -40,8 +40,8 @@ Please note that all applicants are required to provide/include in their applica
 
 Please also note that candidates identified at the interviews would be required to:
 
-(a)&nbsp;&nbsp; complete a take-home written assignment via email ahead of the JSSP; and
+(a) complete a take-home written assignment via email ahead of the JSSP; and
 
-(b)&nbsp; &nbsp;be physically present to attend the JSSP to enable the Judicial Service to better assess their suitability for a judicial appointment. The JSSP is currently slated for the afternoon of 3 Nov 2023.
+(b) be physically present to attend the JSSP to enable the Judicial Service to better assess their suitability for a judicial appointment. The JSSP is currently slated for the afternoon of 3 Nov 2023.
 
 Please click [here](/careers/Eligibility-for-Appointment/graduates-JLC) for the details on applications for the Justices' Law Clerk Programme.
