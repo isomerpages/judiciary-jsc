@@ -29,7 +29,7 @@ Please note that all applicants are required to provide/include in their applica
 (b) a Write-up <br>
 on why he/she is applying to join the Judicial Service as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice; and
 
-(c) a summary of his/her legal work experience (where applicable).
+(c) a summary of his/her legal work experience.
 
 
 
