@@ -16,29 +16,33 @@ Interested applicants are kindly requested to:
 (b) enclose a scanned version of all relevant supporting documents. 
 
 
-Please note that all eligible applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following:
+Please note that all applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following:
 <br>
 
-(a) a Personal Statement; and
+(a) a Personal Statement; 
 <br>
 <br>
-(b) a Write-up <br>on why he/she is applying to the Judicial Service for consideration for possible shortlisting for an interview for possible appointment as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
-
-(The statement and write-up should not be more than one page each \[in Arial; font size 14\] with the applicant’s name indicated at the bottom left corner.)
-
+(b) a Write-up <br>on why he/she is applying to join the Judicial Service as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice; and
 <br>
+<br>
+(c)  a summary of his/her legal work experience (where applicable).
 
-**Targeted Recruitment for initial deployment at the Family Justice Courts**
-
-A targeted recruitment exercise for initial deployment to the Family Justice Courts is concurrently being undertaken with the general recruitment exercise for the Singapore Judiciary. Interested applicants with more than 5 years of relevant experience in criminal, civil and/or family litigation work are kindly requested to ensure that they fully satisfy the criteria set out - under "Requirements" - in the Family Justice Courts' [write-up](https://go.gov.sg/ms6zcu) before submitting an application using the above application form by 8 Apr 2023 to the JSC Secretariat.
+(The statement and write-ups should not be more than one page each \[in Arial; font size 14\] with the applicant’s name indicated at the bottom left corner.)
 
 <br>
 	
 **Interviews**
 	
 
-The next sets of recruitment interviews for those shortlisted would be on 12 May 2023.  
+The next sets of recruitment interviews for applicants who are shortlisted for an interview would be on 20 Oct 2023.  
 
-Eligible applicants who are keen to be considered for possible shortlisting for an interview on 12 May 2023 would be required to submit their application by 8 Apr 2023. 
+Applicants who are keen to be considered for possible shortlisting for an interview on 20 Oct 2023 would be required to submit their application by 20 Sep 2023. 
 
-The candidates who are interviewed may be required to undergo a “Judicial Service Selection Programme” (ranging between an hour and half a day) to enable the Judicial Service to better assess their suitability for a judicial appointment. This is currently slated for the afternoon of 22 May 2023.
+
+**Written Assignment &amp; Judicial Service Selection Programme (“JSSP”)**
+
+Please also note that candidates identified at the interviews would be required to:
+
+(a) complete a take-home written assignment via email ahead of the JSSP; and
+
+(b) be physically present to attend the JSSP to enable the Judicial Service to better assess their suitability for a judicial appointment. The JSSP is currently slated for the afternoon of 3 Nov 2023.
