@@ -32,9 +32,11 @@ Applicants who are keen to be considered for possible shortlisting for an interv
 
 Please note that all applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):
 
-(a) a Personal Statement; and		
+(a) a Personal Statement;	
 
-(b) a Write-up<br> on why he/she is applying to join the Judicial Service as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice.
+(b) a Write-up<br> on why he/she is applying to join the Judicial Service as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice; and 
+
+(c) a summary of his/her legal work experience (where applicable). 
 
 **Written Assignment &amp; Judicial Service Selection Programme ("JSSP")**
 
