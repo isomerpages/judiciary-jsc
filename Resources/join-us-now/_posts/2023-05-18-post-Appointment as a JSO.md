@@ -43,7 +43,7 @@ Applicants who are keen to be considered for possible shortlisting for an interv
 
 **Written Assignment &amp; Judicial Service Selection Programme (“JSSP”)**
 
-Please also note that candidates identified at the interviews would be required to:
+Please note that candidates identified at the interviews would be required to:
 
 (a) complete a take-home written assignment via email ahead of the JSSP; and
 
