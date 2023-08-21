@@ -103,8 +103,8 @@ The details of the internship positions available are as follows:
   mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Batch 2&nbsp;</span></strong><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br></span></i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>State Courts: [to be confirmed]</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>Supreme Court: 8 Jan – 12 Jan 2024</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:91.75pt;border:solid windowtext 1.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Supreme Court: 8 Jan – 12 Jan 2024</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>State Courts: 15 Jan  – 19 Jan 2024</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:.75pt .75pt .75pt .75pt" valign="top" width="122"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
