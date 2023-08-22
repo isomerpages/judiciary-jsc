@@ -1,14 +1,16 @@
 ---
 title: Appointment as a JSO
 permalink: /resources/appointmentasajso/permalink/
-date: 2023-05-18
+date: 2023-08-22
 layout: post
 description: ""
 image: ""
 ---
 **Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)**
          
-We invite eligible applicants considering a career in the Singapore Judicial Service as a JSO to complete and submit the [application form](https://go.gov.sg/judicalserviceofficerapplicationform).
+We invite eligible applicants considering a career in the Singapore Judicial Service as a JSO and initial deployment at the Family Justice Courts or the State Courts or the Supreme Court Registry to complete and submit the [application form](https://go.gov.sg/judicalserviceofficerapplicationform) by 20 Sep 2023.
+
+Please refer to the [write-up](https://go.gov.sg/targetedrecruitment) for more information. 
 
 Interested applicants are kindly requested to:
 
