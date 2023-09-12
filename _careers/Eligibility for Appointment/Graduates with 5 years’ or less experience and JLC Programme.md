@@ -56,7 +56,7 @@ The Justices' Law Clerk (“JLC”) Programme is a structured 2-year programme o
 The interviews in 2023 of shortlisted applicants for possible appointment to the Judicial Service as a JSO and selection for deployment to the 2-year JLC Programme will be in:
 
 
-(a) Jul 2023 for the eligible applicants from the NUS and the SMU and the eligible applicants who will be available for immediate appointment in Aug/Sep 2023 to the Judicial Service as a JSO and deployment (on successful completion of the 2023 Part B of the Singapore Bar Examinations) to the JLC Pool in Jan 2024 (as part of the Jan 2024 JLC cohort); and
+(a) Jul 2023 for the eligible applicants from the NUS and the SMU and the eligible applicants who will be available for immediate appointment in Sep 2023 to the Judicial Service as a JSO and deployment (on successful completion of the 2023 Part B of the Singapore Bar Examinations) to the JLC Pool in Jan 2024 (as part of the Jan 2024 JLC cohort); and
 
 (b) Sep 2023 for the eligible applicants from the Scheduled Universities who will be available for appointment in Jan 2024 (on successful completion of the Part A of the Singapore Bar Examinations) or Jul 2024 (on completion of the full duration of the Relevant Legal Training and successful completion of the Part A Examinations) to the Judicial Service as a JSO and deployment (on successful completion of the 2024 Part B of the Singapore Bar Examinations) to the JLC Pool in Jan 2025 (as part of the Jan 2025 JLC cohort).
 
@@ -65,7 +65,7 @@ The interviews in 2023 of shortlisted applicants for possible appointment to the
 
 Eligible applicants who are keen to be considered for possible appointment to the Judicial Service as a JSO and selection for deployment to the 2-year JLC Programme will be required to submit their application by:
 
-(a) 10 am on Mon 12 Jun 2023 for the eligible applicants from the NUS and the SMU and the eligible applicants who will be available for immediate appointment in Aug/Sep 2023 to the Judicial Service as a JSO and deployment (on successful completion of the 2023 Part B of the Singapore Bar Examinations) to the JLC Pool in Jan 2024 (as part of the Jan 2024 JLC cohort); or  
+(a) 10 am on Mon 12 Jun 2023 for the eligible applicants from the NUS and the SMU and the eligible applicants who will be available for immediate appointment in Sep 2023 to the Judicial Service as a JSO and deployment (on successful completion of the 2023 Part B of the Singapore Bar Examinations) to the JLC Pool in Jan 2024 (as part of the Jan 2024 JLC cohort); or  
   
 (b) 10 am on Mon 7 Aug 2023 for the eligible applicants from the Scheduled Universities who will be available for appointment in Jan 2024 (on successful completion of the Part A of the Singapore Bar Examinations) or Jul 2024 (on completion of the full duration of the Relevant Legal Training and successful completion of the Part A Examinations) to the Judicial Service as a JSO and deployment (on successful completion of the 2024 Part B of the Singapore Bar Examinations) to the JLC Pool in Jan 2025 (as part of the Jan 2025 JLC cohort).
 
