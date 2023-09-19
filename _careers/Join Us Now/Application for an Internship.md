@@ -1,6 +1,6 @@
 ---
 title: Application for an Internship
-permalink: /careers/Join-Us-Now/application-internship/
+permalink: /careers/join-us-now/application-internship/
 description: ""
 third_nav_title: Join Us Now
 ---

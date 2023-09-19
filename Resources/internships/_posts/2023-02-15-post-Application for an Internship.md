@@ -1,6 +1,6 @@
 ---
 title: Application for an Internship
-permalink: /Resources/internships/permalink/
+permalink: /resources/internships/permalink/
 date: 2023-02-15
 layout: post
 description: ""

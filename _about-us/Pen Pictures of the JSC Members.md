@@ -1,6 +1,6 @@
 ---
 title: Pen Pictures of the JSC Members
-permalink: /about-us/Pen-Pictures-of-the-JSC-Members
+permalink: /about-us/pen-pictures-of-the-jsc-members/
 description: ""
 ---
 # Pen Pictures of the JSC Members

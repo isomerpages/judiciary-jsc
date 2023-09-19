@@ -1,6 +1,6 @@
 ---
 title: Undergraduates & JD Students
-permalink: /careers/Undergraduates-JD-Students/permalink/
+permalink: /careers/undergraduates-jd-students/permalink/
 description: ""
 third_nav_title: Eligibility for Appointment
 ---

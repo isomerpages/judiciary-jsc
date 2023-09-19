@@ -1,6 +1,6 @@
 ---
 title: Eligibility for Appointment as a JSO
-permalink: /careers/Eligibility-for-Appointment/as-a-JSO/
+permalink: /careers/eligibility-for-appointment/as-a-jso/
 description: ""
 third_nav_title: Eligibility for Appointment
 ---
