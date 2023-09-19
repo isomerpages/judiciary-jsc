@@ -8,11 +8,11 @@ notification: ""
 sections:
   - hero:
       title: Judicial Service Commission
-      background: /images/Homepage/Plain JSC Banner.jpg
+      background: /images/homepage/plain jsc banner.jpg
   - infobar:
       title: Judicial Service Commission
       button: About Us
-      url: /about-us/The-JSC
+      url: about-us/the-jsc
       subtitle: Introduction
   - resources:
       title: Careers in the Singapore Judicial Service

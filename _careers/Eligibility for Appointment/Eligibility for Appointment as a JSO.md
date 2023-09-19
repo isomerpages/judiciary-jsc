@@ -46,4 +46,4 @@ Please also note that candidates identified at the interviews would be required 
 
 (b) be physically present to attend the JSSP to enable the Judicial Service to better assess their suitability for a judicial appointment. The JSSP is currently slated for the afternoon of 3 Nov 2023.
 
-Please click [here](/careers/Eligibility-for-Appointment/graduates-JLC) for the details on applications for the Justices' Law Clerk Programme.
+Please click [here](/careers/eligibility-for-appointment/graduates-jlc) for the details on applications for the Justices' Law Clerk Programme.
