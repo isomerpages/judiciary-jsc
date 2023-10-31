@@ -105,7 +105,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 
 <br>
 
-**Family Justice Courts**
+**Internship with the Family Justice Courts**
 
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.45pt;border-collapse:collapse;border:none;mso-border-alt:
