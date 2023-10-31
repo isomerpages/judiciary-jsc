@@ -16,7 +16,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 <br>
 <br>
 
-**Singapore Judicial Service Internship Programme 2023/2024**
+**2024 Singapore Judicial Service Internship Programme**
 
 There are two internship cycles: one in mid-2023 (Jun/Jul) and another in late-2023/early-2024 (Dec 2023 – Jan 2024).&nbsp; All applicants are to clearly indicate the internship cycle(s) they are applying for.&nbsp;
 
