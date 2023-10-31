@@ -37,13 +37,13 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt;height:43.25pt"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Supreme Court</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>State Courts</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"></span></b></p></td><td width="236" style="width:177.2pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt;height:43.25pt"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.1pt;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm">State Courts</span></strong><span style="font-size:11.0pt;
+  padding:0cm">Supreme Court</span></strong><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
@@ -54,7 +54,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin-top:0cm;margin-right:4.6pt;margin-bottom:0cm;margin-left:
   7.8pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">You should have an interest in joining the Singapore Judicial Service. You will sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications. You will also have the opportunity to sit in at case conferences, observe open court hearings and gain an insight into the process of court administration. You may be required to assist in some project or research work undertaken by the Judiciary.</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">You will have the opportunity to observe a wide variety of hearings conducted in the State Courts, including proceedings in the registries and open court matters. You will also have the opportunity to meet our Judicial Officers for fireside chats and attend Master Classes for criminal and civil law cases. You may be required to assist in some project or research work undertaken by the Judiciary.</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin-top:0cm;margin-right:5.7pt;margin-bottom:0cm;margin-left:
