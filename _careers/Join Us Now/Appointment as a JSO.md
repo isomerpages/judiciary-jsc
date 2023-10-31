@@ -1,6 +1,6 @@
 ---
 title: Appointment as a JSO
-permalink: /careers/Join-Us-Now/appointment-JSO/
+permalink: /careers/join-us-now/appointment-jso/
 description: ""
 third_nav_title: Join Us Now
 ---

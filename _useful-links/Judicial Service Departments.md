@@ -1,6 +1,6 @@
 ---
 title: Judicial Service Departments
-permalink: /useful-links/judicial-service-dept
+permalink: /useful-links/judicial-service-dept/
 description: ""
 ---
 **Singapore Courts:** [https://www.judiciary.gov.sg](https://www.judiciary.gov.sg)

@@ -1,6 +1,6 @@
 ---
 title: Graduates with 5 years’ or less experience and JLC Programme
-permalink: /careers/Eligibility-for-Appointment/graduates-JLC/
+permalink: /careers/eligibility-for-appointment/graduates-jlc/
 description: ""
 third_nav_title: Eligibility for Appointment
 ---

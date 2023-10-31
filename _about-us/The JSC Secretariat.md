@@ -1,6 +1,6 @@
 ---
 title: The JSC Secretariat
-permalink: /about-us/The-JSC-Secretariat/
+permalink: /about-us/the-jsc-secretariat/
 description: ""
 ---
 # The JSC Secretariat

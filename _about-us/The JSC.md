@@ -1,6 +1,6 @@
 ---
 title: The JSC
-permalink: /about-us/The-JSC
+permalink: /about-us/the-jsc/
 description: ""
 ---
 

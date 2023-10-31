@@ -1,6 +1,6 @@
 ---
 title: Legal Resources
-permalink: /useful-links/legal-resources
+permalink: /useful-links/legal-resources/
 description: ""
 ---
 **Singapore Academy of Law:** [https://www.sal.org.sg](https://www.sal.org.sg)

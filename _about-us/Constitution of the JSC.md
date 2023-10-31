@@ -1,6 +1,6 @@
 ---
 title: Constitution of the JSC
-permalink: /about-us/Constitution-of-the-JSC
+permalink: /about-us/constitution-of-the-jsc/
 description: ""
 ---
 # Constitution of the Judicial Service Commission

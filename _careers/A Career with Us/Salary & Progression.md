@@ -1,6 +1,6 @@
 ---
 title: Salary & Progression
-permalink: /careers/A-Career-with-Us/Salary-Progression
+permalink: /careers/a-career-with-us/salary-progression/
 description: ""
 third_nav_title: A Career with Us
 ---
