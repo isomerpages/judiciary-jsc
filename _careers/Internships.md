@@ -25,12 +25,12 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
  mso-border-insidev:.5pt solid windowtext" width="604" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:43.25pt"><td style="width:91.75pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;height:43.25pt" width="122"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Department</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Expectations</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"></span></b></p></td><td style="width:184.25pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:43.25pt" width="246"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
+  padding:.75pt .75pt .75pt .75pt;height:43.25pt" width="246"><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Supreme Court</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Supreme Court</span><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"></span></b></p></td><td style="width:177.2pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt;height:43.25pt" width="236"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.1pt;
