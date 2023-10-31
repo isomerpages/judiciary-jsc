@@ -93,7 +93,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>6 weeks (2 weeks at each court)</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>6 weeks (2 weeks at each Court)</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
 
 **Internship with the State Courts and the Supreme Court**
 
