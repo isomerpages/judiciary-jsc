@@ -19,7 +19,6 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 **2024 Singapore Judicial Service Internship Programme**
 
 **Judicial Signature Programme (at the State Courts, Family Justice Courts &amp; Supreme Court)**
-
 <br><p></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
   1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"></span></p><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.45pt;border-collapse:collapse;border:none;mso-border-alt:
