@@ -116,7 +116,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Expectations</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="495" valign="top" style="width:371.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin-top:5.0pt;margin-right:6.15pt;margin-bottom:0cm;margin-left:
+  solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin-top:1.0pt;margin-right:6.15pt;margin-bottom:0cm;margin-left:
   1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Interns will have the opportunity to sit in with judicial officers and observe<span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>open court proceedings in the Family Court and the Youth Court as well as hearings in Chambers.</span></p><p style="margin-top:5.0pt;margin-right:6.15pt;margin-bottom:0cm;margin-left:
   1.95pt;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
