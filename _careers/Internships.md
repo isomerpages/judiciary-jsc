@@ -129,7 +129,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin-top:0cm;margin-right:5.7pt;margin-bottom:0cm;margin-left:
   7.1pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">You should have a keen interest in joining the Singapore Judicial Service. You will have the opportunity to sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications, and observe open court hearings. You will also have the opportunity to sit in at cases conferences. Through these experiences, you will gain valuable insights into the conduct of court hearings and the process of court administration, and how these contribute to the administration of justice in Singapore. You may also be required to assist in some project or research work undertaken by the Judiciary. <span style="mso-spacerun:yes">&nbsp; </span>You may also be required to assist in some project or research work undertaken by the Judiciary.</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">You should have a keen interest in joining the Singapore Judicial Service. You will have the opportunity to sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications, and observe open court hearings. You will also have the opportunity to sit in at cases conferences. Through these experiences, you will gain valuable insights into the conduct of court hearings and the process of court administration, and how these contribute to the administration of justice in Singapore. You may also be required to assist in some project or research work undertaken by the Judiciary. <span style="mso-spacerun:yes">&nbsp; </span></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -142,7 +142,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm">Law students who are in their 2<sup>nd </sup>year of study and above</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:none windowtext 0cm;padding:0cm">Law students who are in their 2<sup>nd </sup>year of study and above<br><br></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
@@ -158,7 +158,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
   &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">Supreme Court: 29 Jul 2024  –  2 Aug 2024</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
+  none windowtext 0cm;padding:0cm">Supreme Court: 29 Jul 2024  –  2 Aug 2024<br><br></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -169,7 +169,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>2 weeks.</span><span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>2 weeks.<br></span><span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span></span></span></p></td></tr></tbody></table>
 
@@ -205,7 +205,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>1<sup>st</sup>&nbsp;to 4<sup>th</sup>&nbsp;year law students</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>1<sup>st</sup>&nbsp;to 4<sup>th</sup>&nbsp;year law students<br> <br></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
@@ -216,7 +216,8 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>13 May 2024 – 7 Jun 2024</span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>13 May 2024 – 7 Jun 2024<br><br>
+	</span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
@@ -232,4 +233,4 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>4 weeks.</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>4 weeks.<br></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
