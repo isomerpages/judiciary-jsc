@@ -38,9 +38,12 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   padding:0cm"><br>It is a unique programme which allows law students to acquire a different perspective of legal work through personalised interaction with judges and judicial officers, working on actual cases and experiencing legal practice in real-life settings. There will be sharing sessions and lunches hosted by senior members of the Supreme Court Bench. Students will be required to complete individual written assigments.<br style="mso-special-character:line-break">
 	<br></span></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
   1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Students will be provided a "pre-taste" of the Justices' Law Clerk ("JLC") Programme, allowing them to consider if the JLC Programme is what they wish to pursue after graduation. Good performance in the JSP will stand the students in good stead for consideration for the JLC Programme (should they decide to apply).<span style="mso-special-character:line-break"><br style="mso-special-character:line-break">
+	<br></span></span></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
+  1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Students will be provided a "pre-taste" of the Justices' Law Clerk ("JLC") Programme, allowing them to consider if the JLC Programme is what they wish to pursue after graduation. Good performance in the JSP will stand the students in good stead for consideration for the JLC Programme (should they decide to apply).<span style="mso-special-character:line-break">
 	<br></span></span></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
-  1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt">f<span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">&nbsp;</span></p></td></tr><tr style="mso-special-character:line-break">
 	<td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
