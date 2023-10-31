@@ -22,91 +22,10 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 
 
 
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| Text     | Text     |
 
 
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="604" style="width:453.2pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:43.25pt"><td width="122" style="width:91.75pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt;height:43.25pt"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Expectations</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"></span></b></p></td><td width="246" style="width:184.25pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.75pt .75pt .75pt .75pt;height:43.25pt"><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt; 
-	
-</span></p></td><td width=" valign="top"></span></p><p style="margin-top:0cm;margin-right:5.7pt;margin-bottom:0cm;margin-left:
-  7.1pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"> The Judiciary Signature Programme (“JSP”) is a judicial clinical programme designed to provide students with the opportunity to observe proceedings in the Courts at close range, attend masterclasses on court proceedings conducted by judicial officers and senior court administrators, and be attached to judicial officers to acquire experiential knowledge of law practice through direct exposure to judicial work and the realities of court proceedings.<span style="mso-spacerun:yes">&nbsp; </span>You may be required to assist in some project or research work undertaken by the Judiciary.</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Eligibility</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="482" colspan="2" valign="top" style="width:361.45pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm">Law students who are in their 2<sup>nd </sup>year of study and above</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Period of <span style="mso-spacerun:yes">&nbsp;</span><br><span style="mso-spacerun:yes">&nbsp;</span>Internship</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="482" colspan="2" valign="top" style="width:361.45pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Batch 1</span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br></span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">State Courts: 19 Jun – 23 Jun 2023</span></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">Supreme Court:&nbsp;26 Jun – 30 Jun 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Batch 2&nbsp;</span></strong><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br></span></i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp; </span>Supreme Court: 8 Jan – 12 Jan 2024</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>State Courts: 15 Jan  – 19 Jan 2024</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Duration</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="482" colspan="2" valign="top" style="width:361.45pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>2 weeks.</span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
-  line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>All applicants who wish to be shortlisted for an internship must be able <span style="mso-spacerun:yes">&nbsp;</span></span><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp; </span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"> </span></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">to commit to the full period/duration of the internship.</span></p></td></tr></tbody></table>
-
-<br>
-
-
-
-**Judicial Internship Programme**
+**Internship with the State Courts and the Supreme Court**
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="604" style="width:453.2pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
