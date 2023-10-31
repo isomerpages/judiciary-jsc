@@ -18,8 +18,8 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 
 **2024 Singapore Judicial Service Internship Programme**
 
+**Judicial Signature Programme (at the State Courts, Family Justice Courts &amp; Supreme Court)**
 
-**
 
 **Judicial Internship Programme**
 
