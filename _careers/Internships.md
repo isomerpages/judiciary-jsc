@@ -20,6 +20,61 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 
 **Judicial Signature Programme (at the State Courts, Family Justice Courts &amp; Supreme Court)**
 
+<table style="width:460.45pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="614" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:89.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt" valign="top" width="119"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
+  line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Expectations</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:371.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt" valign="top" width="495"><p style="margin-top:1.0pt;margin-right:6.15pt;margin-bottom:0cm;margin-left:
+  1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">The Judiciary Signature Programme ("JSP") is a judicial clinical programme designed to provide students with the opportunity to bserve proceedings in the Courts at close range, attend masterclasses on court proceedings conducted by judicial officers and senior court administrators, and be attached to judicial officers to acquire experiential knowledge of law practice through direct exposure to judicial work and the realities of court proceedings.<span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="margin-top:5.0pt;margin-right:6.15pt;margin-bottom:0cm;margin-left:
+  1.95pt;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+  padding:0cm"><br>It is a unique programme which allows law students to acquire a different perspective of legal work through personalised interaction with judges and judicial officers, working on actual cases and experie<br style="mso-special-character:line-break">
+	<br></span></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
+  1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Interns may also be asked to assist in project work undertaken by their<br>respective judicial officer mentors or other judicial officers as may be<br>required.<span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:89.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFFFCC;padding:.75pt .75pt .75pt .75pt" valign="top" width="119"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
+  line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Eligibility</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:371.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt" valign="top" width="495"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
+  line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>1<sup>st</sup>&nbsp;to 4<sup>th</sup>&nbsp;year law students</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:89.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:.75pt .75pt .75pt .75pt" valign="top" width="119"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
+  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Period of<br></span></strong><strong><span style="font-size:11.0pt;color:black;border:
+  none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span></strong><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Internship</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:371.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt" valign="top" width="49><p style="><span style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>13 May 2023 – 7 Jun 2024</span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
+  mso-border-alt:none windowtext 
+  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
+  mso-border-alt:none windowtext 0cm;padding:0cm">
+</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:89.4pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFFFCC;padding:.75pt .75pt .75pt .75pt" valign="top" width="119"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
+  line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Duration</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:371.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt" valign="top" width="495"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
+  line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>4 weeks.</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
 
 **Internship with the State Courts and the Supreme Court**
 
