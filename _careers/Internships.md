@@ -16,7 +16,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 <br>
 <br>
 
-**2024 Singapore Judicial Service Internship Programme**
+**2024 Singapore Judicial Service Internship Programmes**
 
 **Judiciary Signature Programme (at the State Courts, Family Justice Courts &amp; Supreme Court)**
 <br><p></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
@@ -77,7 +77,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>State Courts: 10 Jun 2024 - 21 Jun 2024 <br style="mso-special-character:line-break">Family Justice Courts: 24 Jun 2024 - 5 Jul 2024 <br style="mso-special-character:line-break">Supreme Court: 8 Jul 2024 - 19 Jun 2024 </span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>State Courts: 10 Jun 2024 – 21 Jun 2024 <br style="mso-special-character:line-break">Family Justice Courts: 24 Jun 2024 – 5 Jul 2024 <br style="mso-special-character:line-break">Supreme Court: 8 Jul 2024 – 19 Jun 2024 </span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
@@ -129,7 +129,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><p style="margin-top:0cm;margin-right:5.7pt;margin-bottom:0cm;margin-left:
   7.1pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">You should have a keen interest in joining the Singapore Judicial Service. You will have the opportunity to sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications, and observe open court hearings. You will also have the opportunity to sit in at cases conferences. Through these experiences, you will gain valuable insights into the conduct of court hearings and the process of court administration, and how these contribute to the administration of justice in Singapore. You may also be required to assist in some project or research work undertaken by the Judiciary. <span style="mso-spacerun:yes">&nbsp; </span>You may be required to assist in some project or research work undertaken by the Judiciary.</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">You should have a keen interest in joining the Singapore Judicial Service. You will have the opportunity to sit in with registrars on a wide variety of hearings conducted in the Supreme Court, including interlocutory applications such as summary judgment hearings and discovery applications, and observe open court hearings. You will also have the opportunity to sit in at cases conferences. Through these experiences, you will gain valuable insights into the conduct of court hearings and the process of court administration, and how these contribute to the administration of justice in Singapore. You may also be required to assist in some project or research work undertaken by the Judiciary. <span style="mso-spacerun:yes">&nbsp; </span>You may also be required to assist in some project or research work undertaken by the Judiciary.</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -158,7 +158,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
   &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">Supreme Court: 29 Jul 2024 - 2 Aug 2024</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
+  none windowtext 0cm;padding:0cm">Supreme Court: 29 Jul 2024  –  2 Aug 2024</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="122" valign="top" style="width:91.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -194,7 +194,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   padding:0cm"><br>Interns will also have the opportunity to understand the court administration process and framework.<br style="mso-special-character:line-break">
 	<br></span></p><p style="margin-top:0cm;margin-right:6.15pt;margin-bottom:0cm;margin-left:
   1.95pt;text-align:justify;text-justify:inter-ideograph;line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Interns may also be asked to assist in project work undertaken by their<br>respective judicial officer mentors or other judicial officers as may be<br>required.<span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
+  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Interns may also be asked to assist in project work undertaken by their<br>respective judicial officer mentors or other judicial officers as may be<br>required.<br><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr><tr style="mso-yfti-irow:1"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -216,7 +216,7 @@ border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Vid
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>13 May 2023 – 7 Jun 2024</span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>13 May 2024 – 7 Jun 2024</span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
