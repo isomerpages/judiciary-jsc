@@ -105,13 +105,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span>All applicants who wish to be shortlisted for an internship must be able <span style="mso-spacerun:yes">&nbsp;</span></span><span style="color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp; </span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"> </span></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">to commit to the full period/duration of the internship.</span></p></td></tr></tbody></table>
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span><span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
 
 <br>
 
