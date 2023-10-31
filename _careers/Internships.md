@@ -68,7 +68,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>State Courts: 10 Jun 2024 - 21 Jun 2024 </span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>State Courts: 10 Jun 2024 - 21 Jun 2024 Family Justice Courts: 24 Jun 2024 - 5 Jul 2024 Supreme Court: 8 Jul 2024 - 19 Jun 2024 </span><p></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
@@ -84,7 +84,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-alt:solid windowtext .5pt;background:#FFFFCC;padding:.75pt .75pt .75pt .75pt"><p style="margin:0cm;text-align:justify;text-justify:inter-ideograph;
   line-height:18.0pt"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>6 weeks.(</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
+  padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>6 weeks (2 weeks at each court)</span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"> <span style="mso-spacerun:yes">&nbsp;</span></span></p></td></tr></tbody></table>
 
 **Internship with the State Courts and the Supreme Court**
 
