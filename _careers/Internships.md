@@ -59,7 +59,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:58.0pt" valign="top" width="509"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;tab-stops:78.9pt 93.1pt" class="MsoNormal"><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:EN-SG">State Courts: <span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>10 Jun 2024 – 21 Jun 2024<br>Family Justice Courts: 24 Jun 2024 – 5 Jul 2024<br>Supreme Court: <span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>8 Jul 2024 – 19 Jul 2024</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:42.5pt"><td style="width:85.5pt;border:solid windowtext 1.0pt;
+  mso-fareast-language:EN-SG">State Courts: <span style="mso-spacerun:yes"></span>10 Jun 2024 – 21 Jun 2024<br>Family Justice Courts: 24 Jun 2024 – 5 Jul 2024<br>Supreme Court: <span style="mso-spacerun:yes"></span>8 Jul 2024 – 19 Jul 2024</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:42.5pt"><td style="width:85.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:42.5pt" valign="top" width="114"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -69,8 +69,8 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:42.5pt" valign="top" width="509"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;background:white" class="MsoNormal"><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext;mso-fareast-language:EN-SG">6 weeks<br>(</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">2 weeks at each Court)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  color:dark;mso-color-alt:windowtext;mso-fareast-language:EN-SG">6 weeks<br>(</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:dark;mso-color-alt:windowtext">2 weeks at each Court)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-fareast-language:EN-SG"></span></p></td></tr></tbody></table>
 
 **Internship with the State Courts and the Supreme Court**
