@@ -79,10 +79,9 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span>Period of <span style="mso-spacerun:yes">&nbsp;</span><br><span style="mso-spacerun:yes">&nbsp;</span>Internship</span></strong><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:361.45pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt" valign="top" colspan="2" width="482"><p style="margin:0cm;line-height:18.0pt"><strong><span style="font-size:11.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:.75pt .75pt .75pt .75pt" valign="top" colspan="2" width="482"><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes"></span></span></strong><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm"><br></span></b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes"></span></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
   &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt: none windowtext 0cm;padding:0cm">State Courts: 22 Jul 2024 – 26 Jul 2024</span></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
