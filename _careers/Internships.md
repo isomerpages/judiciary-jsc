@@ -88,7 +88,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   font-family:&quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;
   mso-border-alt:none windowtext 0cm;padding:0cm"><span style="mso-spacerun:yes">&nbsp;</span></span><span style="mso-spacerun:yes">&nbsp;</span><span style="font-size:11.0pt;font-family:
   &quot;Arial&quot;,sans-serif;color:black;border:none windowtext 1.0pt;mso-border-alt:
-  none windowtext 0cm;padding:0cm">Supreme Court:&nbsp;26 Jun – 30 Jun 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  none windowtext 0cm;padding:0cm">Supreme Court: 29 Jul 2024 - 2 Aug 2024<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black"></span></p><p style="margin:0cm;line-height:18.0pt"><span style="font-size:11.0pt;
   font-family:&quot;Arial&quot;,sans-style="><br></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
