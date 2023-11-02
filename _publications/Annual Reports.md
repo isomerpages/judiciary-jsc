@@ -6,7 +6,7 @@ description: ""
 <img src="/images/ar%20covers/jsc%20ar%202022.png" style="width:120px; 
 height:160px;
 float:left;
-margin-right:15px">[Singapore Legal Service - 2021 In Review](/files/ar/singapore%20legal%20service%20-%202021%20in%20review.pdf)
+margin-right:15px">[Judicial Service Commission Annual Report 2022](https://go.gov.sg/jscannualreport2022)
 
 <br><br><br>
 <img src="/images/ar%20covers/singapore%20legal%20service%20-%202021%20in%20review.jpg" style="width:120px; 
