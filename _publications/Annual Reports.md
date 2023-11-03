@@ -2,11 +2,12 @@
 title: Annual Reports
 permalink: /publications/annual-reports/
 description: ""
+variant: markdown
 ---
 <img src="/images/ar%20covers/jsc%20ar%202022.png" style="width:120px; 
 height:160px;
 float:left;
-margin-right:15px">[Judicial Service Commission Annual Report 2022](https://go.gov.sg/jscannualreport2022)
+margin-right:15px">[Judicial Service Commission Annual Report 2022](https://cms.isomer.gov.sg/sites/judiciary-jsc/media/files/mediaDirectory/files%2Far/editMediaSettings/judicial%20service%20commission_annual%20report%202022.pdf)
 
 <br><br><br>
 <img src="/images/ar%20covers/singapore%20legal%20service%20-%202021%20in%20review.jpg" style="width:120px; 
