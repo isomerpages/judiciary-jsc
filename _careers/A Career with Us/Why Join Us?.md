@@ -11,4 +11,4 @@ JSOs may serve the Singapore Judiciary in different capacities at the Supreme Co
 
 You will, as a JSO, have a noble and fulfilling career. You will serve and protect the interests of the public and the nation.  You will directly participate in the administration of justice.
 
-The Singapore Judicial Service will provide you numerous opportunities and wide exposure to a broad spectrum of challenging and interesting judicial work. The work will stretch your abilities, offer a sense of achievement and fulfilment, and make a positive impact to the lives of Singaporeans.
+The Singapore Judicial Service will provide you numerous opportunities and wide exposure to a broad spectrum of challenging and interesting judicial work. The work will stretch your abilities, offer a sense of achievement and fulfilment, and have a positive impact on society.
