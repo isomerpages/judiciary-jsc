@@ -3,6 +3,7 @@ title: Why Join Us?
 permalink: /careers/a-career-with-us/why-join-us/
 description: ""
 third_nav_title: A Career with Us
+variant: markdown
 ---
 Judicial Service Officers (“JSOs”) in the Singapore Judicial Service are appointed by the Judicial Service Commission.
 
