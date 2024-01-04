@@ -36,10 +36,11 @@ Please note that all applicants are required to provide/include in their applica
 	
 **2-stage Selection Process**
 	
+ <u>Stage 1: Recruitment Interviews</u>
+ 
+The next set of recruitment interviews for applicants who are shortlisted for an interview would be on 15 Apr 2024.  
 
-The next set of recruitment interviews for applicants who are shortlisted for an interview would be on 20 Oct 2023.  
-
-Applicants who are keen to be considered for possible shortlisting for an interview on 20 Oct 2023 would be required to submit their application by 20 Sep 2023. 
+Applicants who are keen to be considered for possible shortlisting for an interview on 15 Apr 2024 would be required to submit their application by 6 Mar 2024. 
 
 
 **Written Assignment &amp; Judicial Service Selection Programme (“JSSP”)**
