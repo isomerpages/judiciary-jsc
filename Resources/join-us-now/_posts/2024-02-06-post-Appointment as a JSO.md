@@ -1,8 +1,10 @@
 ---
 title: Appointment as a JSO
-permalink: /careers/join-us-now/appointment-jso/
+permalink: /resources/appointmentasajso/permalink/
+date: 2024-02-06
+layout: post
 description: ""
-third_nav_title: Join Us Now
+image: ""
 variant: tiptap
 ---
 <p><strong>Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)</strong>
@@ -16,29 +18,21 @@ Sep 2024 (for consideration in Oct/Nov 2024).</p>
 <p>Interested applicants are kindly requested to:</p>
 <p>(a) ensure that they fully satisfy the eligibility criteria/requirements
 set out under the section "Eligibility for Appointment as a JSO" before
-submitting the completed application form to <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a>; and
-<br>
-</p>
+submitting the completed application form to <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a>; and</p>
 <p>(b) enclose a scanned version of all relevant supporting documents.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
-Panel - the following:
-<br>
-</p>
-<p>(a) a Personal Statement;
-<br>
-<br>(b) a Write-up
+Panel - the following:</p>
+<p>(a) a Personal Statement;</p>
+<p>(b) a Write-up
 <br>on why he/she is applying to join the Judicial Service as a JSO and how
 and what he/she can contribute to the Judicial Service and the administration
-of justice; and
-<br>
-<br>(c) a summary of his/her legal work experience (where applicable).</p>
+of justice; and</p>
+<p>(c) a summary of his/her legal work experience (where applicable).</p>
 <p>(The statement and write-ups should not be more than one page each [in
 Arial; font size 14] with the applicant’s name indicated at the bottom
 left corner.)</p>
-<p>
-<br>
-</p>
+<h1></h1>
 <p><strong>2-stage Selection Process</strong>
 </p>
 <p><u>Stage 1: Recruitment Interviews</u>
