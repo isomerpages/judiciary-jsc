@@ -8,5 +8,4 @@ The Judiciary is one of the three Organs of State. The Honourable the Chief Just
 
 The JSOs in the Singapore Judicial Service play a vital role in administering justice and upholding the rule of law in our country. JSOs appointed to the Judicial Service may serve at the Supreme Court, the Family Justice Courts or the State Courts.
 
-<img src="/images/org%20chart/js%20org%20chart_sep22.png" style="width:800px;
-            height:750px;">
+![](/images/org%20chart/Org_Chart_2024.png)
