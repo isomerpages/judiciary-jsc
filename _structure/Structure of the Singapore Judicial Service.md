@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p>The Judiciary is one of the three Organs of State. The Honourable the
-Chief Justice who is also the President of the Judicial Service Commission
-heads the Singapore Judiciary.&nbsp;&nbsp;
+Chief Justice - who is also the President of the Judicial Service Commission
+- heads the Singapore Judiciary.&nbsp;&nbsp;
 <br>
 <br>&nbsp;The&nbsp;Judicial Service Officers (“JSOs”)&nbsp;in the Singapore
 Judicial Service play a vital role in administering justice and upholding
