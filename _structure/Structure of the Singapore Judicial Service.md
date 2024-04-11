@@ -2,10 +2,18 @@
 title: Structure of the Singapore Judicial Service
 permalink: /structure/structure-of-the-singapore-judicial-service/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-The Judiciary is one of the three Organs of State. The Honourable the Chief Justice heads the Singapore Judiciary. Within the Judicial Service, the Registrar of the Supreme Court leads the Judicial Service Officers (“JSOs”) in the Supreme Court; while the Presiding Judge of the Family Justice Courts and the Presiding Judge of the State Courts lead the Judicial Service Officers in the Family Justice Courts and the State Courts, respectively. The Registrar of the Supreme Court, the Presiding Judge of the Family Justice Courts and the Presiding Judge of the State Courts are accountable to The Honourable the Chief Justice for their management of these JSOs.
-
-The JSOs in the Singapore Judicial Service play a vital role in administering justice and upholding the rule of law in our country. JSOs appointed to the Judicial Service may serve at the Supreme Court, the Family Justice Courts or the State Courts.
-
-![](/images/org%20chart/Org_Chart_2024.png)
+<p>The Judiciary is one of the three Organs of State. The Honourable the
+Chief Justice - who is also the President of the Judicial Service Commission
+- heads the Singapore Judiciary.&nbsp;&nbsp;
+<br>
+<br>&nbsp;The&nbsp;Judicial Service Officers (“JSOs”)&nbsp;in the Singapore
+Judicial Service play a vital role in administering justice and upholding
+the rule of law in our country. They may be deployed to one of the following
+departments:&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/org%20chart/Org_Chart_2024.png">
+</div>
+<p></p>
