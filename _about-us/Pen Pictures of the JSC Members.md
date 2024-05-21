@@ -122,7 +122,7 @@ Ngee Ann Polytechnic Council and Chairperson of the Audit Committee.</p>
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mr%20kwa%20chong%20seng.jpg">
 </div>
 <p>Mr Kwa Chong Seng is currently Chairman of 5-Hour International Corporation
-Private Limited and 5-Hour International Corporation Pte Ltd, and Director
+Private Limited and 5-Hour International Corporation Pte Ltd. He is a Director
 of Smart Energy Systems, Inc – a Delaware USA corporation. He is also Strategic
 Advisor to Renew Group Private Limited.</p>
 <p>Mr Kwa has an illustrious career in the Public Sector. &nbsp;He was appointed
