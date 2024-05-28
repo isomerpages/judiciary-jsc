@@ -160,11 +160,11 @@ of the JLC Programme; and</p>
 <p>(c) academic references/testimonials
 <br>from two Professors of Law in support of the application (of not more
 than one page each [all applicants are kindly requested to convey this
-one-page limit specified by the Interview Panel to the Professors concerned]
+one-page limit specified by the Interview Panel to the Professors concerned])
 to be provided by the Professors directly to the Secretary, Judicial Service
 Commission at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>.</p>
 <p>Please also note that eligible applicants who are earmarked for possible
-shortlisting for an interview will be required to undertake n-person two
+shortlisting for an interview will be required to undertake in-person two
 Essays for the consideration of the relevant Judicial Service Shortlisting/Interview
 Panel. The details (date/time and requirements) will be provided at a later
 date.</p>
