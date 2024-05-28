@@ -44,15 +44,26 @@ left corner.)</p>
 <p><u>Stage 1: Recruitment Interviews</u>
 </p>
 <p>The next set of recruitment interviews for applicants who are shortlisted
-for an interview would be on 15 Apr 2024.</p>
+for an interview would be on 28 Oct 2024.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview on 15 Apr 2024 would be required to submit their application
-by 6 Mar 2024.</p>
+an interview on 28 Oct 2024 would be required to submit their application
+by 18 Sep 2024.</p>
+<p>Please note that all applicants are required to provide/include in their
+application - for the consideration of the relevant Shortlisting/Interview
+Panel - the following (in not more than one page each [in Arial; font size
+14] with their name at the bottom left corner):</p>
+<p>(a) a Personal Statement;</p>
+<p>(b) a Write-up
+<br>on why he/she is applying to join the Judicial Service as a JSO and how
+and what he/she can contribute to the Judicial Service and the administration
+of justice; and</p>
+<p>(c) a summary of his/her legal work experience (where applicable).</p>
 <p><u>Stage 2: Written Assignment &amp; Judicial Service Selection Programme </u>(<u>“JSSP”</u>)</p>
-<p>Please note that candidates identified at the interviews may be required
+<p>Please also note that candidates identified at the interviews may be required
 to:</p>
 <p>(a) complete a take-home written assignment via email ahead of the JSSP;
 and</p>
 <p>(b) be physically present to attend the JSSP to enable the Judicial Service
 to better assess their suitability for a judicial appointment. The JSSP
-is currently slated for 29 Apr 2024.</p>
+is currently slated for 11 Nov 2024.</p>
+<p>&nbsp;</p>
