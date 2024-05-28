@@ -154,8 +154,8 @@ Panel:</p>
 <p>(a) the Judicial Service Application Form;</p>
 <p>(b) a Cover Letter <em>- </em>of not more than two pages (in Arial; font
 size 14) - setting out why he/she is applying for the 2-year JLC Programme,
-his/her views on what the work as a JLC entails and why he/she thinks they
-are suitable for the position, and his/her biggest aspirations on completion
+his/her views on what the work as a JLC entails and why he/she thinks he/she
+is suitable for the position, and his/her biggest aspirations on completion
 of the JLC Programme; and</p>
 <p>(c) academic references/testimonials
 <br>from two Professors of Law in support of the application (of not more
