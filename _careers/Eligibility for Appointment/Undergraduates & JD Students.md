@@ -5,4 +5,55 @@ description: ""
 third_nav_title: Eligibility for Appointment
 variant: tiptap
 ---
-<p>Undergraduates studying for an LLB programme at the NUS, the SMU or the SUSS or an LLB/B.A. Law/B.A. (Hons) Juris programme at a Scheduled University, and candidates studying for a JD programme at the the NUS, the SMU, the SUSS or a Scheduled University, and who have successfully completed at least their second year of study, may apply to be considered for possible shortlisting for an interview for the possible offer of “conditional” appointment as a JSO.</p><p>The possible confirmation of the offer of the “conditional” appointment as a JSO will be reviewed on the candidate’s full/successful completion of the LLB/B.A. Law/B.A. (Hons) Juris/JD programme and being awarded the requisite qualification.</p><p>The candidates whose offer of “conditional” appointment as a JSO is confirmed will be subject to a three-contract framework totalling four years. The said candidates will be appointed on three consecutive contracts comprising two contracts of 18 months each and one contract of 12 months prior to being considered for possible emplacement on the permanent establishment after four years.</p><p>These JSOs may, on their successful completion of the initial contract, strong work performance and fully satisfying the requisite eligibility criteria, be considered for the possible award of subsequent contracts and thereafter emplacement on the permanent establishment.</p><p>The possible emplacement on the permanent establishment of these JSOs will continue to be subject to the quality of the officer’s work, demonstrated potential and strong work performance during the period of the contracts and the needs of the Judicial Service.</p><p><strong>2-stage Selection Process</strong></p><p><u>Stage 1: Recruitment Interviews</u></p><p>The next set of recruitment interviews for applicants who are shortlisted for an interview would be on 15 Apr 2024.</p><p>Applicants who are keen to be considered for possible shortlisting for an interview on 15 Apr 2024 would be required to submit their application by 6 Mar 2024.</p><p>Please note that all applicants are required to provide/include in their application - for the consideration of the relevant Shortlisting/Interview Panel - the following (in not more than one page each [in Arial; font size 14] with their name at the bottom left corner):</p><p>(a) a Personal Statement;</p><p>(b) a Write-up<br>on why he/she is applying to join the Judicial Service as a JSO and how and what he/she can contribute to the Judicial Service and the administration of justice; and</p><p>(c) a summary of his/her legal work experience (where applicable).</p><p><u>Stage 2: Written Assignment &amp; Judicial Service Selection Programme </u>(<u>“JSSP”</u>)</p><p>Please also note that candidates identified at the interviews may be required to:</p><p>(a) complete a take-home written assignment via email ahead of the JSSP; and</p><p>(b) be physically present to attend the JSSP to enable the Judicial Service to better assess their suitability for a judicial appointment. The JSSP is currently slated for 29 Apr 2024.</p>
+<p>Undergraduates studying for an LLB programme at the NUS, the SMU or the
+SUSS or an LLB/B.A. Law/B.A. (Hons) Juris programme at a Scheduled University,
+and candidates studying for a JD programme at the the NUS, the SMU, the
+SUSS or a Scheduled University, and who have successfully completed at
+least their second year of study, may apply to be considered for possible
+shortlisting for an interview for the possible offer of “conditional” appointment
+as a JSO.</p>
+<p>The possible confirmation of the offer of the “conditional” appointment
+as a JSO will be reviewed on the candidate’s full/successful completion
+of the LLB/B.A. Law/B.A. (Hons) Juris/JD programme and being awarded the
+requisite qualification.</p>
+<p>The candidates whose offer of “conditional” appointment as a JSO is confirmed
+will be subject to a three-contract framework totalling four years. The
+said candidates will be appointed on three consecutive contracts comprising
+two contracts of 18 months each and one contract of 12 months prior to
+being considered for possible emplacement on the permanent establishment
+after four years.</p>
+<p>These JSOs may, on their successful completion of the initial contract,
+strong work performance and fully satisfying the requisite eligibility
+criteria, be considered for the possible award of subsequent contracts
+and thereafter emplacement on the permanent establishment.</p>
+<p>The possible emplacement on the permanent establishment of these JSOs
+will continue to be subject to the quality of the officer’s work, demonstrated
+potential and strong work performance during the period of the contracts
+and the needs of the Judicial Service.</p>
+<p><strong>2-stage Selection Process</strong>
+</p>
+<p><u>Stage 1: Recruitment Interviews</u>
+</p>
+<p>The next set of recruitment interviews for applicants who are shortlisted
+for an interview would be on 28 Oct 2024.</p>
+<p>Applicants who are keen to be considered for possible shortlisting for
+an interview on 28 Oct 2024 would be required to submit their application
+by 18 Sep 2024.</p>
+<p>Please note that all applicants are required to provide/include in their
+application - for the consideration of the relevant Shortlisting/Interview
+Panel - the following (in not more than one page each [in Arial; font size
+14] with their name at the bottom left corner):</p>
+<p>(a) a Personal Statement;</p>
+<p>(b) a Write-up
+<br>on why he/she is applying to join the Judicial Service as a JSO and how
+and what he/she can contribute to the Judicial Service and the administration
+of justice; and</p>
+<p>(c) a summary of his/her legal work experience (where applicable).</p>
+<p><u>Stage 2: Written Assignment &amp; Judicial Service Selection Programme&nbsp;</u>(<u>“JSSP”</u>)</p>
+<p>Please also note that candidates identified at the interviews may be required
+to:</p>
+<p>(a) complete a take-home written assignment via email ahead of the JSSP;
+and</p>
+<p>(b) be physically present to attend the JSSP to enable the Judicial Service
+to better assess their suitability for a judicial appointment. The JSSP
+is currently slated for 11 Nov 2024.</p>
