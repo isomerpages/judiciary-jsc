@@ -1,7 +1,7 @@
 ---
 title: Appointment as a JSO
 permalink: /resources/appointmentasajso/permalink/
-date: 2024-02-06
+date: 2024-05-28
 layout: post
 description: ""
 image: ""
