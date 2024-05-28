@@ -152,24 +152,19 @@ JLC cohort)</p>
 for the consideration of the relevant Judicial Service Shortlisting/Interview
 Panel:</p>
 <p>(a) the Judicial Service Application Form;</p>
-<p>(b) a Personal Statement
-<br>(of not more than one page [in Arial; font size 14] with the applicant’s
-name at the bottom left corner);</p>
-<p>(c) a Write-up
-<br>on why he/she is applying for the 2-year JLC Programme and how and what
-he/she can contribute to the Programme and the Judicial Service (of not
-more than one page [in Arial; font size 14] with the applicant’s name at
-the bottom left corner); and</p>
-<p>(d) academic references/testimonials
+<p>(b) a Cover Letter <em>- </em>of not more than two pages (in Arial; font
+size 14) - setting out why he/she is applying for the 2-year JLC Programme,
+his/her views on what the work as a JLC entails and why he/she thinks they
+are suitable for the position, and his/her biggest aspirations on completion
+of the JLC Programme; and</p>
+<p>(c) academic references/testimonials
 <br>from two Professors of Law in support of the application (of not more
 than one page each [all applicants are kindly requested to convey this
 one-page limit specified by the Interview Panel to the Professors concerned]
 to be provided by the Professors directly to the Secretary, Judicial Service
 Commission at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>.</p>
 <p>Please also note that eligible applicants who are earmarked for possible
-shortlisting for an interview will be required to provide an Essay for
-the consideration of the relevant Judicial Service Shortlisting/Interview
-Panel. The topic of the Essay (and the requirements) will be provided between
-8.45 am and 9.00 am (Singapore time) on a specific date (to be advised).
-The Essay is to be submitted via email attachment by 5.00 pm (Singapore
-time) on the same date.</p>
+shortlisting for an interview will be required to undertake n-person two
+Essays for the consideration of the relevant Judicial Service Shortlisting/Interview
+Panel. The details (date/time and requirements) will be provided at a later
+date.</p>
