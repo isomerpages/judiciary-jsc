@@ -55,7 +55,6 @@ and</p>
 <p>(b) be physically present to attend the JSSP to enable the Judicial Service
 to better assess their suitability for a judicial appointment. The JSSP
 is currently slated for 11 Nov 2024.</p>
-<h2></h2>
 <p></p>
 <p><strong>JUSTICES' LAW CLERK PROGRAMME</strong>
 </p>
