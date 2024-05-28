@@ -1,6 +1,6 @@
 ---
 title: Appointment as a JSO
-permalink: /resources/appointmentasajso/permalink/
+permalink: /careers/join-us-now/appointment-jso/
 date: 2024-05-28
 layout: post
 description: ""
