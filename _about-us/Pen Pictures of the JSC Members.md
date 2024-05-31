@@ -14,7 +14,8 @@ variant: tiptap
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/justice%20see%20kee%20oon.png">
 </div>
 <p>Justice See Kee Oon was appointed Judicial Commissioner in 2014 and a
-High Court Judge in Jan 2017.</p>
+High Court Judge in Jan 2017. He was subsequently appointed Judge of the
+Appellate Division in Oct 2023.</p>
 <p>Justice See received his Bachelor of Laws from the National University
 of Singapore in 1991. He also holds a Masters in Law from the University
 of Cambridge and a Masters in Public Management from the National University
@@ -29,10 +30,11 @@ in 2009 and was appointed Senior District Judge of the Criminal Justice
 Division in 2010. He became Chief District Judge of the Subordinate Courts
 in 2013 and continued to hold the appointment, now known as Presiding Judge
 of the State Courts, until Mar 2020.</p>
-<p>Justice See chairs the SAL Legal Heritage Committee and is a board member
-of the SAL Executive Board and the Singapore Judicial College. He is the
-President of the Industrial Arbitration Court and also sits on the Military
-Court of Appeal.</p>
+<p>Justice See is the President of the Industrial Arbitration Court and also
+sits on the Military Court of Appeal. He is the Judge-In-Charge for the
+Judiciary’s Knowledge Management Office. He also chairs the SAL Legal Heritage
+Committee and is a board member of the SAL Executive Board and the Deputy
+Chairman of the Singapore Judicial College Board of Governors.</p>
 <p><strong>Justice Audrey Lim</strong>
 </p>
 <div class="isomer-image-wrapper">
