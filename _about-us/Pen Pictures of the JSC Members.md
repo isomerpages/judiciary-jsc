@@ -43,6 +43,8 @@ Chairman of the Singapore Judicial College Board of Governors.</p>
 						float: left; 
 						margin-right: 15px;" height="auto" width="100%" src="/images/pen%20pictures/justice%20audrey%20lim.png">
 </div>
+<p>Justice Lim was appointed a Judicial Commissioner of the Supreme Court
+on 1 Aug 2016 and a Judge of the Supreme Court on 1 Aug 2019.</p>
 <p>Justice Audrey Lim graduated from the University of Cambridge in 1993
 and was admitted as an Advocate and Solicitor of the Supreme Court of Singapore
 in 1998.</p>
@@ -51,8 +53,6 @@ to various positions including as a Justices’ Law Clerk, District Judge
 of the then Subordinate Courts, Deputy Registrar of the Supreme Court,
 Deputy Chief Legislative Counsel of the Legislation Division of the Attorney-General’s
 Chambers and Deputy Chief of Staff of the Singapore Legal Service.</p>
-<p>Justice Lim was appointed a Judicial Commissioner of the Supreme Court
-on 1 Aug 2016 and a Judge of the Supreme Court on 1 Aug 2019.</p>
 <p><strong>Justice Philip Antony Jeyaretnam</strong>
 </p>
 <div class="isomer-image-wrapper">
