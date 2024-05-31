@@ -93,7 +93,7 @@ Council for Minority Rights.</p>
 </div>
 <p>Mrs Deborah Ong is currently a Board Member of and chairs the Audit and
 Risk Committees of SkillsFuture Singapore, Workforce Singapore and the
-Lee Kong Chian School of Medicine at the Nanyang Technological University.&nbsp;&nbsp;
+Lee Kong Chian School of Medicine at the Nanyang Technological University.
 She is the Chairperson of the Institute for Human Resource Professionals
 Ltd, a Board member of the Monetary Authority of Singapore and also an
 independent director of SATS Ltd and Starhub Ltd.</p>
