@@ -14,7 +14,8 @@ variant: tiptap
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/justice%20see%20kee%20oon.png">
 </div>
 <p>Justice See Kee Oon was appointed Judicial Commissioner in 2014 and a
-High Court Judge in Jan 2017.</p>
+High Court Judge in Jan 2017. He was subsequently appointed Judge of the
+Appellate Division in Oct 2023.</p>
 <p>Justice See received his Bachelor of Laws from the National University
 of Singapore in 1991. He also holds a Masters in Law from the University
 of Cambridge and a Masters in Public Management from the National University
@@ -29,10 +30,11 @@ in 2009 and was appointed Senior District Judge of the Criminal Justice
 Division in 2010. He became Chief District Judge of the Subordinate Courts
 in 2013 and continued to hold the appointment, now known as Presiding Judge
 of the State Courts, until Mar 2020.</p>
-<p>Justice See chairs the SAL Legal Heritage Committee and is a board member
-of the SAL Executive Board and the Singapore Judicial College. He is the
-President of the Industrial Arbitration Court and also sits on the Military
-Court of Appeal.</p>
+<p>Justice See is the President of the Industrial Arbitration Court and also
+sits on the Military Court of Appeal. He is the Judge-In-Charge for the
+Judiciary’s Knowledge Management Office. He also chairs the SAL Legal Heritage
+Committee and is a board member of the SAL Executive Board and the Deputy
+Chairman of the Singapore Judicial College Board of Governors.</p>
 <p><strong>Justice Audrey Lim</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -41,6 +43,8 @@ Court of Appeal.</p>
 						float: left; 
 						margin-right: 15px;" height="auto" width="100%" src="/images/pen%20pictures/justice%20audrey%20lim.png">
 </div>
+<p>Justice Lim was appointed a Judicial Commissioner of the Supreme Court
+on 1 Aug 2016 and a Judge of the Supreme Court on 1 Aug 2019.</p>
 <p>Justice Audrey Lim graduated from the University of Cambridge in 1993
 and was admitted as an Advocate and Solicitor of the Supreme Court of Singapore
 in 1998.</p>
@@ -49,8 +53,6 @@ to various positions including as a Justices’ Law Clerk, District Judge
 of the then Subordinate Courts, Deputy Registrar of the Supreme Court,
 Deputy Chief Legislative Counsel of the Legislation Division of the Attorney-General’s
 Chambers and Deputy Chief of Staff of the Singapore Legal Service.</p>
-<p>Justice Lim was appointed a Judicial Commissioner of the Supreme Court
-on 1 Aug 2016 and a Judge of the Supreme Court on 1 Aug 2019.</p>
 <p><strong>Justice Philip Antony Jeyaretnam</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -89,30 +91,34 @@ Council for Minority Rights.</p>
 						float: left;
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mrs%20deborah%20ong.jpg">
 </div>
-<p>Mrs Deborah Ong is currently a Board Member and chairs the Audit and Risk
-Committees of SkillsFuture Singapore, Workforce Singapore, the Lee Kong
-Chian School of Medicine at the Nanyang Technological University and the
-Council for Estate Agency.</p>
-<p>Mrs Ong retired as a Partner of PricewaterhouseCoopers LLP Singapore.
-She was previously a public accountant managing audits of large listed
-clients and providing advisory services to clients in various industries.
-She had also held leadership positions in PwC Singapore and in the Global
-Network.</p>
-<p>Mrs Ong was an International Team Leader in the Global Assurance Quality
-– Inspections Group. In this role, she interacted with the PwC Leadership
-of a portfolio of countries regarding how quality and risk were managed
-in each of the firms. The countries included the United Kingdom, Korea
-and Japan. She was, prior to this appointment, a Member of the Leadership
-Team for PwC Singapore. She was also the firm’s Risk and Quality Leader.</p>
+<p>Mrs Deborah Ong is currently a Board Member of and chairs the Audit and
+Risk Committees of SkillsFuture Singapore, Workforce Singapore and the
+Lee Kong Chian School of Medicine at the Nanyang Technological University.
+She is the Chairperson of the Institute for Human Resource Professionals
+Ltd, a Board member of the Monetary Authority of Singapore and also an
+independent director of SATS Ltd and Starhub Ltd.</p>
+<p>Mrs Ong has over 30 years of public accounting experience, providing audit
+and advisory services to clients in various industries. She had also held
+leadership positions in PwC Singapore and in the Global Network, having
+retired as a Partner of PricewaterhouseCoopers LLP Singapore.</p>
+<p>Mrs Ong has vast international exposure with her role as International
+Team Leader in the Global Assurance Quality – Inspections Group of PwC.
+In this role, she interacted with the PwC Leadership of a portfolio of
+countries regarding how quality and risk were managed in each of the firms.
+The countries included the United Kingdom, Korea and Japan. She was, prior
+to this appointment, a Member of the Leadership Team for PwC Singapore.
+She was also the firm’s Risk and Quality Leader.</p>
 <p>Mrs Ong helmed the Human Capital function for PwC Singapore from 2002
 to 2012. During her tenure as the Human Capital Leader, the firm saw significant
 shifts in managing the people agenda. An advocate of coaching culture,
 she worked closely with her fellow Partners to create a conducive environment
 encouraging staff development.</p>
 <p>Mrs Ong was previously a Board Member and the Chairperson of the Audit
-and Risk Committee of the Singapore Tourism Board and Deputy Chairperson
-of the National Parks Board. She was also the Deputy Chairperson of the
-Ngee Ann Polytechnic Council and Chairperson of the Audit Committee.</p>
+and Risk Committee of the Singapore Tourism Board and the Council for Estate
+Agency and Deputy Chairperson of the National Parks Board. She was also
+the Deputy Chairperson of the Ngee Ann Polytechnic Council and Chairperson
+of the Audit Committee.</p>
+<p>Mrs Ong was awarded The Public Service Star in 2020 by the Singapore Government.</p>
 <p><strong>Mr Kwa Chong Seng</strong>
 </p>
 <div class="isomer-image-wrapper">
