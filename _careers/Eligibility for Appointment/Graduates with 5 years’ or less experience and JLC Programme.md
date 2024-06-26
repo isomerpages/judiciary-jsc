@@ -119,13 +119,9 @@ JLC cohort)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Available for appointment in Jan 2025 (on passing the Part A of the Singapore
-Bar Examinations) or Jul 2025
-<br>(on completion of the full duration of the Relevant Legal Training and
-passing the Part A Examinations)
-<br>
-<br>to undertake the 4-month JLC-Designate training (from Sep to Dec 2025;
-concurrently with the 2025 Part B if applicable)
+<p>Available for appointment in Sep 2025 (after passing the Part A of the
+Singapore Bar Examinations) to undertake the 4-month JLC-Designate training
+(from Sep to Dec 2025; concurrently with the 2025 Part B if applicable)
 <br>
 <br>
 </p>
