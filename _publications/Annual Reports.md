@@ -4,7 +4,7 @@ permalink: /publications/annual-reports/
 description: ""
 variant: markdown
 ---
-<img src="/images/ar%20covers/jsc%20ar%202022.png" style="width:120px; 
+<img src="/images/ar%20covers/JSC_ar_2023_cover.jpg" style="width:120px; 
 height:160px;
 float:left;
 margin-right:15px">[Judicial Service Commission Annual Report 2023](/files/ar/JSC_AR_2023.pdf)
