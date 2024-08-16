@@ -39,7 +39,7 @@ and the needs of the Judicial Service.</p>
 for an interview would be on 28 Oct 2024.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
 an interview on 28 Oct 2024 would be required to submit their application
-by 18 Sep 2024.</p>
+by 23 Sep 2024.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
