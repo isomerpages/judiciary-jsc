@@ -10,7 +10,7 @@ variant: tiptap
 <p>We invite eligible applicants considering a career in the Singapore Judicial
 Service as a JSO and initial deployment at the Family Justice Courts or
 the State Courts or the Supreme Court Registry to complete and submit the
-<a href="https://go.gov.sg/judicalserviceofficerapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by 6 Mar 2024 (for consideration in Apr 2024) or 18
+<a href="https://go.gov.sg/judicalserviceofficerapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by 6 Mar 2024 (for consideration in Apr 2024) or 23
 Sep 2024 (for consideration in Oct/Nov 2024).</p>
 <p>Please refer to the <a href="https://go.gov.sg/targetedrecruitment" rel="noopener noreferrer nofollow" target="_blank">write-up</a> for more information.</p>
 <p>Interested applicants are kindly requested to:</p>
@@ -47,7 +47,7 @@ left corner.)</p>
 for an interview would be on 28 Oct 2024.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
 an interview on 28 Oct 2024 would be required to submit their application
-by 18 Sep 2024.</p>
+by 23 Sep 2024.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
