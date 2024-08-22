@@ -8,10 +8,12 @@ variant: tiptap
 <p><strong>Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)</strong>
 </p>
 <p>We invite eligible applicants considering a career in the Singapore Judicial
-Service as a JSO and initial deployment at the Family Justice Courts or
-the State Courts or the Supreme Court Registry to complete and submit the
-<a href="https://go.gov.sg/judicalserviceofficerapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by 23 Sep 2024.</p>
-<p>Please refer to the <a href="https://go.gov.sg/targetedrecruitment" rel="noopener noreferrer nofollow" target="_blank">write-up</a> for more information.</p>
+Service as a JSO and initial deployment at the Family Justice Courts /
+State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) or the Syariah
+Court (please click <a href="https://go.gov.sg/mccyadvert" rel="noopener nofollow" target="_blank">here</a> for
+details) to complete and submit the <a href="https://go.gov.sg/judicalserviceofficerapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by
+23 Sep 2024.</p>
+<p></p>
 <p>Interested applicants are kindly requested to:</p>
 <p>(a) ensure that they fully satisfy the eligibility criteria/requirements
 set out under the section "Eligibility for Appointment as a JSO" before
