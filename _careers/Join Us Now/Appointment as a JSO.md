@@ -11,8 +11,8 @@ variant: tiptap
 Service as a JSO and initial deployment at the Family Justice Courts /
 State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) or the Syariah
 Court (please click <a href="https://go.gov.sg/mccyadvert" rel="noopener nofollow" target="_blank">here</a> for
-details) to complete and submit the <a href="https://go.gov.sg/judicalserviceofficerapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by
-23 Sep 2024.</p>
+details) to complete and submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by 23 Sep
+2024.</p>
 <p></p>
 <p>Interested applicants are kindly requested to:</p>
 <p>(a) ensure that they fully satisfy the eligibility criteria/requirements
