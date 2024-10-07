@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 **Agreement - Terms**
 
@@ -24,7 +25,7 @@ We are not responsible or liable for the availability or content of any other In
 
 **Intellectual Property**
 
-Materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials is owned by or licensed to us. All rights reserved. (Singapore Judicial Service © 2013).
+Materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials is owned by or licensed to us. All rights reserved. (Singapore Judicial Service © 2024).
 
 Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.
 
