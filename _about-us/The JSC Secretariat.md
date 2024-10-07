@@ -2,6 +2,7 @@
 title: The JSC Secretariat
 permalink: /about-us/the-jsc-secretariat/
 description: ""
+variant: markdown
 ---
 # The JSC Secretariat
 
@@ -16,3 +17,7 @@ Mr James Leong
 **Director, JSC Secretariat:**
 
 Ms Jeanne Kuik
+
+**Acting Director, JSC Secretariat:**
+
+Ms See Bee Keow
