@@ -23,7 +23,7 @@ for dental treatment for each calendar year;</p>
 <br>(ii) medical leave of 14 days/60 days if warded in hospital;
 <br>(iii) maternity leave (subject to the requisite criteria) of up to 16
 weeks;
-<br>(iv) paternity leave of up to 2 weeks;
+<br>(iv) paternity leave of up to 4 weeks;
 <br>(v) parent care leave of up to 2 working days; and</p>
 </li>
 <li>
