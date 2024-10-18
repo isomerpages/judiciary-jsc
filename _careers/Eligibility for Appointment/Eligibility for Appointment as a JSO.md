@@ -13,18 +13,7 @@ should have graduated with a law degree from:</p>
 and have passed the DipSing or the Part A of the Singapore Bar Examinations
 and be a “qualified person” as defined in the Legal Profession Act 1966/the
 Legal Profession (Qualified Persons) Rules.</p>
-<p><strong>Undergraduates/JD Students:</strong>
-</p>
-<p>Undergraduates studying for an LLB programme at the NUS, the SMU or the
-SUSS or an LLB/B.A. Law/B.A. (Hons) Juris programme at a Scheduled University,
-and candidates studying for a JD programme at the NUS, the SMU, the SUSS
-or a Scheduled University, and who have successfully completed at least
-their second year of study, may apply to be interviewed for the possible
-offer of “conditional” appointment as a JSO.</p>
-<p>The possible confirmation of the offer of the “conditional” appointment
-as a JSO will be reviewed on the candidate’s full/successful completion
-of the LLB/B.A. Law/B.A. (Hons) Juris/JD programme and being awarded the
-requisite qualification.</p>
+<p></p>
 <p><strong>Graduates with 5 years’ or less experience:</strong>
 </p>
 <p>Candidates with five years or less of strong relevant legal work experience
