@@ -11,7 +11,7 @@ The Singapore Judicial Service offers internships to students studying for a rec
 
 All applicants would need to complete an "Internship Application Form" (please click [here](https://go.gov.sg/judicialserviceinternshipapplicationform) for the said form) and submit it to [jsc_sec@jsc.gov.sg](mailto:jsc_sec@jsc.gov.sg).  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
 
-Please note that the deadline for applications for the 2024 Singapore Judicial Service Internship Programmes was 20 Dec 2024. All applicants were notified of the outcome of their application by mid-Mar 2024.
+Please note that the deadline for applications for the 2025 Singapore Judicial Service Internship Programmes was 20 Dec 2024. All applicants were notified of the outcome of their application by mid-Mar 2024.
 
 All interns are eligible for a monthly “internship allowance” at the prevailing rate prescribed by the Public Service Division.  The quantum of the said monthly “internship allowance” will be pro-rated – based on the number of actual working hours in the month that the intern undertook the internship. 
 
