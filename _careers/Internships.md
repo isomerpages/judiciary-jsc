@@ -18,11 +18,7 @@ All interns are eligible for a monthly “internship allowance” at the prevail
 All queries may be directed to the Internship Manager of the Singapore Judicial Service at [jsc_sec@jsc.gov.sg](mailto:jsc_sec@jsc.gov.sg).
 <br>
 
-Details on the 2025 Internship Programme are expected to be available from late-Oct 2024 and the deadline for applications is currently targeted for late-Nov 2024.
-
-In the interim, details of the 2024 Internship Programme are set out below for reference:
-
-**2024 Singapore Judicial Service Internship Programmes**
+**2025 Singapore Judicial Service Internship Programmes**
 
 **Judiciary Signature Programme <br>(at the State Courts, Family Justice Courts &amp; Supreme Court)**
 
