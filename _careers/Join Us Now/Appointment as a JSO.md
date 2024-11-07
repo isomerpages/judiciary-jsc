@@ -9,10 +9,9 @@ variant: tiptap
 </p>
 <p>We invite eligible applicants considering a career in the Singapore Judicial
 Service as a JSO and initial deployment at the Family Justice Courts /
-State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) or the Syariah
-Court (please click <a href="https://go.gov.sg/mccyadvert" rel="noopener nofollow" target="_blank">here</a> for
-details) to complete and submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a>by 23 Sep
-2024.</p>
+State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) to complete and
+submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a> by
+Feb 2025.</p>
 <p></p>
 <p>Interested applicants are kindly requested to:</p>
 <p>(a) ensure that they fully satisfy the eligibility criteria/requirements
@@ -45,10 +44,10 @@ left corner.)</p>
 <p><u>Stage 1: Recruitment Interviews</u>
 </p>
 <p>The next set of recruitment interviews for applicants who are shortlisted
-for an interview would be on 28 Oct 2024.</p>
+for an interview is currently targeted for Apr 2025.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview on 28 Oct 2024 would be required to submit their application
-by 23 Sep 2024.</p>
+an interview in Apr 2025 would be required to submit their application
+by Feb 2025.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
@@ -65,6 +64,5 @@ to:</p>
 <p>(a) complete a take-home written assignment via email ahead of the JSSP;
 and</p>
 <p>(b) be physically present to attend the JSSP to enable the Judicial Service
-to better assess their suitability for a judicial appointment. The JSSP
-is currently slated for 11 Nov 2024.</p>
+to better assess their suitability for a judicial appointment.</p>
 <p>&nbsp;</p>

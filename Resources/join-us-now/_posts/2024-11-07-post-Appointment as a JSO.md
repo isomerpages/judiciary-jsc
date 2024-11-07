@@ -1,7 +1,7 @@
 ---
 title: Appointment as a JSO
 permalink: /careers/join-us-now/appointment-jso/
-date: 2024-08-22
+date: 2024-11-07
 layout: post
 description: ""
 image: ""
