@@ -35,7 +35,7 @@ and the needs of the Judicial Service.</p>
 <p>The next set of recruitment interviews for applicants who are shortlisted
 for an interview is currently targeted for Apr 2025.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview on in Apr 2025 would be required to submit their application
+an interview in Apr 2025 would be required to submit their application
 by Feb 2025.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
