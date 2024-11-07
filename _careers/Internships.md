@@ -208,4 +208,4 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   height:40.65pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
   18.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">&nbsp;4 weeks.</span></p></td></tr></tbody></table>
+  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">&nbsp;4 weeks</span></p></td></tr></tbody></table>
