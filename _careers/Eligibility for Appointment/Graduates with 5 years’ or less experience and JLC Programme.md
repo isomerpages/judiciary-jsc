@@ -65,7 +65,7 @@ for deployment to the 2-year JLC Programme. Those shortlisted for an interview
 and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
-<p><strong>JLC Recruitment Interviews in 2024 &amp;<br>Timeframes/Deadlines for Submission of Application</strong>
+<p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application [updated as at 6 Dec 2024 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -92,39 +92,13 @@ of the 2-year JLC Programme the following Jan.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Available for appointment in Sep 2024 (to undertake the 4-month JLC-Designate
-training [until Dec 2024; concurrently with the 2024 Part B of the Singapore
+<p>Available for appointment in Sep 2025 (to undertake the 4-month JLC-Designate
+training [until Dec 2025; concurrently with the 2025 Part B of the Singapore
 Bar Course / Examinations if applicable])</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Deployment (on successful completion of the said JLC-Designate training
-and the 2024 Part B) to the JLC Pool in Jan 2025 (as part of the Jan 2025
-JLC cohort)</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jul/Aug 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 Jun 2024
-<br>5 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Available for appointment in Sep 2025 (after passing the Part A of the
-Singapore Bar Examinations) to undertake the 4-month JLC-Designate training
-(from Sep to Dec 2025; concurrently with the 2025 Part B if applicable)
-<br>
-<br>
-</p>
-</li>
 <li>
 <p>Deployment (on successful completion of the said JLC-Designate training
 and the 2025 Part B) to the JLC Pool in Jan 2026 (as part of the Jan 2026
@@ -133,10 +107,35 @@ JLC cohort)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sep 2024</p>
+<p>Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Aug 2024 10 am</p>
+<p>9 Jun 2025
+<br>5 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Available for appointment in Sep 2026 (after passing the Part A of the
+Singapore Bar Examinations) to undertake the 4-month JLC-Designate training
+(from Sep to Dec 2026; concurrently with the 2026 Part B if applicable)
+<br>
+</p>
+</li>
+<li>
+<p>Deployment (on successful completion of the said JLC-Designate training
+and the 2026 Part B) to the JLC Pool in Jan 2027 (as part of the Jan 2027
+JLC cohort)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Aug 2025 10 am</p>
 </td>
 </tr>
 </tbody>
@@ -161,5 +160,6 @@ Commission at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.
 <p>Please also note the following. Eligible applicants who are earmarked
 for possible shortlisting for an interview will be required to undertake
 one or more Essays for the consideration of the relevant Judicial Service
-Shortlisting/Interview Panel. &nbsp; With effect from 2025, the Essay(s)
-are to be undertaken in-person (at the Supreme Court).&nbsp;</p>
+Shortlisting/Interview Panel. With effect from 2025, the Essay(s) are to
+be undertaken in-person (at the Supreme Court). The next sitting of the
+Essay(s) is currently targeted for 13 Jun 2025.</p>
