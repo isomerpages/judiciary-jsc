@@ -65,7 +65,8 @@ for deployment to the 2-year JLC Programme. Those shortlisted for an interview
 and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
-<p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application [updated as at 6 Dec 2024 and subject to change]</strong>
+<p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
+<br><strong>[updated as at 6 Dec 2024 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -141,6 +142,7 @@ JLC cohort)</p>
 </tbody>
 </table>
 <p><strong>Documents to be provided</strong>
+<br><strong>[updated as at 6 Dec 2024 and subject to change]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
