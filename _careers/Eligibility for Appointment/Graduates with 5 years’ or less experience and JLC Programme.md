@@ -32,11 +32,12 @@ and the needs of the Judicial Service.</p>
 </p>
 <p><u>Stage 1: Recruitment Interviews</u>
 </p>
-<p>The next set of recruitment interviews for applicants who are shortlisted
-for an interview is currently targeted for Apr 2025.</p>
+<p>The <strong>recruitment interviews </strong>in 2025 for applicants who
+are shortlisted for an interview would be on <strong>4 Apr 2025</strong> and <strong>16 Oct 2025</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview in Apr 2025 would be required to submit their application
-by Feb 2025.</p>
+an interview would be required to <strong>submit</strong> their <strong><u>application</u> by</strong>  <strong><u>5 pm</u></strong> on <strong><u>13 Feb 2025</u></strong> (to
+be <strong>considered in Apr 2025</strong>) or <strong>10 am</strong> on <strong>29 Aug 2025</strong> (to
+be <strong>considered in Oct 2025</strong>).</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
@@ -48,12 +49,15 @@ and what he/she can contribute to the Judicial Service and the administration
 of justice; and</p>
 <p>(c) a summary of his/her legal work experience (where applicable).</p>
 <p><u>Stage 2: Written Assignment &amp; Judicial Service Selection Programme&nbsp;</u>(<u>“JSSP”</u>)</p>
-<p>Please also note that candidates identified at the interviews may be required
-to:</p>
+<p>Please also note that candidates identified at the interviews would be
+required to:</p>
 <p>(a) complete a take-home written assignment via email ahead of the JSSP;
 and</p>
 <p>(b) be physically present to attend the JSSP to enable the Judicial Service
-to better assess their suitability for a judicial appointment.</p>
+to better assess their suitability for a judicial appointment. The <strong>JSSP</strong> in
+2025 would be on <strong>30 Apr 2025</strong> (following the recruitment
+interviews on 4 Apr 2025) and <strong>12 Nov 2025</strong> (following the
+recruitment interviews on 16 Oct 2025).</p>
 <p></p>
 <p><strong>JUSTICES' LAW CLERK PROGRAMME</strong>
 </p>
@@ -66,7 +70,7 @@ and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 6 Dec 2024 and subject to change]</strong>
+<br><strong>[updated as at 3 Jan 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -108,7 +112,8 @@ JLC cohort)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jul 2025</p>
+<p>14 Jul 2025 &amp;
+<br>15 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 Jun 2025
@@ -133,16 +138,18 @@ JLC cohort)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sep 2025</p>
+<p>25 Sep 2025 &amp;
+<br>26 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Aug 2025 10 am</p>
+<p>12 Aug 2025
+<br>10 am</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 6 Dec 2024 and subject to change]</strong>
+<br><strong>[updated as at 3 Jan 2025 and subject to change]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
@@ -159,9 +166,16 @@ than one page each [all applicants are kindly requested to convey this
 one-page limit specified by the Interview Panel to the Professors concerned])
 to be provided by the Professors directly to the Secretary, Judicial Service
 Commission at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>.</p>
-<p>Please also note the following. Eligible applicants who are earmarked
-for possible shortlisting for an interview will be required to undertake
-one or more Essays for the consideration of the relevant Judicial Service
-Shortlisting/Interview Panel. With effect from 2025, the Essay(s) are to
-be undertaken in-person (at the Supreme Court). The next sitting of the
-Essay(s) is currently targeted for 13 Jun 2025.</p>
+<p>Please also note that eligible applicants who are earmarked for possible
+shortlisting for an interview will be required to undertake the following
+for the consideration of the relevant Judicial Service Shortlisting/Interview
+Panel:
+<br>
+<br>(a) one or more Essays (in-person at the Supreme Court)
+<br>[this is currently targeted for 13 Jun 2025 (for purposes of the interviews
+in Jul 2025) and 18 Aug 2025 (for purposes of the interviews in Sep 2025)];
+and</p>
+<p>(b) psychometric assessments
+<br>[this is currently targeted for the week of 16 Jun 2025 (for purposes
+of the interviews in Jul 2025) and the week of 19 Aug 2025 (for purposes
+of the interviews in Sep 2025)].</p>
