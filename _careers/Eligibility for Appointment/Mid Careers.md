@@ -36,7 +36,7 @@ and the needs of the Judicial Service.</p>
 <p><u>Stage 1: Recruitment Interviews</u>
 </p>
 <p>The <strong>recruitment interviews</strong> in 2025 for applicants who are
-shortlisted for an interview iwould be on <strong>4 Apr 2025</strong> and <strong>16 Oct 2025</strong>.</p>
+shortlisted for an interview would be on <strong>4 Apr 2025</strong> and <strong>16 Oct 2025</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
 an interview would be required to <strong>submit</strong> their <strong><u>application</u> by</strong>  <strong><u>5 pm</u></strong> on <strong><u>13 Feb 2025</u></strong> (to
 be <strong>considered in Apr 2025</strong>) or <strong>10 am</strong> on <strong>29 Aug 2025</strong> (to
