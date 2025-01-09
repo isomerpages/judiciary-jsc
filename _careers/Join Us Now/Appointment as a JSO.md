@@ -9,8 +9,8 @@ variant: tiptap
 </p>
 <p>We invite eligible applicants considering a career in the Singapore Judicial
 Service as a JSO and initial deployment at the Family Justice Courts /
-State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) to complete and
-submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a> by <strong><u>5 pm</u></strong> on <strong><u>13 Feb 2025</u></strong> (to
+State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/recruitmentadvert" rel="noopener nofollow" target="_blank">here</a> for details) to complete
+and submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a> by <strong><u>5 pm</u></strong> on <strong><u>13 Feb 2025</u></strong> (to
 be considered at the <strong><u>recruitment interviews</u></strong> on <strong><u>4 Apr 2025</u></strong>)
 or <strong>10 am</strong> on <strong>29 Aug 2025</strong> (to be considered
 at the <strong>recruitment interviews</strong> on <strong>16 Oct 2025</strong>).</p>
