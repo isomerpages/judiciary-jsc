@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Opening of the Legal Year 2025 - Speeches by <a href="/files/speeches/OLY_2025___AG_s_Speech.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable Attorney-General</a> and
+<p>Opening of the Legal Year 2025 - Speeches by <a href="/files/speeches/OLY_2025___AG_s_Speech__new_.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable Attorney-General</a> and
 the <a href="/files/speeches/OLY_2025___Law_Soc_President_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">President of the Law Society</a>,
 and the response of <a href="/files/speeches/OLY_2025___CJ_s_Response.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable the Chief Justice</a>
 </p>
