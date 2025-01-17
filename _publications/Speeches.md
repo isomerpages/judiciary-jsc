@@ -8,10 +8,9 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Opening of the Legal Year 2025 - Speeches by <a href="/files/speeches/Opening_Of_The_Legal_Year_2024___AG_Speech_Delivered__Final__v2.pdf" rel="noopener noreferrer nofollow" target="_blank">The </a>
-<a href="/files/speeches/OLY_2025___AG_s_Speech.pdf" rel="noopener noreferrer nofollow" target="_blank">Honourable</a><a href="/files/speeches/Opening_Of_The_Legal_Year_2024___AG_Speech_Delivered__Final__v2.pdf" rel="noopener noreferrer nofollow" target="_blank"> Attorney-General</a> and
-the <a href="/files/speeches/Opening_of_the_Legal_Year_2024___Speech_by_President_Law_Society.pdf" rel="noopener noreferrer nofollow" target="_blank">President of the Law Society</a>,
-and the response of <a href="/files/speeches/OLY_2024___CJ_s_Response__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">The Honourable the Chief Justice</a>
+<p>Opening of the Legal Year 2025 - Speeches by <a href="https://go.gov.sg/agspeech" rel="noopener nofollow" target="_blank">The Honourable Attorney-General</a> and
+the <a href="https://go.gov.sg/presidentadd" rel="noopener nofollow" target="_blank">President of the Law Society</a>,
+and the response of <a href="https://go.gov.sg/cjresponse" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice</a>
 </p>
 </li>
 </ul>
