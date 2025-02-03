@@ -5,8 +5,8 @@ description: ""
 third_nav_title: A Career with Us
 variant: tiptap
 ---
-<p>The benefits offered by the Singapore Judicial Service/Public Service
-include:</p>
+<p>The Singapore Judicial Service adopts the Civil Service’s benefits framework.
+The benefits include:</p>
 <ul>
 <li>
 <p>medical benefits:
