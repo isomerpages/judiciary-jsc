@@ -14,8 +14,8 @@ The benefits include:</p>
 <br>(ii) 2% contribution by Government to the officer’s Medisave account;</p>
 </li>
 <li>
-<p>dental benefits:</p>
-<p>(i) up to 85% subsidy for dental treatment for each calendar year (subject
+<p>dental benefits:
+<br>(i) up to 85% subsidy for dental treatment for each calendar year (subject
 to a maximum of $250 per calendar year);</p>
 </li>
 <li>
@@ -28,7 +28,7 @@ weeks;
 <br>(v) family care leave of up to 2 working days;
 <br>(vi) compassionate leave of up to 3 working days;
 <br>(vii) marriage leave; and&nbsp;
-<br>(viii) childcare leave&nbsp;</p>
+<br>(viii) childcare leave;</p>
 </li>
 <li>
 <p>flexible benefits (FlexiGrow)</p>
