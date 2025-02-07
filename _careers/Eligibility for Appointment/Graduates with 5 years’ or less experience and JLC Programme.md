@@ -175,5 +175,5 @@ Panel:
 <br>[this is currently targeted for 13 Jun 2025 (for purposes of the interviews
 in Jul 2025) and 18 Aug 2025 (for purposes of the interviews in Sep 2025)];
 and</p>
-<p>(b) Online psychometric assessment
+<p>(b) online psychometric assessment
 <br>[to be completed/submitted within a week after submission of application].</p>
