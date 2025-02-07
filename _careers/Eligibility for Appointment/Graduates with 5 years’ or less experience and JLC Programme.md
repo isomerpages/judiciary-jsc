@@ -70,7 +70,7 @@ and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 3 Jan 2025 and subject to change]</strong>
+<br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -149,7 +149,7 @@ JLC cohort)</p>
 </tbody>
 </table>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 3 Jan 2025 and subject to change]</strong>
+<br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
@@ -171,11 +171,9 @@ shortlisting for an interview will be required to undertake the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
 Panel:
 <br>
-<br>(a) one or more Essays (in-person at the Supreme Court)
+<br>(a) one or more Essays
 <br>[this is currently targeted for 13 Jun 2025 (for purposes of the interviews
 in Jul 2025) and 18 Aug 2025 (for purposes of the interviews in Sep 2025)];
 and</p>
-<p>(b) psychometric assessments
-<br>[this is currently targeted for the week of 16 Jun 2025 (for purposes
-of the interviews in Jul 2025) and the week of 19 Aug 2025 (for purposes
-of the interviews in Sep 2025)].</p>
+<p>(b) online psychometric assessment
+<br>[to be completed/submitted within a week after submission of application].</p>
