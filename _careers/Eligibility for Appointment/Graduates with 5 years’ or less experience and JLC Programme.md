@@ -70,7 +70,7 @@ and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
+<br><strong>[updated as at 25 Feb 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -148,6 +148,10 @@ JLC cohort)</p>
 </tr>
 </tbody>
 </table>
+<p>There will be an Information Session (for purposes of the Jan 2026 JLC
+cohort) on 3 Jun 2025.&nbsp; Please indicate your interest to attend the
+session by sending an email to the JSC Secretariat at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> by
+5 pm on 4 Apr 2025.</p>
 <p><strong>Documents to be provided</strong>
 <br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
 </p>
