@@ -5,32 +5,23 @@ description: ""
 third_nav_title: Eligibility for Appointment
 variant: tiptap
 ---
-<p><strong>Mid-Careers with more than 5 years' experience</strong>
+<p><strong>Mid-Careers with more than 4 years' experience</strong>
 </p>
-<p>Mid-career candidates with more than five years of strong relevant legal
+<p>Mid-career candidates with more than four years of strong relevant legal
 work experience (and who fully satisfy the requirements/criteria specified
 under the section “Eligibility for Appointment as a JSO”) may apply to
 be considered for possible shortlisting for an interview for appointment
 as a JSO.</p>
 <p>The mid-career candidates who are selected for possible appointment as
-a JSO will be subject to the following framework:</p>
-<p>(a) two consecutive contracts of two years each for those with strong
-relevant legal work experience of more than five years and up to 10 years;
-or
-<br>(b) one contract of three years for those with strong relevant legal work
-experience of more than 10 years.</p>
+a JSO will be appointed on one two-year contract.</p>
 <p>These mid-career candidates may, at the discretion of the Judicial Service,
 have their prior strong relevant legal work experience recognised and be
 eligible for the award of additional increments and/or appointment at a
 higher JSO-grade.</p>
-<p>These JSOs may, on their successful completion of the contract(s), strong
-work performance and fully satisfying the requisite eligibility criteria,
-be considered for the possible offer of a subsequent contract or possible
-emplacement on the permanent establishment.</p>
-<p>The possible emplacement on the permanent establishment of these JSOs
-will continue to be subject to the quality of the officer’s work, demonstrated
-potential and strong work performance during the period of the contract(s)
-and the needs of the Judicial Service.</p>
+<p>These JSOs may, on their successful completion of the two-year contract,
+continued strong work performance and fully satisfying the requisite eligibility
+criteria, be considered for possible emplacement on the permanent establishment.</p>
+<p></p>
 <p><strong>2-stage Selection Process</strong>
 </p>
 <p><u>Stage 1: Recruitment Interviews</u>

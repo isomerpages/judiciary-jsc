@@ -1,13 +1,13 @@
 ---
-title: Graduates with 5 years’ or less experience and JLC Programme
+title: Graduates with 4 years’ or less experience and JLC Programme
 permalink: /careers/eligibility-for-appointment/graduates-jlc/
 description: ""
 third_nav_title: Eligibility for Appointment
 variant: tiptap
 ---
-<p><strong>CANDIDATES WITH 5 YEARS' OR LESS EXPERIENCE</strong>
+<p><strong>CANDIDATES WITH 4 YEARS' OR LESS EXPERIENCE</strong>
 </p>
-<p>Candidates with five years or less of strong relevant legal work experience
+<p>Candidates with four years or less of strong relevant legal work experience
 (and who fully satisfy the requirements/criteria specified under the section
 “Eligibility for Appointment as a JSO”) may apply to be considered for
 possible shortlisting for an interview for appointment as a JSO.</p>
@@ -20,12 +20,12 @@ for possible emplacement on the permanent establishment after four years.</p>
 their prior strong relevant legal work experience recognised and be eligible
 for the award of additional increments and/or appointment at a higher JSO-grade.</p>
 <p>These JSOs may, on their successful completion of the initial contract,
-strong work performance and fully satisfying the requisite eligibility
+continued strong work performance and fully satisfying the requisite eligibility
 criteria, be considered for the possible offer of subsequent contracts
 and thereafter possible emplacement on the permanent establishment.</p>
 <p>The possible emplacement on the permanent establishment of these JSOs
 will continue to be subject to the quality of the officer’s work, demonstrated
-potential and strong work performance during the period of the contracts
+competencies and strong work performance during the period of the contracts
 and the needs of the Judicial Service.</p>
 <p></p>
 <p><strong>2-stage Selection Process</strong>
@@ -70,7 +70,7 @@ and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 25 Feb 2025 and subject to change]</strong>
+<br><strong>[updated as at 7 Mar 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -149,9 +149,12 @@ JLC cohort)</p>
 </tbody>
 </table>
 <p>There will be an Information Session (for purposes of the Jan 2026 JLC
-cohort) on 3 Jun 2025.&nbsp; Please indicate your interest to attend the
-session by sending an email to the JSC Secretariat at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> by
-5 pm on 4 Apr 2025.</p>
+cohort) on 3 Jun 2025, including a tea reception with Judges and JLCs.
+Please indicate your interest to attend the session by sending an email
+to the JSC Secretariat at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> by
+5 pm on 4 Apr 2025. Arrangements will also be made for those who are unable
+to attend physically to do so via Zoom and those who intend to attend virtually
+should also notify us when responding.</p>
 <p><strong>Documents to be provided</strong>
 <br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
 </p>
