@@ -14,15 +14,15 @@ and have passed the DipSing or the Part A of the Singapore Bar Examinations
 and be a “qualified person” as defined in the Legal Profession Act 1966/the
 Legal Profession (Qualified Persons) Rules.</p>
 <p></p>
-<p><strong>Graduates with 5 years’ or less experience:</strong>
+<p><strong>Graduates with 4 years’ or less experience:</strong>
 </p>
-<p>Candidates with five years or less of strong relevant legal work experience
+<p>Candidates with four years or less of strong relevant legal work experience
 (and who fully satisfy the requirements/criteria specified at paragraph
 1 above) may apply to be considered for possible shortlisting for an interview
 for appointment as a JSO.</p>
-<p><strong>Mid-Careers with more than 5 years’ experience:</strong>
+<p><strong>Mid-Careers with more than 4 years’ experience:</strong>
 </p>
-<p>Mid-career candidates with more than five years of strong relevant legal
+<p>Mid-career candidates with more than four years of strong relevant legal
 work experience (and who fully satisfy the requirements/criteria specified
 at paragraph 1 above) may also apply to be considered for possible shortlisting
 for an interview for appointment as a JSO.</p>
