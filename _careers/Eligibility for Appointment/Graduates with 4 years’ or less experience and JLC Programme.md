@@ -70,7 +70,7 @@ and found suitable for appointment would be required to first undergo 4
 months of JLC-Designate training (from Sep to Dec), prior to the commencement
 of the 2-year JLC Programme the following Jan.</p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 7 Mar 2025 and subject to change]</strong>
+<br><strong>[updated as at 12 Mar 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
