@@ -14,6 +14,10 @@ Mr Siva Shanmugam
 
 Mr James Leong
 
+**Deputy Chief of Staff, Singapore Judicial Service:**
+
+Ms Carolyn Woo
+
 **Director, JSC Secretariat:**
 
 Ms See Bee Keow
