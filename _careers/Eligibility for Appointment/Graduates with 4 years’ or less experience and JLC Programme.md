@@ -151,10 +151,10 @@ JLC cohort)</p>
 <p>There will be an Information Session (for purposes of the Jan 2026 JLC
 cohort) on 3 Jun 2025, including a tea reception with Judges and JLCs.
 Please indicate your interest to attend the session by sending an email
-to the JSC Secretariat at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> by
-5 pm on 4 Apr 2025. Arrangements will also be made for those who are unable
-to attend physically to do so via Zoom and those who intend to attend virtually
-should also notify us when responding.</p>
+to the JSC Secretariat at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a>.
+Arrangements will also be made for those who are unable to attend physically
+to do so via Zoom and those who intend to attend virtually should also
+notify us when responding.</p>
 <p><strong>Documents to be provided</strong>
 <br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
 </p>
