@@ -1,6 +1,6 @@
 ---
 title: Internships in the Singapore Judicial Service
-date: 2024-11-07
+date: 2025-04-15
 layout: link
 description: ""
 image: ""
