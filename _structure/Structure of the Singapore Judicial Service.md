@@ -13,7 +13,8 @@ Judicial Service play a vital role in administering justice and upholding
 the rule of law in our country. They may be deployed to one of the following
 departments:&nbsp;&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/org%20chart/Org_Chart_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="Org Chart 2025" src="/images/Red_Minimalist_Organizational_Structure_Chart.png">
 </div>
 <p></p>
