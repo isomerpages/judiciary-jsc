@@ -26,12 +26,10 @@ criteria, be considered for possible emplacement on the permanent establishment.
 </p>
 <p><u>Stage 1: Recruitment Interviews</u>
 </p>
-<p>The <strong>recruitment interviews</strong> in 2025 for applicants who are
-shortlisted for an interview would be on <strong>4 Apr 2025</strong> and <strong>16 Oct 2025</strong>.</p>
+<p>The next set of <strong>recruitment interviews</strong> for applicants who
+are shortlisted for an interview would be on <strong>16 Oct 2025</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview would be required to <strong>submit</strong> their <strong><u>application</u> by</strong>  <strong><u>5 pm</u></strong> on <strong><u>13 Feb 2025</u></strong> (to
-be <strong>considered in Apr 2025</strong>) or <strong>10 am</strong> on <strong>29 Aug 2025</strong> (to
-be <strong>considered in Oct 2025</strong>).</p>
+an interview would be required to <strong>submit</strong> their <strong><u>application</u> by</strong>  <strong>10 am</strong> on <strong>29 Aug 2025</strong>.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
@@ -45,10 +43,7 @@ of justice; and</p>
 <p><u>Stage 2: Written Assignment &amp; Judicial Service Selection Programme&nbsp;</u>(<u>“JSSP”</u>)</p>
 <p>Please also note that candidates identified at the interviews would be
 required to:</p>
-<p>(a) complete a take-home written assignment via email ahead of the JSSP;
-and</p>
-<p>(b) be physically present to attend the JSSP to enable the Judicial Service
-to better assess their suitability for a judicial appointment. The <strong>JSSP</strong> in
-2025 would be on <strong>30 Apr 2025</strong> (following the recruitment
-interviews on 4 Apr 2025) and <strong>12 Nov 2025</strong> (following the
-recruitment interviews on 16 Oct 2025).</p>
+<p>(a) complete a written assignment via email ahead of the JSSP; and</p>
+<p>(b) be physically present to attend the <strong>JSSP</strong> on <strong>12 Nov 2025 </strong>to
+enable the Judicial Service to better assess their suitability for a judicial
+appointment.</p>
