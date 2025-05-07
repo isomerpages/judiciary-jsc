@@ -33,7 +33,7 @@ for an interview for appointment as a JSO.</p>
 <p>The next set of <strong>recruitment interviews</strong> for applicants who
 are shortlisted for an interview would be on <strong>16 Oct 2025</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview would be required to <strong>submit</strong> their <strong>application</strong> by <strong>10 am</strong> on <strong>29 Aug 2025</strong>.
+an interview would be required to <strong>submit</strong> their <strong>application</strong>  <strong>by</strong>  <strong>10 am</strong> on <strong>29 Aug 2025</strong>.
 <br>
 </p>
 <p>Please note that all applicants are required to provide/include in their
