@@ -62,8 +62,27 @@ to have the unique privilege of working closely with the Chief Justice
 and members of the Supreme Court Bench may submit an application for selection
 for deployment to the 2-year JLC Programme. Those shortlisted for an interview
 and found suitable for appointment would be required to first undergo 4
-months of JLC-Designate training (from Sep to Dec), prior to the commencement
-of the 2-year JLC Programme the following Jan.</p>
+months of JLC-Designate training (generally from Sep to Dec), prior to
+the commencement of the 2-year JLC Programme the following Jan.
+<br>
+<br><strong>2025 JLC Information Sessions / Forums</strong>
+</p>
+<p>We are holding 2 JLC Information Sessions / Forums as follows:</p>
+<p>(a) <strong>3 Jun 2025</strong> (for <strong>local law students</strong> who
+are keen to be considered for the <strong>Jan 2026 JLC cohort</strong>);
+and
+<br>(b) <strong>25 Aug 2025</strong> (for <strong>law students</strong>  <strong>studying in the UK</strong>).
+<br>
+<br>The said sessions will be held in the Supreme Court and include a tea
+reception with Judges, JLCs and ex-JLCs.
+<br>
+<br>Please register for either session by sending an email to the JSC Secretariat
+at&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a>.</p>
+<p>If you are unable to attend in-person and would like to do so via Zoom,
+please indicate accordingly in your email to us.
+<br>
+<br>
+</p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
 <br><strong>[updated as at 12 Mar 2025 and subject to change]</strong>
 </p>
