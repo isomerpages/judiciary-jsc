@@ -81,10 +81,9 @@ at&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.
 <p>If you are unable to attend in-person and would like to do so via Zoom,
 please indicate accordingly in your email to us.
 <br>
-<br>
 </p>
-<p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Timelines/Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 12 Mar 2025 and subject to change]</strong>
+<p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
+<br><strong>[updated as at 23 May 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -95,7 +94,7 @@ please indicate accordingly in your email to us.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Applicants</strong>
+<p><strong>Candidates </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +102,7 @@ please indicate accordingly in your email to us.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Timeframes/<br>Deadlines</strong>
+<p><strong>Application<br>Deadlines</strong>
 </p>
 </td>
 </tr>
@@ -111,17 +110,18 @@ please indicate accordingly in your email to us.
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Available for appointment on 29 Aug 2025 (to undertake the 4-month JLC-Designate
-training [until Dec 2025; concurrently with the 2025 Part B of the Singapore
-Bar Course / Examinations if applicable])</p>
+<p>Available for appointment on 29 Aug 2025
+<br>(to undertake the 4-month JLC-Designate training
+<br>[until Dec 2025; concurrently with the 2025 Part B
+<br>of the Singapore Bar Course / Examinations if applicable])</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deployment (on successful completion of the said JLC-Designate training
-and the 2025 Part B) to the JLC Pool in Jan 2026 (as part of the Jan 2026
-JLC cohort)</p>
+<p>Deployment (on successful completion of the said
+<br>JLC-Designate training and the 2025 Part B) to the JLC Pool
+<br>in Jan 2026 (as part of the Jan 2026 JLC cohort)</p>
 </li>
 </ul>
 </td>
@@ -138,16 +138,19 @@ JLC cohort)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Available for appointment in Sep 2026 (after passing the Part A of the
-Singapore Bar Examinations) to undertake the 4-month JLC-Designate training
-(from Sep to Dec 2026; concurrently with the 2026 Part B if applicable)
+<p>Available for appointment in Sep 2026
+<br>(after passing the Part A of the Singapore Bar Examinations)
+<br>to undertake the 4-month JLC-Designate training (from
+<br>Sep to Dec 2026; concurrently with the 2026 Part B if
+<br>applicable)
 <br>
 </p>
 </li>
 <li>
-<p>Deployment (on successful completion of the said JLC-Designate training
-and the 2026 Part B) to the JLC Pool in Jan 2027 (as part of the Jan 2027
-JLC cohort)</p>
+<p>Deployment (on successful completion of the said
+<br>JLC-Designate training and the 2026 Part B) to the
+<br>JLC Pool in Jan 2027 (as part of the Jan 2027 JLC
+<br>cohort)</p>
 </li>
 </ul>
 </td>
@@ -162,13 +165,7 @@ JLC cohort)</p>
 </tr>
 </tbody>
 </table>
-<p>There will be an Information Session (for purposes of the Jan 2026 JLC
-cohort) on 3 Jun 2025, including a tea reception with Judges and JLCs.
-Please indicate your interest to attend the session by sending an email
-to the JSC Secretariat at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a>.
-Arrangements will also be made for those who are unable to attend physically
-to do so via Zoom and those who intend to attend virtually should also
-notify us when responding.</p>
+<p></p>
 <p><strong>Documents to be provided</strong>
 <br><strong>[updated as at 7 Feb 2025 and subject to change]</strong>
 </p>
