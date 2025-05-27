@@ -110,17 +110,16 @@ please indicate accordingly in your email to us.
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Available for appointment on 29 Aug 2025
-<br>(to undertake the 4-month JLC-Designate training
-<br>[until Dec 2025; concurrently with the 2025 Part B
-<br>of the Singapore Bar Course / Examinations if applicable])</p>
+<p>Available for appointment on 29 Aug 2025 (to undertake the 4-month JLC-Designate
+training [until Dec 2025; concurrently with the 2025 Part B of the Singapore
+Bar Course / Examinations if applicable])</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Deployment (on successful completion of the said
-<br>JLC-Designate training and the 2025 Part B) to the JLC Pool
+<p>Deployment (on successful completion of the said JLC-Designate training
+and the 2025 Part B) to the JLC Pool
 <br>in Jan 2026 (as part of the Jan 2026 JLC cohort)</p>
 </li>
 </ul>
@@ -138,19 +137,16 @@ please indicate accordingly in your email to us.
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Available for appointment in Sep 2026
-<br>(after passing the Part A of the Singapore Bar Examinations)
-<br>to undertake the 4-month JLC-Designate training (from
-<br>Sep to Dec 2026; concurrently with the 2026 Part B if
-<br>applicable)
+<p>Available for appointment in Sep 2026 (after passing the Part A of the
+Singapore Bar Examinations) to undertake the 4-month JLC-Designate training
+(from Sep to Dec 2026; concurrently with the 2026 Part B if applicable)
 <br>
 </p>
 </li>
 <li>
-<p>Deployment (on successful completion of the said
-<br>JLC-Designate training and the 2026 Part B) to the
-<br>JLC Pool in Jan 2027 (as part of the Jan 2027 JLC
-<br>cohort)</p>
+<p>Deployment (on successful completion of the said JLC-Designate training
+and the 2026 Part B) to the JLC Pool in Jan 2027 (as part of the Jan 2027
+JLC cohort)</p>
 </li>
 </ul>
 </td>
