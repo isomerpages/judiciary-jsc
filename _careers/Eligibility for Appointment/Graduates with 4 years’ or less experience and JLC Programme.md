@@ -83,7 +83,7 @@ please indicate accordingly in your email to us.
 <br>
 </p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 23 May 2025 and subject to change]</strong>
+<br><strong>[updated as at 27 May 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -94,7 +94,7 @@ please indicate accordingly in your email to us.
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Candidates </strong>
+<p><strong>Candidates</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
