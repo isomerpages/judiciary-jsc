@@ -83,7 +83,7 @@ please indicate accordingly in your email to us.
 <br>
 </p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 27 May 2025 and subject to change]</strong>
+<br><strong>[updated as at 28 May 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
