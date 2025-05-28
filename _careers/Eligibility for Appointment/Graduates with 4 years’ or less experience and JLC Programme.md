@@ -102,7 +102,7 @@ please indicate accordingly in your email to us.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application<br>Deadlines</strong>
+<p><strong>Application<br>Deadline</strong>
 </p>
 </td>
 </tr>
