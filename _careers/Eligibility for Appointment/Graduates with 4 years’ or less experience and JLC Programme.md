@@ -112,10 +112,11 @@ please indicate accordingly in your email to us.
 <li>
 <p>Available for appointment on 29 Aug 2025 (to undertake the 4-month JLC-Designate
 training [until Dec 2025; concurrently with the 2025 Part B of the Singapore
-Bar Course / Examinations if applicable])</p>
+Bar Course / Examinations if applicable])
+<br>
+</p>
 </li>
 </ul>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Deployment (on successful completion of the said JLC-Designate training
