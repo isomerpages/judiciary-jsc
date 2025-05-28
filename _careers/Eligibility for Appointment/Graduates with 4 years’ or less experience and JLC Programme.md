@@ -143,6 +143,7 @@ Singapore Bar Examinations) to undertake the 4-month JLC-Designate training
 (from Sep to Dec 2026; concurrently with the 2026 Part B if applicable)
 <br>
 </p>
+<p></p>
 </li>
 <li>
 <p>Deployment (on successful completion of the said JLC-Designate training
