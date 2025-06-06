@@ -15,7 +15,8 @@ departments:&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Org Chart 2025" src="/images/JSC__Organizational_Structure_Chart___new.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org_Chart__White_.png">
 </div>
 <p></p>
