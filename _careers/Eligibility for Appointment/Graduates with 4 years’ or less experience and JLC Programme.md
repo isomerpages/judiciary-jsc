@@ -67,21 +67,46 @@ the commencement of the 2-year JLC Programme the following Jan.
 <br>
 <br><strong>2025 JLC Information Sessions / Forums</strong>
 </p>
-<p>We are holding 2 JLC Information Sessions / Forums as follows:</p>
-<p>(a) <strong>3 Jun 2025</strong> (for <strong>local law students</strong> who
+<p>There are 2 JLC Information Sessions / Forums this year:</p>
+<p>(a) <strong>3 Jun 2025</strong> (2 pm to 4.30 pm; for <strong>local law students</strong> who
 are keen to be considered for the <strong>Jan 2026 JLC cohort</strong>);
 and
-<br>(b) <strong>25 Aug 2025</strong> (for <strong>law students</strong>  <strong>studying in the UK</strong>).
+<br>(b) <strong>25 Aug 2025</strong> (4 pm to 7 pm; for <strong>law students</strong>  <strong>studying in the UK - </strong>please
+click <strong><a href="https://form.gov.sg/68415c57dcbfd9408e859892" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
+register).
 <br>
 <br>The said sessions will be held in the Supreme Court and include a tea
-reception with Judges, JLCs and ex-JLCs.
+reception with Judges, JLCs and ex-JLCs. There will be a “Panel Discussion”
+segment for the session on 25 Aug 2025 and the Panellists are as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Judicial Commissioner Mohamed Faizal (Moderator)</p>
+</li>
+<li>
+<p>Siva Shanmugam (Secretary, Judicial Service Commission)</p>
+</li>
+<li>
+<p>Paul Tan Beng Hwee (Arbitrator/Counsel, One Essex Court)</p>
+</li>
+<li>
+<p>Darius Chan Xiaohui (Associate Professor, SMU Yong Pung How School of
+Law)</p>
+</li>
+<li>
+<p>Shaun Pereira (Counsel, Three Crowns)</p>
+</li>
+<li>
+<p>Sarah Siaw Ming Hui (Deputy Senior State Counsel / Deputy Public Prosecutor,
+AGC Advocacy Group)</p>
+</li>
+<li>
+<p>Elton Tan Xue Yang (Assistant Registrar, Supreme Court Registry)
 <br>
-<br>Please register for either session by sending an email to the JSC Secretariat
-at&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a>.</p>
-<p>If you are unable to attend in-person and would like to do so via Zoom,
-please indicate accordingly in your email to us.
 <br>
 </p>
+<p></p>
+</li>
+</ul>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
 <br><strong>[updated as at 28 May 2025 and subject to change]</strong>
 </p>
@@ -165,7 +190,7 @@ JLC cohort)</p>
 </table>
 <p></p>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 3 Jun 2025 and subject to change]</strong>
+<br><strong>[updated as at 24 Jun 2025]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
@@ -188,9 +213,8 @@ for the consideration of the relevant Judicial Service Shortlisting/Interview
 Panel:
 <br>
 <br>(a) one or more Essays
-<br>[this will take place on 13 Jun 2025 (for purposes of the interviews in
-Jul 2025) and 18 Aug 2025 (for purposes of the interviews in Sep 2025)];
-and</p>
-<p>(b) online psychometric assessment
-<br>[the link will be provided on 11 Jun 2025 and the deadline for submission
-is 17 Jun 2025].</p>
+<br>[on 13 Jun 2025 (for purposes of the interviews in Jul 2025) and 18 Aug
+2025 (for purposes of the interviews in Sep 2025)]; and</p>
+<p>(b) online psychometric assessment.
+<br>
+</p>
