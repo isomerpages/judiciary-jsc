@@ -190,7 +190,7 @@ JLC cohort)</p>
 </table>
 <p></p>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 3 Jun 2025]</strong>
+<br><strong>[updated as at 24 Jun 2025]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
