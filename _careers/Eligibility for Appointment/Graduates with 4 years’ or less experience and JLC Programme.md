@@ -108,7 +108,7 @@ AGC Advocacy Group)</p>
 </li>
 </ul>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 28 May 2025 and subject to change]</strong>
+<br><strong>[updated as at 17 Jul 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -178,8 +178,8 @@ JLC cohort)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 Sep 2025 &amp;
-<br>26 Sep 2025</p>
+<p>26 Sep 2025 &amp;
+<br>6 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 Aug 2025
@@ -190,7 +190,7 @@ JLC cohort)</p>
 </table>
 <p></p>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 24 Jun 2025]</strong>
+<br><strong>[updated as at 17 Jul 2025]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
@@ -214,7 +214,7 @@ Panel:
 <br>
 <br>(a) one or more Essays
 <br>[on 13 Jun 2025 (for purposes of the interviews in Jul 2025) and 18 Aug
-2025 (for purposes of the interviews in Sep 2025)]; and</p>
+2025 (for purposes of the interviews in Sep/Oct 2025)]; and</p>
 <p>(b) online psychometric assessment.
 <br>
 </p>
