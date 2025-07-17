@@ -108,7 +108,7 @@ AGC Advocacy Group)</p>
 </li>
 </ul>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
-<br><strong>[updated as at 28 May 2025 and subject to change]</strong>
+<br><strong>[updated as at 17 Jul 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -178,8 +178,8 @@ JLC cohort)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 Sep 2025 &amp;
-<br>26 Sep 2025</p>
+<p>26 Sep 2025 &amp;
+<br>6 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 Aug 2025
