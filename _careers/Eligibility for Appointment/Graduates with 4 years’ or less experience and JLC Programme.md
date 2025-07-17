@@ -190,7 +190,7 @@ JLC cohort)</p>
 </table>
 <p></p>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 24 Jun 2025]</strong>
+<br><strong>[updated as at 17 Jul 2025]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
@@ -214,7 +214,7 @@ Panel:
 <br>
 <br>(a) one or more Essays
 <br>[on 13 Jun 2025 (for purposes of the interviews in Jul 2025) and 18 Aug
-2025 (for purposes of the interviews in Sep 2025)]; and</p>
+2025 (for purposes of the interviews in Sep/Oct 2025)]; and</p>
 <p>(b) online psychometric assessment.
 <br>
 </p>
