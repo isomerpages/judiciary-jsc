@@ -8,9 +8,9 @@ variant: tiptap
 <p><strong>Applications for possible appointment to the Singapore Judicial Service as a Judicial Service Officer (“JSO”)</strong>
 </p>
 <p>We invite eligible applicants considering a career in the Singapore Judicial
-Service as a JSO and initial deployment at the Family Justice Courts /
-State Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) to complete and
-submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a> by <strong>10 am</strong> on <strong>29 Aug 2025</strong>.</p>
+Service as a JSO and initial deployment at the State Courts / Family Justice
+Courts / Supreme Court Registry (please click <a href="https://go.gov.sg/jsoadvert" rel="noopener nofollow" target="_blank">here</a> for details) to complete and
+submit the <a href="https://go.gov.sg/sjsapplicationform" rel="noopener noreferrer nofollow" target="_blank">application form</a> by <strong>4 Sep 2025</strong>.</p>
 <p></p>
 <p>Interested applicants are kindly requested to:</p>
 <p>(a) ensure that they fully satisfy the eligibility criteria/requirements
@@ -45,7 +45,7 @@ left corner.)</p>
 <p>The next set of <strong>recruitment interviews</strong> for applicants who
 are shortlisted for an interview would be on <strong>16 Oct 2025</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview would be required to <strong>submit</strong> their <strong>application by</strong>  <strong>10 am</strong> on <strong>29 Aug 2025</strong>.</p>
+an interview would be required to <strong>submit</strong> their <strong>application by</strong>  <strong>4 Sep 2025</strong>.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
