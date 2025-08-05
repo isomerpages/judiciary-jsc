@@ -35,7 +35,7 @@ and the needs of the Judicial Service.</p>
 <p>The next set of <strong>recruitment interviews</strong> for applicants who
 are shortlisted for an interview would be on <strong>16 Oct 2025</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview would be required to <strong>submit</strong> their <strong>application</strong> on <strong>4 Sep 2025</strong>.</p>
+an interview would be required to <strong>submit</strong> their <strong>application</strong> by <strong>4 Sep 2025</strong>.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
