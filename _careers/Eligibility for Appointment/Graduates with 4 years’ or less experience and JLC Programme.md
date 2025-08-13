@@ -105,7 +105,7 @@ Law)</p>
 </li>
 <li>
 <p>Norine Tan Yan Ling (Deputy Senior State Counsel / Deputy Public Prosecutor,
-AGC)</p>
+AGC Crime Division)</p>
 </li>
 <li>
 <p>Elton Tan Xue Yang (Assistant Registrar, Supreme Court Registry)</p>
