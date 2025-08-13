@@ -82,9 +82,9 @@ for questions and answers).</p>
 <p></p>
 <p><u>JLC Forum on 25 Aug 2025</u>
 </p>
-<p>Justice Kannan Ramesh will be gracing the session.&nbsp; There will also
-be a briefing/presentation on what the JLC Programme entails, followed
-by a “Panel Discussion”. The Panellists are as follows:</p>
+<p>Justice Kannan Ramesh will be gracing the session. There will also be
+a briefing/presentation on what the JLC Programme entails, followed by
+a “Panel Discussion”. The Panellists are as follows:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
