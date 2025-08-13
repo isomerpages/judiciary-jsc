@@ -75,9 +75,17 @@ and
 click <strong><a href="https://form.gov.sg/68415c57dcbfd9408e859892" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
 register).
 <br>
-<br>The said sessions will be held in the Supreme Court and include a tea
-reception with Judges, JLCs and ex-JLCs. There will be a “Panel Discussion”
-segment for the session on 25 Aug 2025 and the Panellists are as follows:</p>
+</p>
+<p>The said sessions will be held in the Supreme Court and include a tea
+reception with Judges, JLCs and ex-JLCs (to facilitate close-up opportunities
+for questions and answers).</p>
+<p></p>
+<p><u>JLC Forum on 25 Aug 2025</u>
+</p>
+<p>Justice Kannan Ramesh will be gracing the session.&nbsp; There will also
+be a briefing/presentation on what the JLC Programme entails, followed
+by a “Panel Discussion”. The Panellists are as follows:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Judicial Commissioner Mohamed Faizal (Moderator)</p>
@@ -96,17 +104,18 @@ Law)</p>
 <p>Shaun Pereira (Counsel, Three Crowns)</p>
 </li>
 <li>
-<p>Sarah Siaw Ming Hui (Deputy Senior State Counsel / Deputy Public Prosecutor,
-AGC Advocacy Group)</p>
+<p>Norine Tan Yan Ling (Deputy Senior State Counsel / Deputy Public Prosecutor,
+AGC)</p>
 </li>
 <li>
-<p>Elton Tan Xue Yang (Assistant Registrar, Supreme Court Registry)
-<br>
-<br>
-</p>
-<p></p>
+<p>Elton Tan Xue Yang (Assistant Registrar, Supreme Court Registry)</p>
 </li>
 </ul>
+<p></p>
+<p>Do join us to learn more about the JLC Programme and how it can help equip
+individuals for success in the profession and act as a launchpad to varied
+career pathways!</p>
+<p></p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application </strong>
 <br><strong>[updated as at 17 Jul 2025 and subject to change]</strong>
 </p>
