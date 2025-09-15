@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Eligibility for Appointment
 variant: tiptap
 ---
-<p><strong>CANDIDATES WITH EXPERIENCE OF 4 YEARS OR LESS </strong>
+<p><strong>CANDIDATES WITH EXPERIENCE OF 4 YEARS OR LESS</strong>
 </p>
 <p>Candidates with four years or less of strong relevant legal work experience
 (and who fully satisfy the requirements/criteria specified under the section
