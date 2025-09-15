@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Eligibility for Appointment
 ---
-<p><strong>JUSTICES' LAW CLERK PROGRAMME</strong>
+<p><strong>JUSTICES' LAW CLERKS</strong>
 </p>
 <p>The Justices’ Law Clerk (“JLC”) Programme is a structured 2-year programme
 of the Singapore Judicial Service. Eligible young graduates who aspire
@@ -17,7 +17,7 @@ months of JLC-Designate training (generally from Sep to Dec), prior to
 the commencement of the 2-year JLC Programme the following Jan.</p>
 <p></p>
 <p><strong>JLC Recruitment Interviews in 2025 &amp;<br>Deadlines for Submission of Application</strong>
-<br><strong>[updated as at 17 Jul 2025 and subject to change]</strong>
+<br><strong>[updated as at 15 Sep 2025 and subject to change]</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -83,8 +83,7 @@ JLC cohort)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Sep 2025 &amp;
-<br>6 Oct 2025</p>
+<p>26 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 Aug 2025
@@ -95,7 +94,7 @@ JLC cohort)</p>
 </table>
 <p></p>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 17 Jul 2025]</strong>
+<br><strong>[updated as at 15 Sep 2025]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
@@ -119,5 +118,5 @@ Panel:
 <br>
 <br>(a) one or more Essays
 <br>[on 13 Jun 2025 (for purposes of the interviews in Jul 2025) and 18 Aug
-2025 (for purposes of the interviews in Sep/Oct 2025)]; and</p>
+2025 (for purposes of the interviews in Sep 2025)]; and</p>
 <p>(b) online psychometric assessment.</p>
