@@ -1,5 +1,5 @@
 ---
-title: JLCs
+title: JLC Programme
 permalink: /jlc-programme/
 variant: tiptap
 description: ""
