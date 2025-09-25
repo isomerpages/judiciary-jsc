@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Eligibility for Appointment
 ---
-<p><strong>JUSTICES' LAW CLERKS</strong>
+<p><strong>JUSTICES' LAW CLERK PROGRAMME </strong>
 </p>
 <p>The Justices’ Law Clerk (“JLC”) Programme is a structured 2-year programme
 of the Singapore Judicial Service. Eligible young graduates who aspire
