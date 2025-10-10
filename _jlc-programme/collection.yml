@@ -1,4 +1,5 @@
 collections:
   jlc-programme:
     output: true
-    order: []
+    order:
+      - Local University Graduates.md
