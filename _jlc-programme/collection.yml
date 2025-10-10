@@ -1,5 +1,5 @@
 collections:
-  jlcprogramme:
+  jlc-programme:
     output: true
     order:
       - Overseas University Graduates.md
