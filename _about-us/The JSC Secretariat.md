@@ -10,9 +10,6 @@ variant: markdown
 
 Mr Siva Shanmugam
 
-**Chief of Staff, Singapore Judicial Service:**
-
-Mr James Leong
 
 **Deputy Chief of Staff, Singapore Judicial Service:**
 
