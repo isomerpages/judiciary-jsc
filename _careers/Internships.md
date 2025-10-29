@@ -9,21 +9,17 @@ variant: markdown
 The Singapore Judicial Service offers internships to students studying for a recognised law degree [as stipulated under the Legal Profession (Qualified Persons) Rules]. 
 
 
-All applicants would need to complete an "Internship Application Form" (please click [here](https://go.gov.sg/sjs-internships-2025) for the said form).  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
+All applicants would need to complete an "Internship Application Form" (please click [[here]](https://go.gov.sg/sjsinternships2026) for the said form).  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
 
-Please note that the deadline for applications for the 2025 Singapore Judicial Service Internship Programmes was 31 Dec 2024. All applicants were notified of the outcome of their application by mid-Mar 2025.
+Please note that the deadline for applications for the 2026 Singapore Judicial Service Internship Programmes is 19 Dec 2025. All applicants will be notified of the outcome of their application by end-Jan 2026.
 
 All interns are eligible for a monthly “internship allowance” at the prevailing rate prescribed by the Public Service Division.  The quantum of the said monthly “internship allowance” will be pro-rated – based on the number of actual working hours in the month that the intern undertook the internship. 
 
 All queries may be directed to the Internship Manager of the Singapore Judicial Service at [jsc_sec@jsc.gov.sg](mailto:jsc_sec@jsc.gov.sg).
 <br>
 
-Details of the 2026 Internship Programmes are expected to be available from late-Oct 2025 and the deadline for applications is currently targeted for late-Nov 2025.  
 
-In the interim, details of the 2025 Internship Programmes are set out below for reference:
-
-
-**2025 Singapore Judicial Service Internship Programmes**
+**2026 Singapore Judicial Service Internship Programmes**
 
 **Judiciary Signature Programme <br>(at the State Courts, Family Justice Courts &amp; Supreme Court)**
 
@@ -56,7 +52,7 @@ In the interim, details of the 2025 Internship Programmes are set out below for 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.6pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">Law students from NUS / SMU / Scheduled Universities who are in their 2<sup>nd&nbsp;</sup> year of study and above <br><br><br></span></p></td></tr><tr style="mso-yfti-irow:2;height:58.0pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">Law students from NUS / SMU / Scheduled Universities who are in their 2<sup>nd&nbsp;</sup>year of study and above <br><br><br></span></p></td></tr><tr style="mso-yfti-irow:2;height:58.0pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:58.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -67,7 +63,7 @@ In the interim, details of the 2025 Internship Programmes are set out below for 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:58.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal;tab-stops:78.9pt 93.1pt"><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-fareast-language:EN-SG">State Courts: <span style="mso-spacerun:yes"></span>23 Jun 2025 – 4 Jul 2025<br>Supreme Court: 7 Jul 2025 – 18 Jul 2025<br>Family Justice Courts: <span style="mso-spacerun:yes"></span>21 Jul 2025 – 1 Aug 2025<br><br><br></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:42.5pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
+  mso-fareast-language:EN-SG">State Courts: <span style="mso-spacerun:yes"></span>22 Jun 2026 – 3 Jul 2026<br>Supreme Court: 6 Jul 2026 – 17 Jul 2026<br>Family Justice Courts: <span style="mso-spacerun:yes"></span>20 Jul 2026 – 31 Jul 2026<br><br><br></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:42.5pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:42.5pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -138,11 +134,11 @@ In the interim, details of the 2025 Internship Programmes are set out below for 
   padding:.75pt .75pt .75pt .75pt;height:51.3pt">
 <p class="MsoNormal" style="margin-bottom:0cm;line-height:18.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span>State Courts: 21 Jul 2025 – 25 Jul 2025
+  padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span>State Courts: 20 Jul 2026 – 24 Jul 2026
 </span><span style="font-size:
   12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-	padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span><br>&nbsp;Supreme Court: 28 Jul 2025 – 1 Aug 2025
+	padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span><br>&nbsp;Supreme Court: 27 Jul 2026 – 31 Jul 2026
  <span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm;mso-fareast-language:EN-SG">&nbsp;</span><span style="font-size:
@@ -201,7 +197,7 @@ In the interim, details of the 2025 Internship Programmes are set out below for 
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm;mso-fareast-language:EN-SG">&nbsp;</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm;mso-fareast-language:EN-SG">12 May 2025 – 6 Jun 2025</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:40.65pt"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
+  padding:0cm;mso-fareast-language:EN-SG">11 May 2026 – 5 Jun 2026</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:40.65pt"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
   height:40.65pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
   18.0pt"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
