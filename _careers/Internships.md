@@ -197,7 +197,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm;mso-fareast-language:EN-SG">&nbsp;</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm;mso-fareast-language:EN-SG">12 May 2025 – 6 Jun 2025</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:40.65pt"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
+  padding:0cm;mso-fareast-language:EN-SG">11 May 2026 – 5 Jun 2026</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:40.65pt"><td width="119" valign="top" style="width:89.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.0pt;padding:.75pt .75pt .75pt .75pt;
   height:40.65pt"><p class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
   18.0pt"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
