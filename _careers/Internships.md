@@ -52,7 +52,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.6pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">Law students from the NUS or the SMU who have successfully completed the first semester of their penultimate year of study <br><br><br></span></p></td></tr><tr style="mso-yfti-irow:2;height:58.0pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">Law students from NUS / SMU / Scheduled Universities who are in their 2<sup>nd&nbsp;</sup>year of study and above <br><br><br></span></p></td></tr><tr style="mso-yfti-irow:2;height:58.0pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:58.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
