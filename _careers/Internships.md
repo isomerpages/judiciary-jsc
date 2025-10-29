@@ -134,11 +134,11 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   padding:.75pt .75pt .75pt .75pt;height:51.3pt">
 <p class="MsoNormal" style="margin-bottom:0cm;line-height:18.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span>State Courts: 21 Jul 2025 – 25 Jul 2025
+  padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span>State Courts: 20 Jul 2026 – 24 Jul 2026
 </span><span style="font-size:
   12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-	padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span><br>&nbsp;Supreme Court: 28 Jul 2025 – 1 Aug 2025
+	padding:0cm;mso-fareast-language:EN-SG"><span style="mso-spacerun:yes">&nbsp; </span><br>&nbsp;Supreme Court: 27 Jul 2026 – 31 Jul 2026
  <span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
   padding:0cm;mso-fareast-language:EN-SG">&nbsp;</span><span style="font-size:
