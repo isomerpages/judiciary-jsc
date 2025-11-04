@@ -21,7 +21,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
 
 **2026 Singapore Judicial Service Internship Programmes**
 
-**Judiciary Signature Programme <br>(at the State Courts, Family Justice Courts &amp; Supreme Court)**
+**Judiciary Signature Programme <br>(at the State Courts, Supreme Court &amp; Family Justice Courts)**
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="623" style="width:467.55pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:286.8pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
@@ -41,7 +41,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Personal statement (not exceeding a page) setting out why you should be selected for the JSP</span></p><p class="MsoListParagraph" style="margin-top:0cm;margin-right:0cm;margin-bottom:
   0cm;margin-left:15.35pt;text-align:justify;text-indent:-14.2pt;line-height:
   normal;mso-list:l0 level1 lfo1;tab-stops:63.8pt"><span style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Video-recording (not exceeding 3 minutes) introducing yourself and setting out your views on how justice can be more effectively delivered in a post-pandemic era</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;margin-right:1.8pt;
+*   mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Video-recording (not exceeding 3 minutes) introducing yourself and setting out your views on how justice can be more effectively delivered in a post-pandemic era</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;margin-right:1.8pt;
   mso-margin-bottom-alt:auto;text-align:justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:1;height:45.6pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:45.6pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -52,7 +52,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:45.6pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;border:none windowtext 1.0pt;
-  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">Law students from NUS / SMU / Scheduled Universities who are in their 2<sup>nd&nbsp;</sup>year of study and above <br><br><br></span></p></td></tr><tr style="mso-yfti-irow:2;height:58.0pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:EN-SG">Law students who are in their 2<sup>nd&nbsp;</sup>year of study and above <br><br><br></span></p></td></tr><tr style="mso-yfti-irow:2;height:58.0pt"><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:58.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -105,7 +105,7 @@ All queries may be directed to the Internship Manager of the Singapore Judicial 
   padding:.75pt .75pt .75pt .75pt;height:449.75pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:4.6pt;margin-bottom:
   0cm;margin-left:7.8pt;text-align:justify;line-height:18.0pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;
-  padding:0cm;mso-fareast-language:EN-SG">You will have the opportunity to observe a wide variety of hearings conducted in the State Courts, including proceedings in the registries and open court matters. You will also have the opportunity to interact with Judicial Service officers and attend Master Classes for criminal and civil law cases.&nbsp;&nbsp;You may be required to assist in some project or research work undertaken by the Judiciary.</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:4.6pt;margin-bottom:
+  padding:0cm;mso-fareast-language:EN-SG">You will have the opportunity to observe a wide variety of hearings conducted in the State Courts, including proceedings in the registries and open court matters. You will also have the opportunity to interact with Judicial Service Officers and attend masterclasses for criminal and civil law cases.&nbsp;&nbsp;You may be required to assist in some project or research work undertaken by the Judiciary.</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:4.6pt;margin-bottom:
   0cm;margin-left:7.8pt;text-align:justify;line-height:18.0pt"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;border:
   none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm;
   mso-ansi-language:EN-US">&nbsp;</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
