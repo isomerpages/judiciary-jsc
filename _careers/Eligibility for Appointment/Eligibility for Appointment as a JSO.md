@@ -14,7 +14,7 @@ and have passed the DipSing or the Part A of the Singapore Bar Examinations
 and be a “qualified person” as defined in the Legal Profession Act 1966/the
 Legal Profession (Qualified Persons) Rules.</p>
 <p></p>
-<p><strong>Graduates with 4 years’ or less experience:</strong>
+<p><strong>Candidates with experience of 4 years or less:</strong>
 </p>
 <p>Candidates with four years or less of strong relevant legal work experience
 (and who fully satisfy the requirements/criteria specified at paragraph
