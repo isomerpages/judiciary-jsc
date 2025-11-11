@@ -9,7 +9,7 @@ variant: markdown
 The Singapore Judicial Service offers internships to students studying for a recognised law degree [as stipulated under the Legal Profession (Qualified Persons) Rules]. 
 
 
-All applicants would need to complete an "Internship Application Form" (please click [[here]](https://go.gov.sg/sjsinternships2026) for the said form).  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
+All applicants would need to complete an "Internship Application Form" (please click [here](https://go.gov.sg/sjsinternships2026) for the said form).  All applicants are requested to kindly review the “Guidance Notes” (set out in the said form) before completing and submitting an application. 
 
 Please note that the deadline for applications for the 2026 Singapore Judicial Service Internship Programmes is 19 Dec 2025. All applicants will be notified of the outcome of their application by end-Jan 2026.
 
