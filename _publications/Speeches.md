@@ -4,6 +4,16 @@ permalink: /publications/speeches/
 description: ""
 variant: tiptap
 ---
+<p><strong>2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Opening of the Legal Year 2026 - Speeches by <a href="https://go.gov.sg/agspeecholy2026" rel="noopener nofollow" target="_blank">The Honourable Attorney-General</a> and
+the <a href="https://go.gov.sg/lawsocpresidentaddoly2026" rel="noopener nofollow" target="_blank">President of the Law Society</a>,
+and the response of <a href="https://go.gov.sg/cjresponseoly2026" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice</a>
+</p>
+</li>
+</ul>
 <p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
