@@ -4,6 +4,16 @@ permalink: /publications/speeches/
 description: ""
 variant: tiptap
 ---
+<p><strong>2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Opening of the Legal Year 2026 - Speeches by <a href="/files/speeches/OLY_2026___AG_s_Speech.pdf" rel="noopener nofollow" target="_blank">The Honourable Attorney-General</a> and
+the <a href="/files/speeches/OLY_2026___Law_Soc_President_s_Address.pdf" rel="noopener nofollow" target="_blank">President of the Law Society</a>,
+and the response of <a href="/files/speeches/OLY_2026___CJ_s_Response.pdf" rel="noopener nofollow" target="_blank">The Honourable the Chief Justice</a>
+</p>
+</li>
+</ul>
 <p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
