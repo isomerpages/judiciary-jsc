@@ -127,20 +127,18 @@ of the Audit Committee.</p>
 						float: left;
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mr%20kwa%20chong%20seng.jpg">
 </div>
-<p>Mr Kwa Chong Seng is currently Chairman of 5-Hour International Corporation
-Private Limited and 5-Hour International Corporation Pte Ltd. He is a Director
-of Smart Energy Systems, Inc – a Delaware USA corporation. He is also Strategic
-Advisor to Renew Group Private Limited.</p>
-<p>Mr Kwa has an illustrious career in the Public Sector. &nbsp;He was appointed
+<p>Mr Kwa Chong Seng is currently Chairman of UBS Singapore of S.E.A. and
+<a href="http://UltraGreen.ai" rel="noopener noreferrer nofollow" target="_blank">UltraGreen.ai</a>Limited. He is also Director of 5-Hour International
+Corporation Private Limited and Smart Energy Systems, Inc – a Delaware
+USA corporation and a Strategic Advisor to Renew Group Private Limited.</p>
+<p>Mr Kwa has an illustrious career in the Public Sector. He was appointed
 a Member of the Public Service Commission in 1997 and stepped down as Deputy
-Chairman of the Public Service Commission in April 2023. &nbsp;He was a
-Board member of the Defence Science and Technology Agency (DSTA).&nbsp;
-He was Chairman of Singapore Exchange Limited (SGX) from 2016 to 2022 and
-Chairman of Singapore Technologies Engineering Ltd from 2013 to 2023. &nbsp;Mr
-Kwa was also Director/Deputy Chairman of Temasek Holdings Pte Ltd (1997
-to 2012), non-executive Director of DBS Group Holdings Ltd and DBS Bank
-Ltd (2003 to 2012) and Board Member of Seatown Holdings Pte Ltd (2012 to
-2021).</p>
+Chairman of the Public Service Commission in April 2023. He was a Board
+member of the Defence Science and Technology Agency (DSTA). He was Chairman
+of Singapore Exchange Limited (SGX) from 2016 to 2022 and Singapore Technologies
+Engineering Ltd from 2013 to 2023. Mr Kwa was also previously Director/Deputy
+Chairman of Temasek Holdings Pte Ltd, Director of DBS Group Holdings Ltd
+and DBS Bank Ltd and Board Member of Seatown Holdings Pte Ltd.</p>
 <p>Mr Kwa has more than 40 years’ experience in the petroleum industry. He
 started his career with Esso Singapore Pte Ltd in 1969, holding various
 roles in Logistics, Marketing and other parts of the downstream business
