@@ -128,9 +128,9 @@ of the Audit Committee.</p>
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mr%20kwa%20chong%20seng.jpg">
 </div>
 <p>Mr Kwa Chong Seng is currently Chairman of UBS Singapore of S.E.A. and
-<a href="http://UltraGreen.ai" rel="noopener noreferrer nofollow" target="_blank">UltraGreen.ai</a>Limited. He is also Director of 5-Hour International
-Corporation Private Limited and Smart Energy Systems, Inc – a Delaware
-USA corporation and a Strategic Advisor to Renew Group Private Limited.</p>
+UltraGreen.ai Limited. He is also Director of 5-Hour International Corporation
+Private Limited and Smart Energy Systems, Inc – a Delaware USA corporation
+and a Strategic Advisor to Renew Group Private Limited.</p>
 <p>Mr Kwa has an illustrious career in the Public Sector. He was appointed
 a Member of the Public Service Commission in 1997 and stepped down as Deputy
 Chairman of the Public Service Commission in April 2023. He was a Board
