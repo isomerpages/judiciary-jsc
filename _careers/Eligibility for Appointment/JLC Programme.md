@@ -76,7 +76,8 @@ The confirmation of the offer will be reviewed on the candidates’ completion
 of the law programme and being awarded the requisite qualifications.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14 Jul 2026 &amp; <br>15 Jul 2026</strong>
+<p><strong>14 Jul 2026 </strong>
+<br><strong>&amp; 15 Jul 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +98,8 @@ undertake the 4-month <strong>JLCD stint</strong>) before commencing the
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 Jul 2026 &amp; 17 Jul 2026</strong>
+<p><strong>16 Jul 2026 </strong>
+<br><strong>&amp; 17 Jul 2026</strong>
 </p>
 <p></p>
 </td>
