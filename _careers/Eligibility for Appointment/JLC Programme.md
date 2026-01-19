@@ -94,8 +94,8 @@ of the law programme and being awarded the requisite qualifications.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Available</strong> for appointment on
-<br><strong>1 Sep 2026</strong> (to undertake the
-<br>4-month <strong>JLCD stint</strong>) before commencing the 2-year
+<br><strong>1 Sep 2026</strong> to undertake the
+<br>4-month <strong>JLCD stint</strong>, before commencing the 2-year
 <br><strong>JLC Programme</strong> on <strong>1 Jan 2027</strong>
 </p>
 <p></p>
