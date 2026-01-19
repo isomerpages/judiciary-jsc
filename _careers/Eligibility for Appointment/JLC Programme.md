@@ -32,7 +32,7 @@ to us at <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" 
 your particulars (name, university and year of graduation).</p>
 <p></p>
 <p><strong>JLC Recruitment Interviews &amp;<br>Deadlines for Submission of Application</strong>
-<br><strong>[updated as at 19 Jan 2026 and subject to change]</strong>
+<br>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -144,7 +144,6 @@ of the Relevant Legal Training in the <strong>Singapore Judicial Service</strong
 via a <strong>secondment to</strong> the <strong>Singapore Legal Service</strong>.</p>
 <p></p>
 <p><strong>Documents to be provided</strong>
-<br><strong>[updated as at 19 Jan 2026]</strong>
 </p>
 <p>Please note that all eligible applicants are required to provide the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
