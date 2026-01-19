@@ -17,7 +17,7 @@ All interns are eligible for a monthly “internship allowance” at the prevail
 
 All queries may be directed to the Internship Manager of the Singapore Judicial Service at [jsc_sec@jsc.gov.sg](mailto:jsc_sec@jsc.gov.sg).
 
-The next internship run would be in 2027. The details would be available from late-Oct 2026. The Internship programmes offered this year are for reference in the interim:
+The next internship run would be in 2027. The details would be available from late-Oct 2026. The internship programmes offered this year are for reference in the interim:
 <br>
 
 **2026 Singapore Judicial Service Internship Programmes**
