@@ -146,7 +146,9 @@ Judicial Service on <strong>1 Sep</strong> to commence the <strong>JLCD stint</s
 to the commencement of the JLCD stint on 1 Sep, they can serve the equivalent
 of the Relevant Legal Training in the <strong>Singapore Judicial Service</strong> –
 via a <strong>secondment to</strong> the <strong>Singapore Legal Service</strong>.</p>
-<p></p>
+<p>
+<br>
+</p>
 <p></p>
 <p><strong>Documents to be provided</strong>
 </p>
