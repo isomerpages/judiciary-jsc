@@ -58,16 +58,14 @@ your particulars (name, university and year of graduation).</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Completed at least second year</strong> 
-<br>of law studies at a <strong>Scheduled University</strong>
+<p><strong>Completed at least second year</strong> of law studies at a <strong>Scheduled University</strong>
 </p>
 <p></p>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Available</strong> for appointment on
-<br><strong>1 Sep 2028 </strong>(<strong>after passing</strong> the
+<p><strong>Available</strong> for appointment on <strong>1 Sep 2028 </strong>(<strong>after passing</strong> the
 <br><strong>Part A</strong> of the Singapore Bar Examinations) to undertake
 the 4-month <strong>JLCD stint</strong>, before commencing the 2-year <strong>JLC Programme</strong> on <strong>1 Jan 2029</strong>
 </p>
@@ -92,10 +90,9 @@ of the law programme and being awarded the requisite qualifications.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Available</strong> for appointment on
-<br><strong>1 Sep 2026</strong> to undertake the 4-month <strong>JLCD stint</strong>,
-before commencing the 2-year
-<br><strong>JLC Programme</strong> on <strong>1 Jan 2027</strong>
+<p><strong>Available</strong> for appointment on <strong>1 Sep 2026</strong> to
+undertake the 4-month <strong>JLCD stint</strong>, before commencing the
+2-year <strong>JLC Programme</strong> on <strong>1 Jan 2027</strong>
 </p>
 <p></p>
 </li>
@@ -118,10 +115,9 @@ before commencing the 2-year
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Available</strong> for appointment on
-<br><strong>1 Sep 2027</strong> (<strong>after passing </strong>the
-<br><strong>Part A</strong> of the Singapore Bar Examinations, if applicable)
-to undertake the 4-month <strong>JLCD stint</strong>, before commencing
-the 2-year<strong> JLC Programme</strong> on <strong>1 Jan 2028</strong>
+<br><strong>1 Sep 2027</strong> (<strong>after passing </strong>the <strong>Part A</strong> of
+the Singapore Bar Examinations, if applicable) to undertake the 4-month <strong>JLCD stint</strong>,
+before commencing the 2-year<strong> JLC Programme</strong> on <strong>1 Jan 2028</strong>
 </p>
 <p></p>
 </li>
