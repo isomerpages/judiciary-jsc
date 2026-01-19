@@ -67,7 +67,7 @@ your particulars (name, university and year of graduation).</p>
 <li>
 <p><strong>Available</strong> for appointment on <strong>1 Sep 2028 </strong>(<strong>after passing</strong> the <strong>Part A</strong> of
 the Singapore Bar Examinations) to undertake the 4-month <strong>JLCD stint</strong>,
-before commencing the 2-year J<strong>LC Programme</strong> on <strong>1 Jan 2029</strong>
+before commencing the 2-year <strong>JLC Programme</strong> on <strong>1 Jan 2029</strong>
 </p>
 </li>
 </ul>
