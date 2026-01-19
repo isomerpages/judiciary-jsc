@@ -58,7 +58,8 @@ your particulars (name, university and year of graduation).</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Completed at least second year</strong> of law studies at a <strong>Scheduled University</strong>
+<p><strong>Completed at least second year</strong> 
+<br>of law studies at a <strong>Scheduled University</strong>
 </p>
 <p></p>
 </li>
@@ -66,9 +67,10 @@ your particulars (name, university and year of graduation).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Available</strong> for appointment on
-<br><strong>1 Sep 2028 </strong>(<strong>after passing</strong> the <strong>Part A</strong> of
-the Singapore Bar Examinations) to undertake the 4-month <strong>JLCD stint</strong>,
-before commencing the 2-year <strong>JLC Programme</strong> on <strong>1 Jan 2029</strong>
+<br><strong>1 Sep 2028 </strong>(<strong>after passing</strong> the
+<br><strong>Part A</strong> of the Singapore Bar Examinations) to undertake
+the 4-month <strong>JLCD stint</strong>, before commencing the 2-year <strong>JLC Programme</strong> on
+<br><strong>1 Jan 2029</strong>
 </p>
 </li>
 </ul>
