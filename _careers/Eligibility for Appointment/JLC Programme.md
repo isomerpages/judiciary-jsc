@@ -9,7 +9,7 @@ third_nav_title: Eligibility for Appointment
 </p>
 <p>The JLC Programme is a structured 2-year programme of the Singapore Judicial
 Service. Those who aspire to have the unique privilege of working closely
-with the Chief Justice and members of the Supreme Court Bench may submit
+with the Chief Justice and the Members of the Supreme Court Bench may submit
 an application for selection for deployment to the 2-year JLC Programme.</p>
 <p>If shortlisted for an interview and found suitable for appointment, candidates
 would be required to first undergo 4 months of JLC-Designate (“JLCD”) training
