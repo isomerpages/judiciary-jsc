@@ -170,10 +170,10 @@ shortlisting for an interview will be required to undertake the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
 Panel:
 <br>
-<br>(a) one or more Essays
+<br>(a) one or more Essays on:
 <br>(i) 5 Jun 2026 (for purposes of the interviews on 14 and 15 Jul 2026);
 <br>(ii) 9 Jun 2026 (for purposes of the interviews on 16 and 17 Jul 2026);
 and
 <br>(iii) 21 Aug 2026 (for purposes of the interviews on 29 Sep 2026); and</p>
 <p></p>
-<p>(b) online psychometric assessment.</p>
+<p>(b) an online psychometric assessment.</p>
