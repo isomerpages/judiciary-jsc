@@ -78,7 +78,8 @@ of the law programme and being awarded the requisite qualifications.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>14 Jul 2026 </strong>
-<br><strong>&amp; 15 Jul 2026</strong>
+<br><strong>&amp; </strong>
+<br><strong>15 Jul 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +102,8 @@ before commencing the 2-year <strong>JLC Programme</strong> on
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>16 Jul 2026 </strong>
-<br><strong>&amp; 17 Jul 2026</strong>
+<br><strong>&amp; </strong>
+<br><strong>17 Jul 2026</strong>
 </p>
 <p></p>
 </td>
