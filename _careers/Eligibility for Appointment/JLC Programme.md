@@ -71,7 +71,7 @@ before commencing the 2-year J<strong>LC Programme</strong> on <strong>1 Jan 202
 </p>
 </li>
 </ul>
-<p>Note: Successful candidates will be offered a “conditional” appointment.
+<p><u>Note</u>: Successful candidates will be offered a “conditional” appointment.
 The confirmation of the offer will be reviewed on the candidates’ completion
 of the law programme and being awarded the requisite qualifications.</p>
 </td>
