@@ -20,9 +20,63 @@ JLC Programme the following Jan.</p>
 <p><strong>JLC Information Session: 14 May 2026 (3.45 pm - 6 pm)</strong>
 </p>
 <p>This will be held at the Supreme Court, with a remote stream for those
-who are unable to attend physically. Judicial Commissioner Mohamed Faizal
-and a number of JLCs/ex-JLCs will be sharing their experiences. There will
-also be a tea reception at the end.</p>
+who are unable to attend physically. The programme is tentatively as follows:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.45 pm – 4 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing by JSC Secretariat (on the Judicial Service &amp; JLC Programme)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 pm – 5 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing of experiences by JLCs &amp; in-Service ex-JLCs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 pm – 5.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing of experiences by former JLCs:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Judicial Commissioner Mohamed Faizal, Senior Counsel</strong>
+</p>
+</li>
+<li>
+<p><strong>Jason Chan, Senior Counsel</strong> (Partner at Allen &amp; Gledhill;
+&nbsp;practice area – complex commercial litigation, investigations &amp;
+arbitration)</p>
+</li>
+<li>
+<p><strong>Tan Liang Ying</strong> (Partner at Seladore Legal; specialisation
+– international arbitration, international law &amp; complex cross-border
+disputes)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.30 pm – 6 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Question &amp; Answer over Tea Reception</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For those from the 2026 LLB and JD graduating cohorts at the NUS or the
 SMU, the invite to the session will be extended to you through the university.</p>
 <p>All others who are interested to attend the session (e.g. undergraduates
