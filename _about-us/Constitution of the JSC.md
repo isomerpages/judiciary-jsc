@@ -2,6 +2,7 @@
 title: Constitution of the JSC
 permalink: /about-us/constitution-of-the-jsc/
 description: ""
+variant: markdown
 ---
 # Constitution of the Judicial Service Commission
 (wef 14 Jan 2022)
@@ -24,8 +25,8 @@ Judge, Supreme Court
 Judge, Supreme Court
 *  Justice Philip Antony Jeyaretnam,
 Judge, Supreme Court
-* Mrs Deborah Ong
 * Mr Kwa Chong Seng
+* Mrs Deborah Ong
 * Mr Dilhan Pillay Sandrasegara
 
 **Secretary**, **JSC**:
