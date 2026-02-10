@@ -213,13 +213,25 @@ Panel:</p>
 size 14) - setting out why he/she is applying for the 2-year JLC Programme,
 his/her views on what the work as a JLC entails and why he/she thinks he/she
 is suitable for the position, and his/her biggest aspirations on completion
-of the JLC Programme; and</p>
+of the JLC Programme;</p>
 <p>(c) academic references/testimonials
 <br>from two Professors of Law in support of the application (of not more
 than one page each [all applicants are kindly requested to convey this
 one-page limit specified by the Interview Panel to the Professors concerned])
 to be provided by the Professors directly to the Secretary, Judicial Service
-Commission at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>.</p>
+Commission ("JSC") at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>;
+and</p>
+<p>(d) additional information / character reference –</p>
+<p>(i) applicants from the local universities are to advise via email (when
+submitting their application) on a Professor / Teaching Faculty who knows
+them sufficiently well and would be available to complete by mid-Jun 2026
+an assessment form (to be issued by the JSC Secretariat through the university);
+and</p>
+<p>(ii) applicants from the Scheduled Universities are encouraged to request
+an academic adviser from the university to provide - directly to the Secretary,
+JSC at the JSC Secretariat’s email at <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> - a character reference
+(of not more than a page) in support of their application.</p>
+<p></p>
 <p>Please also note that eligible applicants who are earmarked for possible
 shortlisting for an interview will be required to undertake the following
 for the consideration of the relevant Judicial Service Shortlisting/Interview
