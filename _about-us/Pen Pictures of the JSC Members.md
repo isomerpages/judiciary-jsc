@@ -83,6 +83,39 @@ Law (Singapore) from 2002 to 2004 and served as the President of the Law
 Society from 2004 to 2007. From 2009 to 2020, he was a Member of the Public
 Service Commission and from 2012, has been a Member of the Presidential
 Council for Minority Rights.</p>
+<p><strong>Mr Kwa Chong Seng</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:150px;
+            height:180px;
+						float: left;
+						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mr%20kwa%20chong%20seng.jpg">
+</div>
+<p>Mr Kwa Chong Seng is currently Chairman of UBS Singapore of S.E.A. and
+UltraGreen.ai Limited. He is also Director of 5-Hour International Corporation
+Private Limited and Smart Energy Systems, Inc – a Delaware USA corporation
+and a Strategic Advisor to Renew Group Private Limited.</p>
+<p>Mr Kwa has an illustrious career in the Public Sector. He was appointed
+a Member of the Public Service Commission in 1997 and stepped down as Deputy
+Chairman of the Public Service Commission in April 2023. He was a Board
+member of the Defence Science and Technology Agency (DSTA). He was Chairman
+of Singapore Exchange Limited (SGX) from 2016 to 2022 and Singapore Technologies
+Engineering Ltd from 2013 to 2023. Mr Kwa was also previously Director/Deputy
+Chairman of Temasek Holdings Pte Ltd, Director of DBS Group Holdings Ltd
+and DBS Bank Ltd and Board Member of Seatown Holdings Pte Ltd.</p>
+<p>Mr Kwa has more than 40 years’ experience in the petroleum industry. He
+started his career with Esso Singapore Pte Ltd in 1969, holding various
+roles in Logistics, Marketing and other parts of the downstream business
+before becoming Chairman and Managing Director in 1992. He held this post
+until 1999 when he became Chairman and Managing Director of ExxonMobil
+Asia Pacific Pte Ltd. He retired from this position in 2011.</p>
+<p>In 1994, Mr Kwa was awarded the Distinguished Engineering Alumni Award
+by the National University of Singapore. In 1999, he was conferred the
+Honorary Ningbo Citizenship. Mr Kwa was also awarded The Public Service
+Star in 2005, The Public Service Star (Bar) in 2016 and The Distinguished
+Service Order in 2023, by the Singapore Government.</p>
+<p>Mr Kwa graduated from the University of Singapore with a Mechanical Engineering
+degree. He is a Fellow of the Academy of Engineering Singapore.</p>
 <p><strong>Mrs Deborah Ong</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -119,39 +152,6 @@ Agency and Deputy Chairperson of the National Parks Board. She was also
 the Deputy Chairperson of the Ngee Ann Polytechnic Council and Chairperson
 of the Audit Committee.</p>
 <p>Mrs Ong was awarded The Public Service Star in 2020 by the Singapore Government.</p>
-<p><strong>Mr Kwa Chong Seng</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:150px;
-            height:180px;
-						float: left;
-						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mr%20kwa%20chong%20seng.jpg">
-</div>
-<p>Mr Kwa Chong Seng is currently Chairman of UBS Singapore of S.E.A. and
-UltraGreen.ai Limited. He is also Director of 5-Hour International Corporation
-Private Limited and Smart Energy Systems, Inc – a Delaware USA corporation
-and a Strategic Advisor to Renew Group Private Limited.</p>
-<p>Mr Kwa has an illustrious career in the Public Sector. He was appointed
-a Member of the Public Service Commission in 1997 and stepped down as Deputy
-Chairman of the Public Service Commission in April 2023. He was a Board
-member of the Defence Science and Technology Agency (DSTA). He was Chairman
-of Singapore Exchange Limited (SGX) from 2016 to 2022 and Singapore Technologies
-Engineering Ltd from 2013 to 2023. Mr Kwa was also previously Director/Deputy
-Chairman of Temasek Holdings Pte Ltd, Director of DBS Group Holdings Ltd
-and DBS Bank Ltd and Board Member of Seatown Holdings Pte Ltd.</p>
-<p>Mr Kwa has more than 40 years’ experience in the petroleum industry. He
-started his career with Esso Singapore Pte Ltd in 1969, holding various
-roles in Logistics, Marketing and other parts of the downstream business
-before becoming Chairman and Managing Director in 1992. He held this post
-until 1999 when he became Chairman and Managing Director of ExxonMobil
-Asia Pacific Pte Ltd. He retired from this position in 2011.</p>
-<p>In 1994, Mr Kwa was awarded the Distinguished Engineering Alumni Award
-by the National University of Singapore. In 1999, he was conferred the
-Honorary Ningbo Citizenship. Mr Kwa was also awarded The Public Service
-Star in 2005, The Public Service Star (Bar) in 2016 and The Distinguished
-Service Order in 2023, by the Singapore Government.</p>
-<p>Mr Kwa graduated from the University of Singapore with a Mechanical Engineering
-degree. He is a Fellow of the Academy of Engineering Singapore.</p>
 <p><strong>Mr Dilhan Pillay Sandrasegara</strong>
 </p>
 <div class="isomer-image-wrapper">
