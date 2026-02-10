@@ -219,7 +219,7 @@ of the JLC Programme;</p>
 than one page each [all applicants are kindly requested to convey this
 one-page limit specified by the Interview Panel to the Professors concerned])
 to be provided by the Professors directly to the Secretary, Judicial Service
-Commission ("JSC") at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>;
+Commission (“JSC”) at the JSC Secretariat’s email at&nbsp;<a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jsc_sec@jsc.gov.sg</u></a>;
 and</p>
 <p>(d) additional information / character reference –</p>
 <p>(i) applicants from the local universities are to advise via email (when
