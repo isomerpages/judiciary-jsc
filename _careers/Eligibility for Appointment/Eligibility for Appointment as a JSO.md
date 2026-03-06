@@ -10,22 +10,22 @@ Judicial Service as a Judicial Service Officer (“JSO”) are that the applican
 should have graduated with a law degree from:</p>
 <p>(a) the NUS, the SMU or the SUSS; or</p>
 <p>(b) a Scheduled University in England, Australia, New Zealand or the USA
-and have passed the DipSing or the Part A of the Singapore Bar Examinations
-and be a “qualified person” as defined in the Legal Profession Act 1966/the
+and have passed the DipSing or the Part A of the Singapore Bar Examinations</p>
+<p>and be a “qualified person” as defined in the Legal Profession Act 1966/the
 Legal Profession (Qualified Persons) Rules.</p>
 <p></p>
 <p><strong>Candidates with experience of 4 years or less:</strong>
 </p>
 <p>Candidates with four years or less of strong relevant legal work experience
-(and who fully satisfy the requirements/criteria specified at paragraph
-1 above) may apply to be considered for possible shortlisting for an interview
-for appointment as a JSO.</p>
+(and who fully satisfy the requirements/criteria specified above) may apply
+to be considered for possible shortlisting for an interview for appointment
+as a JSO.</p>
 <p><strong>Mid-Careers with more than 4 years’ experience:</strong>
 </p>
 <p>Mid-career candidates with more than four years of strong relevant legal
 work experience (and who fully satisfy the requirements/criteria specified
-at paragraph 1 above) may also apply to be considered for possible shortlisting
-for an interview for appointment as a JSO.</p>
+above) may also apply to be considered for possible shortlisting for an
+interview for appointment as a JSO.</p>
 <p><strong>2-stage Selection Process</strong>
 </p>
 <p><u>Stage 1: Recruitment Interviews</u>
