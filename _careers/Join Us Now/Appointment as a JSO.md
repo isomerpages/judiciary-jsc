@@ -43,9 +43,9 @@ of justice; and</p>
 <p>Candidates identified at the interviews for the next stage of the selection
 process&nbsp;would be required to:</p>
 <p>(a) complete a written assignment via email ahead of the JSSP; and</p>
-<p>(b) be physically present in Singapore to attend the JSSP<strong> </strong>to
-enable the Judicial Service to better assess their suitability for a judicial
-appointment. The <strong>JSSP</strong> would be on <strong>6 May 2026</strong>.</p>
+<p>(b) be physically present in Singapore to attend the JSSP to enable the
+Judicial Service to better assess their suitability for a judicial appointment.
+The JSSP would be on 6 May 2026.</p>
 <p>The next recruitment exercise will be in Oct/Nov 2026. The details will
 be available from May 2026.</p>
 <p>&nbsp;</p>
