@@ -33,7 +33,8 @@ interview for appointment as a JSO.</p>
 <p>The next set of <strong>recruitment interviews</strong> for applicants who
 are shortlisted for an interview would be on <strong>9 Apr 2026</strong>.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview were required to <strong>submit</strong> their <strong>application</strong>.
+an interview were required to <strong>submit</strong> their <strong>application </strong>by
+5pm on 18 Feb 2026.
 <br>
 </p>
 <p>Please note that all applicants are required to provide/include in their
