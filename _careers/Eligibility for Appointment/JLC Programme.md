@@ -51,7 +51,7 @@ who are unable to attend physically. The programme is tentatively as follows:</p
 <p>Sharing of experiences by former JLCs:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Judicial Commissioner Mohamed Faizal, Senior Counsel</strong>
+<p><strong>Justice Mohamed Faizal, Senior Counsel</strong>
 </p>
 </li>
 <li>
