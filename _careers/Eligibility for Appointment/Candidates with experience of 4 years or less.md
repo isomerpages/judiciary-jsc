@@ -34,9 +34,8 @@ and the needs of the Judicial Service.</p>
 </p>
 <p>The next set of recruitment interviews for applicants who are shortlisted
 for an interview is on 9 Apr 2026.</p>
-<p>Applicants who are keen to be considered for possible shortlisting for
-an interview were required to submit their application by 5 pm on 18 Feb
-2026.</p>
+<p>Applicants who wish to be considered for possible shortlisting for an
+interview were required to submit their application by 5 pm on 18 Feb 2026.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
