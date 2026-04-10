@@ -24,12 +24,13 @@ criteria, be considered for possible emplacement on the permanent establishment.
 <p></p>
 <p><strong>2-stage Selection Process</strong>
 </p>
-<p><u>Stage 1: Recruitment Interviews</u>
+<p><u>Stage 1: (for shortlisted candidates): Recruitment Interviews</u>
 </p>
-<p>The next set of <strong>recruitment interviews</strong> for applicants who
-are shortlisted for an interview would be on <strong>9 Apr 2026</strong>.</p>
+<p>The next set of recruitment interviews for applicants who are shortlisted
+for an interview is on 9 Apr 2026.</p>
 <p>Applicants who are keen to be considered for possible shortlisting for
-an interview would be required to <strong>submit</strong> their <strong>application by</strong>  <strong>5 pm </strong>on <strong>18 Feb 2026</strong>.</p>
+an interview were required to submit their application by 5 pm on 18 Feb
+2026.</p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
 Panel - the following (in not more than one page each [in Arial; font size
@@ -40,12 +41,13 @@ Panel - the following (in not more than one page each [in Arial; font size
 and what he/she can contribute to the Judicial Service and the administration
 of justice; and</p>
 <p>(c) a summary of his/her legal work experience (where applicable).</p>
-<p><u>Stage 2: Written Assignment &amp; Judicial Service Selection Programme&nbsp;</u>(<u>“JSSP”</u>)</p>
-<p>Candidates identified at the interviews for the next stage of the selection
-process would be required to:</p>
+<p><u>Stage 2: (for candidates who pass Stage 1): Written Assignment &amp; Judicial Service Selection Programme&nbsp;</u>(<u>“JSSP”</u>)</p>
+<p>Candidates who “clear” the interviews (i.e. stage 1 of the selection process)
+are required to:</p>
 <p>(a) complete a written assignment via email ahead of the JSSP; and</p>
-<p>(b) be physically present in Singapore to attend the JSSP <strong> </strong>to
-enable the Judicial Service to better assess their suitability for a judicial
-appointment. The <strong>JSSP</strong> would be on <strong>6 May 2026</strong>.</p>
+<p>(b) ) be physically present in Singapore to attend the JSSP (group dialogue
+session hosted by the relevant Interview Panel) on 6 May 2026 to enable
+the Judicial Service to better assess their suitability for a judicial
+appointment.</p>
 <p>The next recruitment exercise will be in Oct/Nov 2026. The details will
 be available from May 2026.</p>
