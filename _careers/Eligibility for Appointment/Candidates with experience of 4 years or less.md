@@ -57,8 +57,8 @@ session hosted by the relevant Interview Panel) to enable the Judicial
 Service to better assess their suitability for a judicial appointment.
 The next JSSP would be on 15 Oct 2026.
 <br>
-<br>The next recruitment exercise is currently targeted for Apr/May 2027.
-The details will be available from Oct/Nov 2026.</p>
+<br>TThe following recruitment exercise is currently targeted for Apr/May
+2027. The details will be available from Oct/Nov 2026.</p>
 <p></p>
 <p></p>
 <p></p>
