@@ -92,11 +92,11 @@ Council for Minority Rights.</p>
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mr%20kwa%20chong%20seng.jpg">
 </div>
 <p>Mr Kwa Chong Seng is currently Chairman of UBS AG Singapore and S.E.A.
-and also the Chairman of <a href="http://UltraGreen.ai" rel="noopener noreferrer nofollow" target="_blank">UltraGreen.ai</a> Private Limited. He is also
-Director of Oman Investment Authority, K7xperc Consulting Pte Ltd and Smart
-Energy Systems, Inc – a Delaware USA corporation, a Strategic Advisor to
-Renew Group Private Limited and Advisor to Dymon Asia Private Equity (S.E,
-Asia) Fund II Private Limited.</p>
+and Chairman of <a href="http://UltraGreen.ai" rel="noopener noreferrer nofollow" target="_blank">UltraGreen.ai</a> Pte
+Ltd. He is also Director of Oman Investment Authority, K7xperc Consulting
+Pte Ltd and Smart Energy Systems, Inc – a Delaware USA corporation, a Strategic
+Advisor to Renew Group Pte Ltd and Advisor to Dymon Asia Private Equity
+(S.E, Asia) Fund II Pte Ltd.</p>
 <p>Mr Kwa has an illustrious career in the Public Sector. He was appointed
 a Member of the Public Service Commission in 1997 and stepped down as Deputy
 Chairman of the Public Service Commission in April 2023. He was a Board
