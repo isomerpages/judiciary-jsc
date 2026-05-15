@@ -77,12 +77,6 @@ disputes)</p>
 </tr>
 </tbody>
 </table>
-<p>For those from the 2026 LLB and JD graduating cohorts at the NUS or the
-SMU, the invite to the session will be extended to you through the university.</p>
-<p>All others who are interested to attend the session (e.g. undergraduates
-from the Scheduled Universities, law graduates) are invited to write in
-to us at <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> with
-your particulars (name, university and year of graduation).</p>
 <p></p>
 <p><strong>JLC Recruitment Interviews &amp;<br>Deadlines for Submission of Application</strong>
 <br>
