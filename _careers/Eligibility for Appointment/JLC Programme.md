@@ -19,8 +19,8 @@ JLC Programme the following Jan.</p>
 <p></p>
 <p><strong>JLC Information Session: 14 May 2026 (3.45 pm - 6 pm)</strong>
 </p>
-<p>This will be held at the Supreme Court, with a remote stream for those
-who are unable to attend physically. The programme is tentatively as follows:</p>
+<p>This was held at the Supreme Court, with a remote stream for those who
+are unable to attend physically:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -77,12 +77,6 @@ disputes)</p>
 </tr>
 </tbody>
 </table>
-<p>For those from the 2026 LLB and JD graduating cohorts at the NUS or the
-SMU, the invite to the session will be extended to you through the university.</p>
-<p>All others who are interested to attend the session (e.g. undergraduates
-from the Scheduled Universities, law graduates) are invited to write in
-to us at <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> with
-your particulars (name, university and year of graduation).</p>
 <p></p>
 <p><strong>JLC Recruitment Interviews &amp;<br>Deadlines for Submission of Application</strong>
 <br>
@@ -224,9 +218,9 @@ and</p>
 <p>(d) additional information / character reference –</p>
 <p>(i) applicants from the local universities are to advise via email (when
 submitting their application) on a Professor / Teaching Faculty who knows
-them sufficiently well and would be available to complete by mid-Jun 2026
-an assessment form (to be issued by the JSC Secretariat through the university);
-and</p>
+them sufficiently well in terms of non-academic attributes (e.g. character)
+and would be available to complete by mid-Jun 2026 an assessment form (to
+be issued by the JSC Secretariat through the university); and</p>
 <p>(ii) applicants from the Scheduled Universities are encouraged to request
 an academic adviser from the university to provide - directly to the Secretary,
 JSC at the JSC Secretariat’s email at <a href="mailto:jsc_sec@jsc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jsc_sec@jsc.gov.sg</a> - a character reference
