@@ -20,7 +20,7 @@ JLC Programme the following Jan.</p>
 <p><strong>JLC Information Session: 14 May 2026 (3.45 pm - 6 pm)</strong>
 </p>
 <p>This was held at the Supreme Court, with a remote stream for those who
-are unable to attend physically:</p>
+were unable to attend physically:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
