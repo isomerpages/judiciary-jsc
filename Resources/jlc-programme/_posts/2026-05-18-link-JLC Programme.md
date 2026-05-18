@@ -1,6 +1,6 @@
 ---
 title: JLC Programme
-date: 2026-05-15
+date: 2026-05-18
 layout: link
 description: ""
 image: ""
