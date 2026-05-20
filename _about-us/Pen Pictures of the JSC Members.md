@@ -127,11 +127,12 @@ degree. He is a Fellow of the Academy of Engineering Singapore.</p>
 						margin-right:15px;" height="auto" width="100%" src="/images/pen%20pictures/mrs%20deborah%20ong.jpg">
 </div>
 <p>Mrs Deborah Ong is currently a Board Member of and chairs the Audit and
-Risk Committees of SkillsFuture Singapore, Workforce Singapore and the
-Lee Kong Chian School of Medicine at the Nanyang Technological University.
-She is the Chairperson of the Institute for Human Resource Professionals
-Ltd, a Board member of the Monetary Authority of Singapore and also an
-independent director of SATS Ltd and Starhub Ltd.</p>
+Risk Committees of SkillsFuture Singapore. She is the Chairperson of the
+Institute for Human Resource Professionals Ltd and a Board member of the
+Monetary Authority of Singapore. In addition, she is an independent director
+of CapitaLand India Trust Management Pte Ltd, Wah Hin and Company Pte Ltd,
+SATS Ltd and Starhub Ltd. She is also a trustee for the Wealth Management
+Institute Ltd.</p>
 <p>Mrs Ong has over 30 years of public accounting experience, providing audit
 and advisory services to clients in various industries. She had also held
 leadership positions in PwC Singapore and in the Global Network, having
@@ -149,11 +150,13 @@ shifts in managing the people agenda. An advocate of coaching culture,
 she worked closely with her fellow Partners to create a conducive environment
 encouraging staff development.</p>
 <p>Mrs Ong was previously a Board Member and the Chairperson of the Audit
-and Risk Committee of the Singapore Tourism Board and the Council for Estate
-Agency and Deputy Chairperson of the National Parks Board. She was also
-the Deputy Chairperson of the Ngee Ann Polytechnic Council and Chairperson
-of the Audit Committee.</p>
+and Risk Committee of the Singapore Tourism Board, Workforce Singapore,
+the Lee Kong Chian School of Medicine at the Nanyang Technological University
+and the Council for Estate Agency and Deputy Chairperson of the National
+Parks Board. She was also the Deputy Chairperson of the Ngee Ann Polytechnic
+Council and Chairperson of the Audit Committee.</p>
 <p>Mrs Ong was awarded The Public Service Star in 2020 by the Singapore Government.</p>
+<p></p>
 <p><strong>Mr Dilhan Pillay Sandrasegara</strong>
 </p>
 <div class="isomer-image-wrapper">
