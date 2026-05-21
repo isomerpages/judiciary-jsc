@@ -135,8 +135,8 @@ SATS Ltd and Starhub Ltd. She is also a trustee for the Wealth Management
 Institute Ltd.</p>
 <p>Mrs Ong has over 30 years of public accounting experience, providing audit
 and advisory services to clients in various industries. She had also held
-leadership positions in PwC Singapore and in the Global Network, having
-retired as a Partner of PricewaterhouseCoopers LLP Singapore.</p>
+leadership positions in PricewaterhouseCoopers ("PwC") Singapore and in
+the Global Network, having retired as a Partner of PWC LLP Singapore.</p>
 <p>Mrs Ong has vast international exposure with her role as International
 Team Leader in the Global Assurance Quality – Inspections Group of PwC.
 In this role, she interacted with the PwC Leadership of a portfolio of
