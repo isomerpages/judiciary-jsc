@@ -8,7 +8,7 @@ variant: markdown
 height:160px;
 float:left;
 margin-right:15px">
-[Judicial Service Commission Annual Report 2024](/files/JSC_AR_2024___Final.pdf)
+[Judicial Service Commission Annual Report 2025](/files/ar/JSC_AR_2025___Final.pdf)
 
 
 <br><br><br>
