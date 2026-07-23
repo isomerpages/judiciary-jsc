@@ -36,7 +36,7 @@ and the needs of the Judicial Service.</p>
 for an interview would be on 10 Sep 2026.</p>
 <p></p>
 <p>Applicants who wish to be considered for possible shortlisting for an
-interview are required to submit their application by 8 am on 20 Jul 2026.</p>
+interview were required to submit their application by 8 am on 20 Jul 2026.</p>
 <p></p>
 <p>Please note that all applicants are required to provide/include in their
 application - for the consideration of the relevant Shortlisting/Interview
@@ -55,10 +55,10 @@ are required to:</p>
 <p>(b) be physically present in Singapore to attend the JSSP (a group dialogue
 session hosted by the relevant Interview Panel) to enable the Judicial
 Service to better assess their suitability for a judicial appointment.
-The next JSSP would be on 15 Oct 2026.
+The next JSSP would be on 8 Oct 2026.
 <br>
-<br>TThe following recruitment exercise is currently targeted for Apr/May
-2027. The details will be available from Oct/Nov 2026.</p>
+<br>The following recruitment exercise is currently targeted for Apr/May 2027.
+The details will be available from Oct/Nov 2026.</p>
 <p></p>
 <p></p>
 <p></p>
