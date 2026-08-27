@@ -1,0 +1,6 @@
+collections:
+  publications:
+    output: true
+    order:
+      - Annual Reports.md
+      - Speeches.md

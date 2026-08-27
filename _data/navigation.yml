@@ -1,0 +1,12 @@
+logo: /images/homepage/singapore judicial service (2).png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Structure
+    collection: structure
+  - title: Careers
+    collection: careers
+  - title: Publications
+    collection: publications
+  - title: Useful Links
+    collection: useful-links
